@@ -1,3 +1,11 @@
+hysteria2://9c31bc02-977d-4beb-bb3f-0bea9d9a4ef0@de1.jueduibupao.top:47754?insecure=1&sni=de1.jueduibupao.top&alpn=h3#[tcp][HY][alpn_h3] DE_2 | ⬇️ 3.8MB/s t.me/rjsxrd
+hysteria2://9c31bc02-977d-4beb-bb3f-0bea9d9a4ef0@hk1.jueduibupao.top:50001?insecure=1&sni=hk1.jueduibupao.top&alpn=h2#[tcp][HY][alpn_h2] HK_10 | ⬇️ 1.4MB/s t.me/rjsxrd
+hysteria2://9c31bc02-977d-4beb-bb3f-0bea9d9a4ef0@hk1.jueduibupao.top:50001?insecure=1&sni=hk1.jueduibupao.top&alpn=h3#[tcp][HY][alpn_h3] HK_10 | ⬇️ 1.4MB/s t.me/rjsxrd
+hysteria2://9c31bc02-977d-4beb-bb3f-0bea9d9a4ef0@kr2.jueduibupao.top:30000?insecure=1&sni=kr2.jueduibupao.top&alpn=h2#[tcp][HY][alpn_h2] KR_4 | ⬇️ 2.2MB/s t.me/rjsxrd
+hysteria2://9c31bc02-977d-4beb-bb3f-0bea9d9a4ef0@kr2.jueduibupao.top:30000?insecure=1&sni=kr2.jueduibupao.top&alpn=h3#[tcp][HY][alpn_h3] KR_4 | ⬇️ 2.2MB/s t.me/rjsxrd
+hysteria2://9c31bc02-977d-4beb-bb3f-0bea9d9a4ef0@linjp1.jueduibupao.top:41960?insecure=1&sni=linjp1.jueduibupao.top&alpn=h2#[tcp][HY][alpn_h2] JP_3 | ⬇️ 2.3MB/s t.me/rjsxrd
+hysteria2://9c31bc02-977d-4beb-bb3f-0bea9d9a4ef0@linjp1.jueduibupao.top:41960?insecure=1&sni=linjp1.jueduibupao.top&alpn=h3#[tcp][HY][alpn_h3] JP_3 | ⬇️ 2.3MB/s t.me/rjsxrd
+hysteria2://9c31bc02-977d-4beb-bb3f-0bea9d9a4ef0@linjp2.jueduibupao.top:30000?insecure=1&sni=linjp2.jueduibupao.top&alpn=h2#[tcp][HY][alpn_h2] JP_2 | ⬇️ 2.4MB/s t.me/rjsxrd
 hysteria2://9c31bc02-977d-4beb-bb3f-0bea9d9a4ef0@linjp2.jueduibupao.top:30000?insecure=1&sni=linjp2.jueduibupao.top&alpn=h3#[tcp][HY][alpn_h3] JP_2 | ⬇️ 2.4MB/s t.me/rjsxrd
 hysteria2://9c31bc02-977d-4beb-bb3f-0bea9d9a4ef0@linsg1.jueduibupao.top:42879?insecure=1&sni=linsg1.jueduibupao.top&alpn=h2#[tcp][HY][alpn_h2] SG_1 | ⬇️ 2.7MB/s t.me/rjsxrd
 hysteria2://9c31bc02-977d-4beb-bb3f-0bea9d9a4ef0@linsg1.jueduibupao.top:42879?insecure=1&sni=linsg1.jueduibupao.top&alpn=h3#[tcp][HY][alpn_h3] SG_1 | ⬇️ 2.7MB/s t.me/rjsxrd
@@ -790,11 +798,3 @@ hysteria2://dec336f6-e5da-40f4-a4de-986c7b34d587@fr4.eyucdn.xyz:2056?security=tl
 hysteria2://dongtaiwang.com@108.181.5.130:4710?security=tls&insecure=1&sni=apple.com&alpn=h2#[tcp][HY][alpn_h2] IRAN 9 (@Outline_Vpn) t.me/rjsxrd
 hysteria2://dongtaiwang.com@108.181.5.130:4710?security=tls&insecure=1&sni=apple.com&alpn=h3#[tcp][HY][alpn_h3] IRAN 9 (@Outline_Vpn) t.me/rjsxrd
 hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1&security=tls&alpn=h2#[tcp][HY][alpn_h2] Sh🇫🇷 t.me/rjsxrd
-hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1&security=tls&alpn=h3#[tcp][HY][alpn_h3] Sh🇫🇷 t.me/rjsxrd
-hysteria2://be81e21d-02d8-4a60-a07e-c2202a50a549@yjjdhl.yunjijd.xyz:26923?security=tls&insecure=1&sni=yjjdhl.yunjijd.xyz&alpn=h2#[tcp][HY][alpn_h2] @vpnv2r4y✔️㉿ ᵛᵖⁿ یوتیوب♣️ t.me/rjsxrd
-hysteria2://be81e21d-02d8-4a60-a07e-c2202a50a549@yjjdhl.yunjijd.xyz:26923?security=tls&insecure=1&sni=yjjdhl.yunjijd.xyz&alpn=h3#[tcp][HY][alpn_h3] @vpnv2r4y✔️㉿ ᵛᵖⁿ یوتیوب♣️ t.me/rjsxrd
-hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?security=tls&insecure=1&mport=49999-65000&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] @vpnv2r4y✔️㉿ ᵛᵖⁿ یوتیوب♦️ t.me/rjsxrd
-hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?security=tls&insecure=1&mport=49999-65000&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] @vpnv2r4y✔️㉿ ᵛᵖⁿ یوتیوب♦️ t.me/rjsxrd
-hysteria2://nfsn666@45.207.222.138:8888?security=tls&insecure=1&sni=hk.nfsn666.gq&alpn=h2#[tcp][HY][alpn_h2] @vpnv2r4y✔️㉿ ᵛᵖⁿ یوتیوب♥️ t.me/rjsxrd
-hysteria2://nfsn666@45.207.222.138:8888?security=tls&insecure=1&sni=hk.nfsn666.gq&alpn=h3#[tcp][HY][alpn_h3] @vpnv2r4y✔️㉿ ᵛᵖⁿ یوتیوب♥️ t.me/rjsxrd
-hysteria2://f2812c88-f678-4c64-98c9-ac42d8dab6ca@45.147.200.61:29015?security=tls&insecure=1&sni=anten.ir&alpn=h2#[tcp][HY][alpn_h2] ✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree t.me/rjsxrd
