@@ -1,3 +1,5 @@
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=0&obfs=salamander&obfs-password=salamander&sni=YAPC-1.afshin.ir&alpn=h3#[tcp][HY][alpn_h3] >>@configV2rayNG::NL t.me/rjsxrd
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=1&obfs=salamander&obfs-password=salamander&sni=YAPC-1.afshin.ir&alpn=h2#[tcp][HY][alpn_h2] 新西兰 t.me/rjsxrd
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=1&obfs=salamander&obfs-password=salamander&sni=YAPC-1.afshin.ir&alpn=h3#[tcp][HY][alpn_h3] 新西兰 t.me/rjsxrd
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=1&obfs=salamander&obfs-password=salamander&sni=YAPC-1.afshin.ir&alpn=h2#[tcp][HY][alpn_h2] 新西兰 t.me/rjsxrd
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=1&obfs=salamander&obfs-password=salamander&sni=YAPC-1.afshin.ir&alpn=h3#[tcp][HY][alpn_h3] 新西兰 t.me/rjsxrd
@@ -796,5 +798,3 @@ hysteria2://1947e8a2-f868-4ef5-8024-21c9dfa27450@tr-01.cloudlion.me:8005?alpn=h2
 hysteria2://1947e8a2-f868-4ef5-8024-21c9dfa27450@tr-01.cloudlion.me:8005?alpn=h3#[tcp][HY][alpn_h3] 🇹🇷TR | @V2ray_Collector t.me/rjsxrd
 hysteria2://28c05d48e2f470d07a4c392c9bd43849@jostar-data.nl:443?security=tls&insecure=0&alpn=h2#[tcp][HY][alpn_h2] ⚡️ @ConfigV2RayNG (Hysteria) t.me/rjsxrd
 hysteria2://28c05d48e2f470d07a4c392c9bd43849@jostar-data.nl:443?security=tls&insecure=0&alpn=h3#[tcp][HY][alpn_h3] ⚡️ @ConfigV2RayNG (Hysteria) t.me/rjsxrd
-hysteria2://28c05d48e2f470d07a4c392c9bd43849@jostar-data.nl:443?security=tls&insecure=0&sni=jostar-data.nl&alpn=h2#[tcp][HY][alpn_h2] 🇩🇪 (@ConfigV2RayNG) ⚡ t.me/rjsxrd
-hysteria2://28c05d48e2f470d07a4c392c9bd43849@jostar-data.nl:443?security=tls&insecure=0&sni=jostar-data.nl&alpn=h3#[tcp][HY][alpn_h3] 🇩🇪 (@ConfigV2RayNG) ⚡ t.me/rjsxrd

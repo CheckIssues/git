@@ -1,3 +1,5 @@
+hysteria2://315145c5-a004-4b93-9c3b-be0670c94324@mf1.ylccloud.top:16090?insecure=0&sni=mf1.ylccloud.top&alpn=h3#[tcp][HY][alpn_h3] 美國 21 t.me/rjsxrd
+hysteria2://315145c5-a004-4b93-9c3b-be0670c94324@mf1.ylccloud.top:16090?insecure=1&sni=mf1.ylccloud.top&alpn=h2#[tcp][HY][alpn_h2] 美國 t.me/rjsxrd
 hysteria2://315145c5-a004-4b93-9c3b-be0670c94324@mf1.ylccloud.top:16090?insecure=1&sni=mf1.ylccloud.top&alpn=h3#[tcp][HY][alpn_h3] 美國 t.me/rjsxrd
 hysteria2://31e03220-caa2-409d-8fa9-ae5016d2702b@154.85.18.233:443?insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] 日本 #1 t.me/rjsxrd
 hysteria2://31e03220-caa2-409d-8fa9-ae5016d2702b@154.85.18.233:443?insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] 日本 #1 t.me/rjsxrd
@@ -796,5 +798,3 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?insecure=0&obfs=sala
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?insecure=1&obfs=salamander&obfs-password=salamander&sni=YAPC-1.afshin.ir&alpn=h2#[tcp][HY][alpn_h2] 新西兰 t.me/rjsxrd
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?insecure=1&obfs=salamander&obfs-password=salamander&sni=YAPC-1.afshin.ir&alpn=h3#[tcp][HY][alpn_h3] 新西兰 t.me/rjsxrd
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=0&obfs=salamander&obfs-password=salamander&sni=YAPC-1.afshin.ir&alpn=h2#[tcp][HY][alpn_h2] >>@configV2rayNG::NL t.me/rjsxrd
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=0&obfs=salamander&obfs-password=salamander&sni=YAPC-1.afshin.ir&alpn=h3#[tcp][HY][alpn_h3] >>@configV2rayNG::NL t.me/rjsxrd
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?insecure=1&obfs=salamander&obfs-password=salamander&sni=YAPC-1.afshin.ir&alpn=h2#[tcp][HY][alpn_h2] 新西兰 t.me/rjsxrd

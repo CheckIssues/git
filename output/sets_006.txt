@@ -1,3 +1,5 @@
+hysteria2://28c05d48e2f470d07a4c392c9bd43849@jostar-data.nl:443?security=tls&insecure=0&sni=jostar-data.nl&alpn=h2#[tcp][HY][alpn_h2] 🇩🇪 (@ConfigV2RayNG) ⚡ t.me/rjsxrd
+hysteria2://28c05d48e2f470d07a4c392c9bd43849@jostar-data.nl:443?security=tls&insecure=0&sni=jostar-data.nl&alpn=h3#[tcp][HY][alpn_h3] 🇩🇪 (@ConfigV2RayNG) ⚡ t.me/rjsxrd
 hysteria2://3db2d115-1db9-457d-850f-818b73228f67@5.180.78.153:443?security=tls&insecure=1&mport=50000-53000&sni=api.push.apple.com&alpn=h2#[tcp][HY][alpn_h2] 🍉49@ConfigV2RayNG t.me/rjsxrd
 hysteria2://3db2d115-1db9-457d-850f-818b73228f67@5.180.78.153:443?security=tls&insecure=1&mport=50000-53000&sni=api.push.apple.com&alpn=h3#[tcp][HY][alpn_h3] 🍉49@ConfigV2RayNG t.me/rjsxrd
 hysteria2://536a1e178ea00bf2@95.217.211.216:443?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=05462d067f21387c&alpn=h2#[tcp][HY][alpn_h2] 🇫🇮FI | hy2 | @TUICity | 12 t.me/rjsxrd
@@ -796,5 +798,3 @@ hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?secur
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=pichondan.com&alpn=h3#[tcp][HY][alpn_h3] 🔒 HYSTERIA-UDP 🇩🇪 DE-77.90.52.69:35000 t.me/rjsxrd
 hysteria2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001?security=tls&insecure=1&sni=192-227-152-86.nip.io&alpn=h2#[tcp][HY][alpn_h2] 47_Salavat_Befrest t.me/rjsxrd
 hysteria2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001?security=tls&insecure=1&sni=192-227-152-86.nip.io&alpn=h3#[tcp][HY][alpn_h3] 47_Salavat_Befrest t.me/rjsxrd
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&alpn=h2#[tcp][HY][alpn_h2] 🇳🇱 Netherlands - Amsterdam 🌍 HY2-UDP-TLS 4⃣ t.me/rjsxrd
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir&alpn=h3#[tcp][HY][alpn_h3] 🇳🇱 Netherlands - Amsterdam 🌍 HY2-UDP-TLS 4⃣ t.me/rjsxrd

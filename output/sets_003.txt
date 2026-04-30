@@ -1,3 +1,5 @@
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@63.176.102.174:443/?insecure=1&sni=vpn-de-002.fastervpn.world&alpn=h3#[tcp][HY][alpn_h3] 🏳️ ShatakVPN 780807 t.me/rjsxrd
+hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@107.167.18.123:1743?security=tls&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&alpn=h2#[tcp][HY][alpn_h2] 🇺🇸 [AS46844] Sharktech #1 (227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk) t.me/rjsxrd
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@107.167.18.123:1743?security=tls&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&alpn=h3#[tcp][HY][alpn_h3] 🇺🇸 [AS46844] Sharktech #1 (227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk) t.me/rjsxrd
 hysteria2://dongtaiwang.com@89.144.35.25:33550?security=tls&sni=apple.com&alpn=h2#[tcp][HY][alpn_h2] 🇳🇱 [AS214639] ITM NORD AS #1 (apple.com) t.me/rjsxrd
 hysteria2://dongtaiwang.com@89.144.35.25:33550?security=tls&sni=apple.com&alpn=h3#[tcp][HY][alpn_h3] 🇳🇱 [AS214639] ITM NORD AS #1 (apple.com) t.me/rjsxrd
@@ -168,8 +170,6 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&alpn=h3#[tcp][HY][alpn_h3] All-&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#V2rayAlpha--20 t.me/rjsxrd
 hysteria2://SNItest@46.243.232.105:443?insecure=1&sni=gosuslugi.ru&alpn=h2#[tcp][HY][alpn_h2] @Arshiavpn12 جوین شو قطع نشی #1 t.me/rjsxrd
 hysteria2://SNItest@46.243.232.105:443?insecure=1&sni=gosuslugi.ru&alpn=h3#[tcp][HY][alpn_h3] @Arshiavpn12 جوین شو قطع نشی #1 t.me/rjsxrd
-hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com:443?insecure=0&sni=22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com&alpn=h2#[tcp][HY][alpn_h2] All--@V2rayAlpha--25 t.me/rjsxrd
-hysteria2://8e0f8ef2-5fe3-11ec-a8bf-f23c91cfbbc9@22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com:443?insecure=0&sni=22f48047-t6pb40-tasftf-duku.hk1.hyhuawei.com&alpn=h3#[tcp][HY][alpn_h3] All--@V2rayAlpha--25 t.me/rjsxrd
 hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?insecure=1&sni=dd.ircybersec.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&alpn=h2#[tcp][HY][alpn_h2] All-@V2rayAlpha-26 t.me/rjsxrd
 hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989?insecure=1&sni=dd.ircybersec.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&alpn=h3#[tcp][HY][alpn_h3] All-@V2rayAlpha-26 t.me/rjsxrd
 hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743?insecure=0&sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk&alpn=h2#[tcp][HY][alpn_h2] 🔸@IRAN_V2RAY1💘 #2 t.me/rjsxrd
@@ -511,6 +511,8 @@ hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?sni=iij.mgg
 hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?sni=iij.mggl.wang&obfs=none&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 190-🇯🇵 JP🐭@GheychiAmoozesh t.me/rjsxrd
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96&alpn=h2#[tcp][HY][alpn_h2] 🩵+@Azarakhsh_Proxy+🩷 t.me/rjsxrd
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96&alpn=h3#[tcp][HY][alpn_h3] 🩵+@Azarakhsh_Proxy+🩷 t.me/rjsxrd
+hysteria2://c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9@72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com:443?security=tls&insecure=0&sni=72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com&alpn=h2#[tcp][HY][alpn_h2] telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆¹ t.me/rjsxrd
+hysteria2://c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9@72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com:443?security=tls&insecure=0&sni=72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com&alpn=h3#[tcp][HY][alpn_h3] telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆¹ t.me/rjsxrd
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org%40freenettir&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&alpn=h2#[tcp][HY][alpn_h2] کانال تلگرام : Free_VPN_CH@ t.me/rjsxrd
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org%40freenettir&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&alpn=h3#[tcp][HY][alpn_h3] کانال تلگرام : Free_VPN_CH@ t.me/rjsxrd
 hysteria2://da231013-aef8-4c83-abfd-8d844545fe3a@132.145.52.10:65535/?insecure=1&sni=www.microsoft.com&alpn=h2#[tcp][HY][alpn_h2] 🚜15@oneclickvpnkeys t.me/rjsxrd
@@ -796,5 +798,3 @@ hysteria2://2fc13fd3-f056-42a6-a7d4-9105fe1d915b@yd.jjzcloud.top:57338?insecure=
 hysteria2://30cdb1ec-b009-47f9-b7d3-abe14737a246@wmg2.wanlidag.top:5555?insecure=1&sni=wmg2.wanlidag.top&alpn=h2#[tcp][HY][alpn_h2] ❓Other_19 | ⬇️ 7.7MB/s t.me/rjsxrd
 hysteria2://30cdb1ec-b009-47f9-b7d3-abe14737a246@wmg2.wanlidag.top:5555?insecure=1&sni=wmg2.wanlidag.top&alpn=h3#[tcp][HY][alpn_h3] ❓Other_19 | ⬇️ 7.7MB/s t.me/rjsxrd
 hysteria2://315145c5-a004-4b93-9c3b-be0670c94324@mf1.ylccloud.top:16090?insecure=0&sni=mf1.ylccloud.top&alpn=h2#[tcp][HY][alpn_h2] 美國 21 t.me/rjsxrd
-hysteria2://315145c5-a004-4b93-9c3b-be0670c94324@mf1.ylccloud.top:16090?insecure=0&sni=mf1.ylccloud.top&alpn=h3#[tcp][HY][alpn_h3] 美國 21 t.me/rjsxrd
-hysteria2://315145c5-a004-4b93-9c3b-be0670c94324@mf1.ylccloud.top:16090?insecure=1&sni=mf1.ylccloud.top&alpn=h2#[tcp][HY][alpn_h2] 美國 t.me/rjsxrd
