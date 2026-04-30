@@ -1,9 +1,3 @@
-hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-ru.yuetoto.net:21012?insecure=1&sni=yue-ru.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] RU_9 | ⬇️ 5.9MB/s t.me/rjsxrd
-hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-ru.yuetoto.net:21012?insecure=1&sni=yue-ru.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] RU_9 | ⬇️ 5.9MB/s t.me/rjsxrd
-hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-sg.yuetoto.net:21025?insecure=1&sni=yue-sg.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] SG_16 | ⬇️ 6.0MB/s t.me/rjsxrd
-hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-sg.yuetoto.net:21025?insecure=1&sni=yue-sg.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] SG_16 | ⬇️ 6.0MB/s t.me/rjsxrd
-hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-sg.yuetoto.net:21075?insecure=1&sni=yue-sg.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] SG_17 | ⬇️ 6.3MB/s t.me/rjsxrd
-hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-sg.yuetoto.net:21075?insecure=1&sni=yue-sg.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] SG_17 | ⬇️ 6.3MB/s t.me/rjsxrd
 hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-th.yuetoto.net:21066?insecure=1&sni=yue-th.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] TH_2 | ⬇️ 2.8MB/s t.me/rjsxrd
 hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-th.yuetoto.net:21066?insecure=1&sni=yue-th.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] TH_2 | ⬇️ 2.8MB/s t.me/rjsxrd
 hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-th.yuetoto.net:21091?insecure=1&sni=yue-th.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] TH_1 | ⬇️ 2.9MB/s t.me/rjsxrd
@@ -798,3 +792,9 @@ hysteria2://a8857d81-140c-4c6c-aa4e-190a7773c1e8@wels1.wanlidag.top:5555?insecur
 hysteria2://a8857d81-140c-4c6c-aa4e-190a7773c1e8@wels1.wanlidag.top:5555?insecure=1&sni=wels1.wanlidag.top&alpn=h3#[tcp][HY][alpn_h3] 美國 t.me/rjsxrd
 hysteria2://a914681a-8dda-4c98-8468-c313f5539b14@sg3.eyucdn.xyz:2056?insecure=1&sni=sg3.eyucdn.xyz&alpn=h2#[tcp][HY][alpn_h2] 新加坡 #2 t.me/rjsxrd
 hysteria2://a914681a-8dda-4c98-8468-c313f5539b14@sg3.eyucdn.xyz:2056?insecure=1&sni=sg3.eyucdn.xyz&alpn=h3#[tcp][HY][alpn_h3] 新加坡 #2 t.me/rjsxrd
+hysteria2://a9d90262-a45f-4a73-8038-417d512402d7@banmabanmabanmabanmabanmabanma1.wanlidag.top:54265?insecure=1&sni=banmabanmabanmabanmabanmabanma1.wanlidag.top&alpn=h2#[tcp][HY][alpn_h2] [Hy2]斑马白嫖-美国 t.me/rjsxrd
+hysteria2://a9d90262-a45f-4a73-8038-417d512402d7@banmabanmabanmabanmabanmabanma1.wanlidag.top:54265?insecure=1&sni=banmabanmabanmabanmabanmabanma1.wanlidag.top&alpn=h3#[tcp][HY][alpn_h3] [Hy2]斑马白嫖-美国 t.me/rjsxrd
+hysteria2://a9d90262-a45f-4a73-8038-417d512402d7@banmabanmabanmabanmabanmabanma2.wanlidag.top:54265?insecure=1&sni=banmabanmabanmabanmabanmabanma2.wanlidag.top&alpn=h2#[tcp][HY][alpn_h2] [Hy2]斑马白嫖-德国 t.me/rjsxrd
+hysteria2://a9d90262-a45f-4a73-8038-417d512402d7@banmabanmabanmabanmabanmabanma2.wanlidag.top:54265?insecure=1&sni=banmabanmabanmabanmabanmabanma2.wanlidag.top&alpn=h3#[tcp][HY][alpn_h3] [Hy2]斑马白嫖-德国 t.me/rjsxrd
+hysteria2://aa57ea6d-0218-4e7d-bb8e-c7864f8e3e38@xjp1.xiaohuolongjc.top:37771?insecure=1&sni=xjp1.xiaohuolongjc.top&alpn=h2#[tcp][HY][alpn_h2] US_37 | ⬇️ 1.0MB/s t.me/rjsxrd
+hysteria2://aa57ea6d-0218-4e7d-bb8e-c7864f8e3e38@xjp1.xiaohuolongjc.top:37771?insecure=1&sni=xjp1.xiaohuolongjc.top&alpn=h3#[tcp][HY][alpn_h3] US_37 | ⬇️ 1.0MB/s t.me/rjsxrd

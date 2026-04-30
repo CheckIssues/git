@@ -1,9 +1,3 @@
-hysteria2://a060b3f7-551e-4a7f-8138-fef404c5b012@212.192.15.176:33079?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&alpn=h3#[tcp][HY][alpn_h3] Channel id: @ShadowProxy66🇺🇸 #3 t.me/rjsxrd
-hysteria2://eb86def3-d6ff-4582-9ecd-3cf61812640e@banmabanmabanmabanmabanmabanma2.wanlidag.top:54265?insecure=1&sni=banmabanmabanmabanmabanmabanma2.wanlidag.top&alpn=h2#[tcp][HY][alpn_h2] Channel id: @ShadowProxy66🇩🇪 t.me/rjsxrd
-hysteria2://eb86def3-d6ff-4582-9ecd-3cf61812640e@banmabanmabanmabanmabanmabanma2.wanlidag.top:54265?insecure=1&sni=banmabanmabanmabanmabanmabanma2.wanlidag.top&alpn=h3#[tcp][HY][alpn_h3] Channel id: @ShadowProxy66🇩🇪 t.me/rjsxrd
-hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?insecure=0&sni=chervhill.hajalii.com&obfs=salamander&obfs-password=xFGh9dsyreJV9sMs1RUnFbwRdon&alpn=h2#[tcp][HY][alpn_h2] @Mr_Config_Group✌️ t.me/rjsxrd
-hysteria2://10822856-7452-43ec-b35b-6f24ea33530f@chervhill.hajalii.com:29662?insecure=0&sni=chervhill.hajalii.com&obfs=salamander&obfs-password=xFGh9dsyreJV9sMs1RUnFbwRdon&alpn=h3#[tcp][HY][alpn_h3] @Mr_Config_Group✌️ t.me/rjsxrd
-hysteria2://4ba709e6-6186-412d-a79d-bf256c7df57c@hsdg.huasuan666.top:22155?insecure=1&sni=hsdg.huasuan666.top&alpn=h2#[tcp][HY][alpn_h2] All-@V2rayAlpha--7 t.me/rjsxrd
 hysteria2://4ba709e6-6186-412d-a79d-bf256c7df57c@hsdg.huasuan666.top:22155?insecure=1&sni=hsdg.huasuan666.top&alpn=h3#[tcp][HY][alpn_h3] All-@V2rayAlpha--7 t.me/rjsxrd
 hysteria2://4ba709e6-6186-412d-a79d-bf256c7df57c@hsels.huasuan666.top:22160?insecure=1&sni=hsels.huasuan666.top&alpn=h2#[tcp][HY][alpn_h2] All-@V2rayAlpha--10 t.me/rjsxrd
 hysteria2://4ba709e6-6186-412d-a79d-bf256c7df57c@hsels.huasuan666.top:22160?insecure=1&sni=hsels.huasuan666.top&alpn=h3#[tcp][HY][alpn_h3] All-@V2rayAlpha--10 t.me/rjsxrd
@@ -431,8 +425,12 @@ hysteria2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com&alpn
 hysteria2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com&alpn=h3#[tcp][HY][alpn_h3] %3E%3E%40oneclickvpnkeys::FR t.me/rjsxrd
 hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92&alpn=h2#[tcp][HY][alpn_h2] %3E%3E%40oneclickvpnkeys::US t.me/rjsxrd
 hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92&alpn=h3#[tcp][HY][alpn_h3] %3E%3E%40oneclickvpnkeys::US t.me/rjsxrd
+hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50&alpn=h2#[tcp][HY][alpn_h2] 🇳🇱 The Netherlands [SNI-RU] eh.vk.com t.me/rjsxrd
+hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50&alpn=h3#[tcp][HY][alpn_h3] 🇳🇱 The Netherlands [SNI-RU] eh.vk.com t.me/rjsxrd
 hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&upmbps=10&downmbps=50&alpn=h2#[tcp][HY][alpn_h2] 🇳🇱 The Netherlands [SNI-RU] eh.vk.com t.me/rjsxrd
 hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&upmbps=10&downmbps=50&alpn=h3#[tcp][HY][alpn_h3] 🇳🇱 The Netherlands [SNI-RU] eh.vk.com t.me/rjsxrd
+hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&insecure=1&sni=eh.vk.com&alpn=h2#[tcp][HY][alpn_h2] 🇳🇱 The Netherlands [SNI-RU] eh.vk.com t.me/rjsxrd
+hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&insecure=1&sni=eh.vk.com&alpn=h3#[tcp][HY][alpn_h3] 🇳🇱 The Netherlands [SNI-RU] eh.vk.com t.me/rjsxrd
 hysteria2://dongtaiwang.com@62.210.99.49:40088?insecure=1&sni=apple.com&alpn=h2#[tcp][HY][alpn_h2] 👉🆔 @v2ray_configs_pool 📡 🇫🇷FR 🧭 5.3MB/s t.me/rjsxrd
 hysteria2://dongtaiwang.com@62.210.99.49:40088?insecure=1&sni=apple.com&alpn=h3#[tcp][HY][alpn_h3] 👉🆔 @v2ray_configs_pool 📡 🇫🇷FR 🧭 5.3MB/s t.me/rjsxrd
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?insecure=1&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&alpn=h2#[tcp][HY][alpn_h2] 👉🆔 @v2ray_configs_pool 📡 🇺🇸US 🧭 4.0MB/s t.me/rjsxrd
@@ -798,3 +796,5 @@ hysteria2://9bb452b106ffc217@207.148.22.93:443?insecure=1&obfs=salamander&obfs-p
 hysteria2://18240b2dfdd76484@70.34.207.153:443?insecure=1&obfs=salamander&obfs-password=d2648ec2&alpn=h2#[tcp][HY][alpn_h2] r♡ya@vpnmarket t.me/rjsxrd
 hysteria2://18240b2dfdd76484@70.34.207.153:443?insecure=1&obfs=salamander&obfs-password=d2648ec2&alpn=h3#[tcp][HY][alpn_h3] r♡ya@vpnmarket t.me/rjsxrd
 hysteria2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@158.180.69.174:52773/?sni=h01.trojan.tel&insecure=1&alpn=h2#[tcp][HY][alpn_h2] Watashi⚡️VPN-KR🇰🇷 t.me/rjsxrd
+hysteria2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@158.180.69.174:52773/?sni=h01.trojan.tel&insecure=1&alpn=h3#[tcp][HY][alpn_h3] Watashi⚡️VPN-KR🇰🇷 t.me/rjsxrd
+hysteria2://29ac9b7e-b5ef-42e6-8c11-00441d6af76f@45.144.2.154:52773/?sni=ssrsub.h04.trojan.tel&insecure=1&alpn=h2#[tcp][HY][alpn_h2] Watashi⚡️VPN-RU🇷🇺 t.me/rjsxrd
