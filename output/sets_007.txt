@@ -1,3 +1,18 @@
+hysteria2://dongtaiwang.com@51.158.205.126:4489?sni=www.bing.com&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷法国2 | ⬇️ 4.2MB/s t.me/rjsxrd
+hysteria2://dongtaiwang.com@51.158.205.126:4489?sni=www.bing.com&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷法国2 | ⬇️ 4.2MB/s t.me/rjsxrd
+hysteria2://d9fe1f5e-8f0f-41b6-95f6-d90aa0404924@75.127.13.83:45551?sni=www.bing.com&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇺🇸美国17 | ⬇️ 5.4MB/s t.me/rjsxrd
+hysteria2://d9fe1f5e-8f0f-41b6-95f6-d90aa0404924@75.127.13.83:45551?sni=www.bing.com&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇺🇸美国17 | ⬇️ 5.4MB/s t.me/rjsxrd
+hysteria2://dongtaiwang.com@46.29.163.171:30033?sni=www.bing.com&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇷🇺俄罗斯1 | ⬇️ 4.0MB/s t.me/rjsxrd
+hysteria2://dongtaiwang.com@46.29.163.171:30033?sni=www.bing.com&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇷🇺俄罗斯1 | ⬇️ 4.0MB/s t.me/rjsxrd
+hysteria2://b72e0a66-c660-4a26-9acc-8f106cee0ab9@170.64.222.252:52111?sni=www.bing.com&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇦🇺澳大利亚1 | ⬇️ 4.1MB/s t.me/rjsxrd
+hysteria2://b72e0a66-c660-4a26-9acc-8f106cee0ab9@170.64.222.252:52111?sni=www.bing.com&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇦🇺澳大利亚1 | ⬇️ 4.1MB/s t.me/rjsxrd
+hysteria2://857612aa-9ca5-46df-b976-8b887fdf8625@185.85.242.177:1443?sni=gbr1.587458.xyz&insecure=0&alpn=h2#[tcp][HY][alpn_h2] 🇬🇧英国4 | ⬇️ 7.6MB/s t.me/rjsxrd
+hysteria2://857612aa-9ca5-46df-b976-8b887fdf8625@185.85.242.177:1443?sni=gbr1.587458.xyz&insecure=0&alpn=h3#[tcp][HY][alpn_h3] 🇬🇧英国4 | ⬇️ 7.6MB/s t.me/rjsxrd
+hysteria2://dongtaiwang.com@195.154.33.70:4489?sni=www.bing.com&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷法国5 | ⬇️ 4.4MB/s t.me/rjsxrd
+hysteria2://dongtaiwang.com@195.154.33.70:4489?sni=www.bing.com&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷法国5 | ⬇️ 4.4MB/s t.me/rjsxrd
+hysteria2://nfsn666@ld-arm.nfsn666.gq:8888?sni=ld-arm.nfsn666.gq&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇬🇧英国5 | ⬇️ 9.6MB/s t.me/rjsxrd
+hysteria2://nfsn666@ld-arm.nfsn666.gq:8888?sni=ld-arm.nfsn666.gq&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇬🇧英国5 | ⬇️ 9.6MB/s t.me/rjsxrd
+hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@2ef15a2a-svi800-sw77c8-dnss.la.shifen.uk:1443?sni=2ef15a2a-svi800-sw77c8-dnss.la.shifen.uk&insecure=0&alpn=h2#[tcp][HY][alpn_h2] 🇺🇸美国36 | ⬇️ 13.5MB/s t.me/rjsxrd
 hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@2ef15a2a-svi800-sw77c8-dnss.la.shifen.uk:1443?sni=2ef15a2a-svi800-sw77c8-dnss.la.shifen.uk&insecure=0&alpn=h3#[tcp][HY][alpn_h3] 🇺🇸美国36 | ⬇️ 13.5MB/s t.me/rjsxrd
 hysteria2://nfsn666@sj-arm.nfsn666.gq:8888?sni=sj-arm.nfsn666.gq&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇺🇸美国10 | ⬇️ 3.4MB/s t.me/rjsxrd
 hysteria2://nfsn666@sj-arm.nfsn666.gq:8888?sni=sj-arm.nfsn666.gq&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇺🇸美国10 | ⬇️ 3.4MB/s t.me/rjsxrd
@@ -483,10 +498,8 @@ hysteria2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com&alpn
 hysteria2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com&alpn=h3#[tcp][HY][alpn_h3] %3E%3E%40oneclickvpnkeys::FR t.me/rjsxrd
 hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92&alpn=h2#[tcp][HY][alpn_h2] %3E%3E%40oneclickvpnkeys::US t.me/rjsxrd
 hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92&alpn=h3#[tcp][HY][alpn_h3] %3E%3E%40oneclickvpnkeys::US t.me/rjsxrd
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&alpn=h2#[tcp][HY][alpn_h2] 🇳🇱 The Netherlands [SNI-RU] eh.vk.com t.me/rjsxrd
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&alpn=h3#[tcp][HY][alpn_h3] 🇳🇱 The Netherlands [SNI-RU] eh.vk.com t.me/rjsxrd
-hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&insecure=1&sni=eh.vk.com&alpn=h2#[tcp][HY][alpn_h2] 🇳🇱 The Netherlands [SNI-RU] eh.vk.com t.me/rjsxrd
-hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&insecure=1&sni=eh.vk.com&alpn=h3#[tcp][HY][alpn_h3] 🇳🇱 The Netherlands [SNI-RU] eh.vk.com t.me/rjsxrd
+hysteria2://hy2_o3qkn50k%3AJHufrljCQ86KeMfvRZnqFXPJxKIky2Xi@lv2.cleanersaz.help:443?insecure=1&sni=washing.help&alpn=h2#[tcp][HY][alpn_h2] 🇱🇻 Latvia [*CIDR] t.me/rjsxrd
+hysteria2://hy2_o3qkn50k%3AJHufrljCQ86KeMfvRZnqFXPJxKIky2Xi@lv2.cleanersaz.help:443?insecure=1&sni=washing.help&alpn=h3#[tcp][HY][alpn_h3] 🇱🇻 Latvia [*CIDR] t.me/rjsxrd
 hysteria2://dongtaiwang.com@62.210.99.49:40088?insecure=1&sni=apple.com&alpn=h2#[tcp][HY][alpn_h2] 👉🆔 @v2ray_configs_pool 📡 🇫🇷FR 🧭 5.3MB/s t.me/rjsxrd
 hysteria2://dongtaiwang.com@62.210.99.49:40088?insecure=1&sni=apple.com&alpn=h3#[tcp][HY][alpn_h3] 👉🆔 @v2ray_configs_pool 📡 🇫🇷FR 🧭 5.3MB/s t.me/rjsxrd
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743?insecure=1&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&alpn=h2#[tcp][HY][alpn_h2] 👉🆔 @v2ray_configs_pool 📡 🇺🇸US 🧭 4.0MB/s t.me/rjsxrd
@@ -785,16 +798,3 @@ hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@205.178.183.33:443/?insecure=1&
 hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@205.178.183.33:443/?insecure=1&sni=www.microsoft.com&alpn=h3#[tcp][HY][alpn_h3] 🇯🇵日本-0.1-gpt t.me/rjsxrd
 hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@132.145.28.17:443/?insecure=1&sni=www.microsoft.com&alpn=h2#[tcp][HY][alpn_h2] 🇬🇧英国伦敦2-1.8倍率 t.me/rjsxrd
 hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@132.145.28.17:443/?insecure=1&sni=www.microsoft.com&alpn=h3#[tcp][HY][alpn_h3] 🇬🇧英国伦敦2-1.8倍率 t.me/rjsxrd
-hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@193.123.229.26:443/?insecure=1&sni=www.hoyoverse.com&alpn=h2#[tcp][HY][alpn_h2] 🇰🇷韩国首尔-3倍率 t.me/rjsxrd
-hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@193.123.229.26:443/?insecure=1&sni=www.hoyoverse.com&alpn=h3#[tcp][HY][alpn_h3] 🇰🇷韩国首尔-3倍率 t.me/rjsxrd
-hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@144.24.146.216:443/?insecure=1&sni=www.hoyoverse.com&alpn=h2#[tcp][HY][alpn_h2] 🇮🇳印度海得拉巴-1.5倍率 t.me/rjsxrd
-hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@144.24.146.216:443/?insecure=1&sni=www.hoyoverse.com&alpn=h3#[tcp][HY][alpn_h3] 🇮🇳印度海得拉巴-1.5倍率 t.me/rjsxrd
-hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@168.75.85.171:443/?insecure=1&sni=www.microsoft.com&alpn=h2#[tcp][HY][alpn_h2] 🇧🇷巴西圣保罗-1.5倍率 t.me/rjsxrd
-hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@168.75.85.171:443/?insecure=1&sni=www.microsoft.com&alpn=h3#[tcp][HY][alpn_h3] 🇧🇷巴西圣保罗-1.5倍率 t.me/rjsxrd
-hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@146.56.168.6:443/?insecure=1&sni=www.hoyoverse.com&alpn=h2#[tcp][HY][alpn_h2] 🇰🇷韩国首尔2-3倍率 t.me/rjsxrd
-hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@146.56.168.6:443/?insecure=1&sni=www.hoyoverse.com&alpn=h3#[tcp][HY][alpn_h3] 🇰🇷韩国首尔2-3倍率 t.me/rjsxrd
-hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@158.101.37.59:443/?insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] 🇺🇸美国凤凰城3号 t.me/rjsxrd
-hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@158.101.37.59:443/?insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] 🇺🇸美国凤凰城3号 t.me/rjsxrd
-hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@129.146.249.162:443/?insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] 🇺🇸美国凤凰城4号 t.me/rjsxrd
-hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@129.146.249.162:443/?insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] 🇺🇸美国凤凰城4号 t.me/rjsxrd
-hysteria2://42087b21-853a-4c14-9074-73936ab1caa9@132.145.52.10:443/?insecure=1&sni=www.microsoft.com&alpn=h2#[tcp][HY][alpn_h2] 🇬🇧英国伦敦-2倍率 t.me/rjsxrd
