@@ -1,3 +1,8 @@
+hysteria2://a24c6851-2055-42c1-9c20-2d3bad97334f@358d29-330-4.9966661.xyz:3000?insecure=0&sni=358d29-330.9966661.xyz&alpn=h2#[tcp][HY][alpn_h2] 印度尼西亚 03 t.me/rjsxrd
+hysteria2://a24c6851-2055-42c1-9c20-2d3bad97334f@358d29-330-4.9966661.xyz:3000?insecure=0&sni=358d29-330.9966661.xyz&alpn=h3#[tcp][HY][alpn_h3] 印度尼西亚 03 t.me/rjsxrd
+hysteria2://a33115b6-75fa-11ed-8826-f23c9164ca5d@81c00719-swtr40-sxzp1j-1irfn.hy2.gotochinatown.net:8443?insecure=1&alpn=h2#[tcp][HY][alpn_h2] 美国_唯云专线_瑶瑶的麻花辫 t.me/rjsxrd
+hysteria2://a33115b6-75fa-11ed-8826-f23c9164ca5d@81c00719-swtr40-sxzp1j-1irfn.hy2.gotochinatown.net:8443?insecure=1&alpn=h3#[tcp][HY][alpn_h3] 美国_唯云专线_瑶瑶的麻花辫 t.me/rjsxrd
+hysteria2://a411e0db-8437-4169-9649-273aece86bbd@els.ylccloud.top:16090?insecure=1&sni=els.ylccloud.top&alpn=h2#[tcp][HY][alpn_h2] 美国 010 t.me/rjsxrd
 hysteria2://a411e0db-8437-4169-9649-273aece86bbd@els.ylccloud.top:16090?insecure=1&sni=els.ylccloud.top&alpn=h3#[tcp][HY][alpn_h3] 美国 010 t.me/rjsxrd
 hysteria2://a411e0db-8437-4169-9649-273aece86bbd@mf1.ylccloud.top:16090?insecure=1&sni=mf1.ylccloud.top&alpn=h2#[tcp][HY][alpn_h2] 美国 155 t.me/rjsxrd
 hysteria2://a411e0db-8437-4169-9649-273aece86bbd@mf1.ylccloud.top:16090?insecure=1&sni=mf1.ylccloud.top&alpn=h3#[tcp][HY][alpn_h3] 美国 155 t.me/rjsxrd
@@ -793,8 +798,3 @@ hysteria2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&sni=bing.com&alpn=h3#
 hysteria2://dongtaiwang.com@51.159.77.153:33390/?sni=bing.com&insecure=1&alpn=h2#[tcp][HY][alpn_h2] @vmessprotocol  رفع فیلتر t.me/rjsxrd
 hysteria2://dongtaiwang.com@51.159.77.153:33390/?sni=bing.com&insecure=1&alpn=h3#[tcp][HY][alpn_h3] @vmessprotocol  رفع فیلتر t.me/rjsxrd
 hysteria2://e12a5490-be9f-47cf-9232-83a8ae2df43e@52.221.239.216:21771?alpn=h3&insecure=1&mport=21771&sni=www.bing.com#[tcp][HY][alpn_h3] hy2-ip-172-31-19-182 t.me/rjsxrd
-hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@129.151.254.139:443?security=tls&insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] IR-@V2ray_Alpha-1 t.me/rjsxrd
-hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@129.151.254.139:443?security=tls&insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] IR-@V2ray_Alpha-1 t.me/rjsxrd
-hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@130.162.250.164:443?security=tls&insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] IR-@V2ray_Alpha-3 t.me/rjsxrd
-hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@130.162.250.164:443?security=tls&insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] IR-@V2ray_Alpha-3 t.me/rjsxrd
-hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@139.185.36.59:443?security=tls&insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] IR-@V2ray_Alpha-2 t.me/rjsxrd

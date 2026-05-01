@@ -1,3 +1,8 @@
+hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@129.151.254.139:443?security=tls&insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] IR-@V2ray_Alpha-1 t.me/rjsxrd
+hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@129.151.254.139:443?security=tls&insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] IR-@V2ray_Alpha-1 t.me/rjsxrd
+hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@130.162.250.164:443?security=tls&insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] IR-@V2ray_Alpha-3 t.me/rjsxrd
+hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@130.162.250.164:443?security=tls&insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] IR-@V2ray_Alpha-3 t.me/rjsxrd
+hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@139.185.36.59:443?security=tls&insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] IR-@V2ray_Alpha-2 t.me/rjsxrd
 hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@139.185.36.59:443?security=tls&insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] IR-@V2ray_Alpha-2 t.me/rjsxrd
 hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@207.211.166.131:443?security=tls&insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] MCI-@V2ray_Alpha-3 t.me/rjsxrd
 hysteria2://e169856c-7c19-4908-9bdf-448dc846163a@207.211.166.131:443?security=tls&insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] MCI-@V2ray_Alpha-3 t.me/rjsxrd
@@ -793,8 +798,3 @@ hysteria2://dongtaiwang.com@195.154.33.70:4489?sni=www.bing.com&insecure=1&alpn=
 hysteria2://nfsn666@ld-arm.nfsn666.gq:8888?sni=ld-arm.nfsn666.gq&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇬🇧英国5 | ⬇️ 9.6MB/s t.me/rjsxrd
 hysteria2://nfsn666@ld-arm.nfsn666.gq:8888?sni=ld-arm.nfsn666.gq&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇬🇧英国5 | ⬇️ 9.6MB/s t.me/rjsxrd
 hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@2ef15a2a-svi800-sw77c8-dnss.la.shifen.uk:1443?sni=2ef15a2a-svi800-sw77c8-dnss.la.shifen.uk&insecure=0&alpn=h2#[tcp][HY][alpn_h2] 🇺🇸美国36 | ⬇️ 13.5MB/s t.me/rjsxrd
-hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@2ef15a2a-svi800-sw77c8-dnss.la.shifen.uk:1443?sni=2ef15a2a-svi800-sw77c8-dnss.la.shifen.uk&insecure=0&alpn=h3#[tcp][HY][alpn_h3] 🇺🇸美国36 | ⬇️ 13.5MB/s t.me/rjsxrd
-hysteria2://nfsn666@sj-arm.nfsn666.gq:8888?sni=sj-arm.nfsn666.gq&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇺🇸美国10 | ⬇️ 3.4MB/s t.me/rjsxrd
-hysteria2://nfsn666@sj-arm.nfsn666.gq:8888?sni=sj-arm.nfsn666.gq&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇺🇸美国10 | ⬇️ 3.4MB/s t.me/rjsxrd
-hysteria2://share%3Aa7690af7-03ed-48fa-bc93-561b7df50695@share.078900.xyz:11451?sni=share.078900.xyz&obfs=salamander&obfs-password=25b2b0cc-8663-4746-9773-1b053ca00ef6&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇺🇸美国31 | ⬇️ 3.3MB/s t.me/rjsxrd
-hysteria2://share%3Aa7690af7-03ed-48fa-bc93-561b7df50695@share.078900.xyz:11451?sni=share.078900.xyz&obfs=salamander&obfs-password=25b2b0cc-8663-4746-9773-1b053ca00ef6&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇺🇸美国31 | ⬇️ 3.3MB/s t.me/rjsxrd

@@ -1,3 +1,8 @@
+hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] 🇨🇵@FreakConfig t.me/rjsxrd
+hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] 🇨🇵@FreakConfig t.me/rjsxrd
+hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz&alpn=h2#[tcp][HY][alpn_h2] 🇩🇪@FreakConfig﻿🦠 t.me/rjsxrd
+hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz&alpn=h3#[tcp][HY][alpn_h3] 🇩🇪@FreakConfig﻿🦠 t.me/rjsxrd
+hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?security=tls&insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] 🇩🇪@FreakConfig t.me/rjsxrd
 hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?security=tls&insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] 🇩🇪@FreakConfig t.me/rjsxrd
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com&alpn=h2#[tcp][HY][alpn_h2] 10|کانال تلگرام : Free_VPN_CH@ #7 t.me/rjsxrd
 hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com&alpn=h3#[tcp][HY][alpn_h3] 10|کانال تلگرام : Free_VPN_CH@ #7 t.me/rjsxrd
@@ -793,8 +798,3 @@ hysteria2://2fb91d43-2b7c-426d-a3ea-c9b4c3a4ceb6@45.11.1.62:50000?insecure=1&sni
 hysteria2://2fb91d43-2b7c-426d-a3ea-c9b4c3a4ceb6@45.11.1.62:50000?insecure=1&sni=www.microsoft.com&alpn=h3#[tcp][HY][alpn_h3] JP_15 | ⬇️ 1.1MB/s t.me/rjsxrd
 hysteria2://2fc13fd3-f056-42a6-a7d4-9105fe1d915b@yd.jjzcloud.top:57338?insecure=1&sni=yd.jjzcloud.top&alpn=h2#[tcp][HY][alpn_h2] US_110 | ⬇️ 2.2MB/s t.me/rjsxrd
 hysteria2://2fc13fd3-f056-42a6-a7d4-9105fe1d915b@yd.jjzcloud.top:57338?insecure=1&sni=yd.jjzcloud.top&alpn=h3#[tcp][HY][alpn_h3] US_110 | ⬇️ 2.2MB/s t.me/rjsxrd
-hysteria2://30cdb1ec-b009-47f9-b7d3-abe14737a246@wmg2.wanlidag.top:5555?insecure=1&sni=wmg2.wanlidag.top&alpn=h2#[tcp][HY][alpn_h2] ❓Other_19 | ⬇️ 7.7MB/s t.me/rjsxrd
-hysteria2://30cdb1ec-b009-47f9-b7d3-abe14737a246@wmg2.wanlidag.top:5555?insecure=1&sni=wmg2.wanlidag.top&alpn=h3#[tcp][HY][alpn_h3] ❓Other_19 | ⬇️ 7.7MB/s t.me/rjsxrd
-hysteria2://315145c5-a004-4b93-9c3b-be0670c94324@mf1.ylccloud.top:16090?insecure=0&sni=mf1.ylccloud.top&alpn=h2#[tcp][HY][alpn_h2] 美國 21 t.me/rjsxrd
-hysteria2://315145c5-a004-4b93-9c3b-be0670c94324@mf1.ylccloud.top:16090?insecure=0&sni=mf1.ylccloud.top&alpn=h3#[tcp][HY][alpn_h3] 美國 21 t.me/rjsxrd
-hysteria2://315145c5-a004-4b93-9c3b-be0670c94324@mf1.ylccloud.top:16090?insecure=1&sni=mf1.ylccloud.top&alpn=h2#[tcp][HY][alpn_h2] 美國 t.me/rjsxrd
