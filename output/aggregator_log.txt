@@ -1,4 +1,4 @@
-2026-05-01 15:17:37 [DEBUG] Using selector: EpollSelector
-2026-05-01 15:17:37 [INFO] 🚀 Запуск PRO-агрегатора (XHTTP-Expansion + Triple-DNS + Strict-Sort)...
-2026-05-01 15:17:37 [INFO] 📦 DNS-кэш загружен: 7051 записей.
-2026-05-01 15:17:37 [INFO] ⏳ Пропуск: интервал 2ч не прошел.
+2026-05-01 21:09:30 [DEBUG] Using selector: EpollSelector
+2026-05-01 21:09:30 [INFO] 🚀 Запуск PRO-агрегатора (XHTTP-Expansion + Triple-DNS + Strict-Sort)...
+2026-05-01 21:09:30 [INFO] 📦 DNS-кэш загружен: 7093 записей.
+2026-05-01 21:09:30 [INFO] ⏳ Пропуск: интервал 2ч не прошел.
