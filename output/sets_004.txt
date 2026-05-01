@@ -1,3 +1,7 @@
+hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxru2.bawangtu666.top:29831?insecure=1&sni=sxxru2.bawangtu666.top&alpn=h3#[tcp][HY][alpn_h3] [Hy2]ru2 t.me/rjsxrd
+hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxtw1.bawangtu666.top:29831?insecure=1&sni=sxxtw1.bawangtu666.top&alpn=h2#[tcp][HY][alpn_h2] [Hy2]tw1 t.me/rjsxrd
+hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxtw1.bawangtu666.top:29831?insecure=1&sni=sxxtw1.bawangtu666.top&alpn=h3#[tcp][HY][alpn_h3] [Hy2]tw1 t.me/rjsxrd
+hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxus1.bawangtu666.top:29831?insecure=1&sni=sxxus1.bawangtu666.top&alpn=h2#[tcp][HY][alpn_h2] [Hy2]距离下次重置剩余：26 天 t.me/rjsxrd
 hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxus1.bawangtu666.top:29831?insecure=1&sni=sxxus1.bawangtu666.top&alpn=h3#[tcp][HY][alpn_h3] [Hy2]距离下次重置剩余：26 天 t.me/rjsxrd
 hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxus2.bawangtu666.top:29831?insecure=1&sni=sxxus2.bawangtu666.top&alpn=h2#[tcp][HY][alpn_h2] [Hy2]us2 t.me/rjsxrd
 hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxus2.bawangtu666.top:29831?insecure=1&sni=sxxus2.bawangtu666.top&alpn=h3#[tcp][HY][alpn_h3] [Hy2]us2 t.me/rjsxrd
@@ -123,10 +127,6 @@ hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-ng.yuetoto.net:21070?insecu
 hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-ng.yuetoto.net:21070?insecure=1&sni=yue-ng.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] NG_1 | ⬇️ 4.8MB/s t.me/rjsxrd
 hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-ng.yuetoto.net:21090?insecure=1&sni=yue-ng.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] NG_2 | ⬇️ 4.4MB/s t.me/rjsxrd
 hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-ng.yuetoto.net:21090?insecure=1&sni=yue-ng.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] NG_2 | ⬇️ 4.4MB/s t.me/rjsxrd
-hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-nl.yuetoto.net:21016?insecure=1&sni=yue-nl.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] NL_25 | ⬇️ 2.1MB/s t.me/rjsxrd
-hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-nl.yuetoto.net:21016?insecure=1&sni=yue-nl.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] NL_25 | ⬇️ 2.1MB/s t.me/rjsxrd
-hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-nl.yuetoto.net:21034?insecure=1&sni=yue-nl.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] NL_23 | ⬇️ 2.2MB/s t.me/rjsxrd
-hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-nl.yuetoto.net:21034?insecure=1&sni=yue-nl.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] NL_23 | ⬇️ 2.2MB/s t.me/rjsxrd
 hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-ru.yuetoto.net:21004?insecure=1&sni=yue-ru.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] RU_8 | ⬇️ 6.3MB/s t.me/rjsxrd
 hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-ru.yuetoto.net:21004?insecure=1&sni=yue-ru.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] RU_8 | ⬇️ 6.3MB/s t.me/rjsxrd
 hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-ru.yuetoto.net:21012?insecure=1&sni=yue-ru.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] RU_9 | ⬇️ 5.9MB/s t.me/rjsxrd
@@ -505,10 +505,6 @@ hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-jp.yuetoto.net:21093?insecu
 hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-jp.yuetoto.net:21093?insecure=1&sni=yue-jp.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] JP_5|8.9MB/s|GPT⁺|NF|GM|0% t.me/rjsxrd
 hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-jp.yuetoto.net:21095?insecure=1&sni=yue-jp.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] JP_13|7.0MB/s|GPT⁺|NF|GM|0% t.me/rjsxrd
 hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-jp.yuetoto.net:21095?insecure=1&sni=yue-jp.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] JP_13|7.0MB/s|GPT⁺|NF|GM|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-nl.yuetoto.net:21012?insecure=1&sni=yue-nl.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] NL_2|5.8MB/s|GPT⁺|YT-NL|NF|3% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-nl.yuetoto.net:21012?insecure=1&sni=yue-nl.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] NL_2|5.8MB/s|GPT⁺|YT-NL|NF|3% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-nl.yuetoto.net:21071?insecure=1&sni=yue-nl.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] NL_1|5.6MB/s|GPT⁺|YT-NL|NF|3% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-nl.yuetoto.net:21071?insecure=1&sni=yue-nl.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] NL_1|5.6MB/s|GPT⁺|YT-NL|NF|3% t.me/rjsxrd
 hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-sg.yuetoto.net:21012?insecure=1&sni=yue-sg.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] SG_4|5.0MB/s|GPT⁺|NF|5% t.me/rjsxrd
 hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-sg.yuetoto.net:21012?insecure=1&sni=yue-sg.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] SG_4|5.0MB/s|GPT⁺|NF|5% t.me/rjsxrd
 hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-sg.yuetoto.net:21019?insecure=1&sni=yue-sg.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] SG_2|5.3MB/s|GPT⁺|NF|5% t.me/rjsxrd
@@ -798,3 +794,7 @@ hysteria2://VQzTHumV767vaCqDGSFsXb0XTMU@13.228.25.14:4881?insecure=1&sni=bing.co
 hysteria2://Wjes5mJnUmH7kwzpgZX5d2BeCs@143.110.156.170:13438?insecure=1&sni=bing.com&alpn=h2#[tcp][HY][alpn_h2] US t.me/rjsxrd
 hysteria2://Wjes5mJnUmH7kwzpgZX5d2BeCs@143.110.156.170:13438?insecure=1&sni=bing.com&alpn=h3#[tcp][HY][alpn_h3] US t.me/rjsxrd
 hysteria2://Wo9rLCYw6gzcfTgIu11mhBVciVs@47.74.34.102:29282?insecure=1&alpn=h2#[tcp][HY][alpn_h2] 香港 #1 t.me/rjsxrd
+hysteria2://Wo9rLCYw6gzcfTgIu11mhBVciVs@47.74.34.102:29282?insecure=1&alpn=h3#[tcp][HY][alpn_h3] 香港 #1 t.me/rjsxrd
+hysteria2://Wo9rLCYw6gzcfTgIu11mhBVciVs@47.74.34.102:29282?insecure=1&sni=bing.com&alpn=h2#[tcp][HY][alpn_h2] 日本9 | ⬇️ 4.0MB/s t.me/rjsxrd
+hysteria2://Wo9rLCYw6gzcfTgIu11mhBVciVs@47.74.34.102:29282?insecure=1&sni=bing.com&alpn=h3#[tcp][HY][alpn_h3] 日本9 | ⬇️ 4.0MB/s t.me/rjsxrd
+hysteria2://XK52yierGckONMJWbJnuskD3unI@47.242.195.121:12854?insecure=1&sni=bing.com&alpn=h2#[tcp][HY][alpn_h2] 香港 #2 t.me/rjsxrd

@@ -1,7 +1,3 @@
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=api.kermanshahi.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&alpn=h2#[tcp][HY][alpn_h2] https://t.me/ShadowsocksM75 t.me/rjsxrd
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000?sni=api.kermanshahi.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&alpn=h3#[tcp][HY][alpn_h3] https://t.me/ShadowsocksM75 t.me/rjsxrd
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=api.kermanshahi.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&alpn=h2#[tcp][HY][alpn_h2] https://t.me/ShadowsocksM27 t.me/rjsxrd
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?sni=api.kermanshahi.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&alpn=h3#[tcp][HY][alpn_h3] https://t.me/ShadowsocksM27 t.me/rjsxrd
 hysteria2://0cf2ecce@46.17.45.133:64707?insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] 🇷🇺RU | hy2 | @TUICity | 16 t.me/rjsxrd
 hysteria2://0cf2ecce@46.17.45.133:64707?insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] 🇷🇺RU | hy2 | @TUICity | 16 t.me/rjsxrd
 hysteria2://1947e8a2-f868-4ef5-8024-21c9dfa27450@ru-01.cloudlion.me:8005?alpn=h2#[tcp][HY][alpn_h2] 🇷🇺RU | @V2ray_Collector t.me/rjsxrd
@@ -798,3 +794,7 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=sa
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir&alpn=h3#[tcp][HY][alpn_h3] qwf_010 t.me/rjsxrd
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=0&sni=kotlet.arshiacomplus.dpdns.org&alpn=h2#[tcp][HY][alpn_h2] qwf_030 t.me/rjsxrd
 hysteria2://YwuvGJk36B@81.168.83.89:2083?security=tls&obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=0&sni=kotlet.arshiacomplus.dpdns.org&alpn=h3#[tcp][HY][alpn_h3] qwf_030 t.me/rjsxrd
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=jnir.pichondan.com&alpn=h2#[tcp][HY][alpn_h2] qwf_022 t.me/rjsxrd
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=jnir.pichondan.com&alpn=h3#[tcp][HY][alpn_h3] qwf_022 t.me/rjsxrd
+hysteria2://ce26fc79-0a57-46ed-a67a-149fcf523cb1@152.69.226.231:55215?security=tls&insecure=1&sni=shy23.zqjc.cloud&alpn=h2#[tcp][HY][alpn_h2] 🔒 HYSTERIA-UDP 🇰🇷 KR-152.69.226.231:55215 t.me/rjsxrd
+hysteria2://ce26fc79-0a57-46ed-a67a-149fcf523cb1@152.69.226.231:55215?security=tls&insecure=1&sni=shy23.zqjc.cloud&alpn=h3#[tcp][HY][alpn_h3] 🔒 HYSTERIA-UDP 🇰🇷 KR-152.69.226.231:55215 t.me/rjsxrd

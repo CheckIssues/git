@@ -1,3 +1,7 @@
+hysteria2://4b9ca118-7fab-11eb-bd3a-f23c9164ca5d@76f6e3ac-t6pb40-tcq5zn-19qpt.hk1.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000&sni=76f6e3ac-t6pb40-tcq5zn-19qpt.hk1.hyhuawei.com&alpn=h2#[tcp][HY][alpn_h2] 🇭🇰 Hong Kong, Central | [BL] t.me/rjsxrd
+hysteria2://4b9ca118-7fab-11eb-bd3a-f23c9164ca5d@76f6e3ac-t6pb40-tcq5zn-19qpt.hk1.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000&sni=76f6e3ac-t6pb40-tcq5zn-19qpt.hk1.hyhuawei.com&alpn=h3#[tcp][HY][alpn_h3] 🇭🇰 Hong Kong, Central | [BL] t.me/rjsxrd
+hysteria2://520b9126-9870-11ef-81b0-f23c9164ca5d@71477f9c-t53wg0-t95ncr-1slop.hk1.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000&sni=71477f9c-t53wg0-t95ncr-1slop.hk1.hyhuawei.com&alpn=h2#[tcp][HY][alpn_h2] 🇭🇰 Hong Kong, Central | [BL] t.me/rjsxrd
+hysteria2://520b9126-9870-11ef-81b0-f23c9164ca5d@71477f9c-t53wg0-t95ncr-1slop.hk1.hyhuawei.com:443?security=tls&insecure=1&mport=30000-60000&sni=71477f9c-t53wg0-t95ncr-1slop.hk1.hyhuawei.com&alpn=h3#[tcp][HY][alpn_h3] 🇭🇰 Hong Kong, Central | [BL] t.me/rjsxrd
 hysteria2://6857f1bc-f27b-11ea-87ad-f23c913c8d2b@aa563af0-t48f40-tgzvop-hns7.hk1.hyhuawei.com:443/?insecure=1&sni=aa563af0-t48f40-tgzvop-hns7.hk1.hyhuawei.com&alpn=h2#[tcp][HY][alpn_h2] 🇭🇰 Hong Kong, Central | [BL] t.me/rjsxrd
 hysteria2://6857f1bc-f27b-11ea-87ad-f23c913c8d2b@aa563af0-t48f40-tgzvop-hns7.hk1.hyhuawei.com:443/?insecure=1&sni=aa563af0-t48f40-tgzvop-hns7.hk1.hyhuawei.com&alpn=h3#[tcp][HY][alpn_h3] 🇭🇰 Hong Kong, Central | [BL] t.me/rjsxrd
 hysteria2://6857f1bc-f27b-11ea-87ad-f23c913c8d2b@aa563af0-t48f40-tgzvop-hns7.hk1.hyhuawei.com:443?security=tls&insecure=1&sni=aa563af0-t48f40-tgzvop-hns7.hk1.hyhuawei.com&alpn=h2#[tcp][HY][alpn_h2] 🇭🇰 Hong Kong, Central | [BL] t.me/rjsxrd
@@ -794,7 +798,3 @@ hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxjp2.bawangtu666.top:29831?in
 hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxru1.bawangtu666.top:29831?insecure=1&sni=sxxru1.bawangtu666.top&alpn=h2#[tcp][HY][alpn_h2] [Hy2]ru1 t.me/rjsxrd
 hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxru1.bawangtu666.top:29831?insecure=1&sni=sxxru1.bawangtu666.top&alpn=h3#[tcp][HY][alpn_h3] [Hy2]ru1 t.me/rjsxrd
 hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxru2.bawangtu666.top:29831?insecure=1&sni=sxxru2.bawangtu666.top&alpn=h2#[tcp][HY][alpn_h2] [Hy2]ru2 t.me/rjsxrd
-hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxru2.bawangtu666.top:29831?insecure=1&sni=sxxru2.bawangtu666.top&alpn=h3#[tcp][HY][alpn_h3] [Hy2]ru2 t.me/rjsxrd
-hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxtw1.bawangtu666.top:29831?insecure=1&sni=sxxtw1.bawangtu666.top&alpn=h2#[tcp][HY][alpn_h2] [Hy2]tw1 t.me/rjsxrd
-hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxtw1.bawangtu666.top:29831?insecure=1&sni=sxxtw1.bawangtu666.top&alpn=h3#[tcp][HY][alpn_h3] [Hy2]tw1 t.me/rjsxrd
-hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxus1.bawangtu666.top:29831?insecure=1&sni=sxxus1.bawangtu666.top&alpn=h2#[tcp][HY][alpn_h2] [Hy2]距离下次重置剩余：26 天 t.me/rjsxrd
