@@ -1,11 +1,3 @@
-hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxjp2.bawangtu666.top:29831?insecure=1&sni=sxxjp2.bawangtu666.top&alpn=h3#[tcp][HY][alpn_h3] [Hy2]jp2 t.me/rjsxrd
-hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxru1.bawangtu666.top:29831?insecure=1&sni=sxxru1.bawangtu666.top&alpn=h2#[tcp][HY][alpn_h2] [Hy2]ru1 t.me/rjsxrd
-hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxru1.bawangtu666.top:29831?insecure=1&sni=sxxru1.bawangtu666.top&alpn=h3#[tcp][HY][alpn_h3] [Hy2]ru1 t.me/rjsxrd
-hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxru2.bawangtu666.top:29831?insecure=1&sni=sxxru2.bawangtu666.top&alpn=h2#[tcp][HY][alpn_h2] [Hy2]ru2 t.me/rjsxrd
-hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxru2.bawangtu666.top:29831?insecure=1&sni=sxxru2.bawangtu666.top&alpn=h3#[tcp][HY][alpn_h3] [Hy2]ru2 t.me/rjsxrd
-hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxtw1.bawangtu666.top:29831?insecure=1&sni=sxxtw1.bawangtu666.top&alpn=h2#[tcp][HY][alpn_h2] [Hy2]tw1 t.me/rjsxrd
-hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxtw1.bawangtu666.top:29831?insecure=1&sni=sxxtw1.bawangtu666.top&alpn=h3#[tcp][HY][alpn_h3] [Hy2]tw1 t.me/rjsxrd
-hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxus1.bawangtu666.top:29831?insecure=1&sni=sxxus1.bawangtu666.top&alpn=h2#[tcp][HY][alpn_h2] [Hy2]距离下次重置剩余：26 天 t.me/rjsxrd
 hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxus1.bawangtu666.top:29831?insecure=1&sni=sxxus1.bawangtu666.top&alpn=h3#[tcp][HY][alpn_h3] [Hy2]距离下次重置剩余：26 天 t.me/rjsxrd
 hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxus2.bawangtu666.top:29831?insecure=1&sni=sxxus2.bawangtu666.top&alpn=h2#[tcp][HY][alpn_h2] [Hy2]us2 t.me/rjsxrd
 hysteria2://25577852-1cbf-4453-9cc6-96c9a5fcdfb5@sxxus2.bawangtu666.top:29831?insecure=1&sni=sxxus2.bawangtu666.top&alpn=h3#[tcp][HY][alpn_h3] [Hy2]us2 t.me/rjsxrd
@@ -143,10 +135,6 @@ hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-sg.yuetoto.net:21025?insecu
 hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-sg.yuetoto.net:21025?insecure=1&sni=yue-sg.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] SG_16 | ⬇️ 6.0MB/s t.me/rjsxrd
 hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-sg.yuetoto.net:21075?insecure=1&sni=yue-sg.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] SG_17 | ⬇️ 6.3MB/s t.me/rjsxrd
 hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-sg.yuetoto.net:21075?insecure=1&sni=yue-sg.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] SG_17 | ⬇️ 6.3MB/s t.me/rjsxrd
-hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-th.yuetoto.net:21066?insecure=1&sni=yue-th.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] TH_2 | ⬇️ 2.8MB/s t.me/rjsxrd
-hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-th.yuetoto.net:21066?insecure=1&sni=yue-th.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] TH_2 | ⬇️ 2.8MB/s t.me/rjsxrd
-hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-th.yuetoto.net:21091?insecure=1&sni=yue-th.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] TH_1 | ⬇️ 2.9MB/s t.me/rjsxrd
-hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-th.yuetoto.net:21091?insecure=1&sni=yue-th.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] TH_1 | ⬇️ 2.9MB/s t.me/rjsxrd
 hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-tr.yuetoto.net:21011?insecure=1&sni=yue-tr.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] TR_4 | ⬇️ 2.2MB/s t.me/rjsxrd
 hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-tr.yuetoto.net:21011?insecure=1&sni=yue-tr.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] TR_4 | ⬇️ 2.2MB/s t.me/rjsxrd
 hysteria2://42eda64b-ff56-4b14-b5d2-047a871680f5@yue-tr.yuetoto.net:21018?insecure=1&sni=yue-tr.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] TR_3 | ⬇️ 2.8MB/s t.me/rjsxrd
@@ -471,26 +459,6 @@ hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-ca.yuetoto.net:21091?insecu
 hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-ca.yuetoto.net:21091?insecure=1&sni=yue-ca.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] CA_1|5.7MB/s|GPT⁺|YT-CA|NF|GM|7% t.me/rjsxrd
 hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-de.yuetoto.net:21042?insecure=1&sni=yue-de.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] DE_3|5.3MB/s|GPT⁺|YT-DE|NF|34% t.me/rjsxrd
 hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-de.yuetoto.net:21042?insecure=1&sni=yue-de.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] DE_3|5.3MB/s|GPT⁺|YT-DE|NF|34% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21001?insecure=1&sni=yue-hk.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] HK_12|14.1MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21001?insecure=1&sni=yue-hk.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] HK_12|14.1MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21006?insecure=1&sni=yue-hk.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] HK_2|8.4MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21006?insecure=1&sni=yue-hk.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] HK_2|8.4MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21008?insecure=1&sni=yue-hk.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] HK_6|6.3MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21008?insecure=1&sni=yue-hk.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] HK_6|6.3MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21025?insecure=1&sni=yue-hk.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] HK_8|10.4MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21025?insecure=1&sni=yue-hk.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] HK_8|10.4MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21027?insecure=1&sni=yue-hk.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] HK_7|7.9MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21027?insecure=1&sni=yue-hk.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] HK_7|7.9MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21057?insecure=1&sni=yue-hk.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] HK_1|6.5MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21057?insecure=1&sni=yue-hk.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] HK_1|6.5MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21077?insecure=1&sni=yue-hk.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] HK_11|11.3MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21077?insecure=1&sni=yue-hk.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] HK_11|11.3MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21083?insecure=1&sni=yue-hk.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] HK_9|5.9MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21083?insecure=1&sni=yue-hk.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] HK_9|5.9MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21090?insecure=1&sni=yue-hk.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] HK_10|14.0MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21090?insecure=1&sni=yue-hk.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] HK_10|14.0MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21099?insecure=1&sni=yue-hk.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] HK_3|7.6MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
-hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21099?insecure=1&sni=yue-hk.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] HK_3|7.6MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
 hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-jp.yuetoto.net:21008?insecure=1&sni=yue-jp.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] JP_19|5.0MB/s|GPT⁺|NF|GM|0% t.me/rjsxrd
 hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-jp.yuetoto.net:21008?insecure=1&sni=yue-jp.yuetoto.net&alpn=h3#[tcp][HY][alpn_h3] JP_19|5.0MB/s|GPT⁺|NF|GM|0% t.me/rjsxrd
 hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-jp.yuetoto.net:21009?insecure=1&sni=yue-jp.yuetoto.net&alpn=h2#[tcp][HY][alpn_h2] JP_6|9.3MB/s|GPT⁺|NF|GM|0% t.me/rjsxrd
@@ -798,3 +766,35 @@ hysteria2://JLsEBzvWlyyTmM7yND0jXjQg@147.45.154.150:443?insecure=0&obfs=salamand
 hysteria2://Jj0FrgSd85@165.140.166.78:17083?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h2#[tcp][HY][alpn_h2] v2raybluecrystal2-la t.me/rjsxrd
 hysteria2://Jj0FrgSd85@165.140.166.78:17083?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h3#[tcp][HY][alpn_h3] v2raybluecrystal2-la t.me/rjsxrd
 hysteria2://Jj0FrgSd85@165.140.166.78:41003?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h2#[tcp][HY][alpn_h2] v2raybluecrystal3-la t.me/rjsxrd
+hysteria2://Jj0FrgSd85@165.140.166.78:41003?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h3#[tcp][HY][alpn_h3] v2raybluecrystal3-la t.me/rjsxrd
+hysteria2://Jj0FrgSd85@165.140.166.78:50163?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h2#[tcp][HY][alpn_h2] v2raybluecrystal-la t.me/rjsxrd
+hysteria2://Jj0FrgSd85@165.140.166.78:50163?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h3#[tcp][HY][alpn_h3] v2raybluecrystal-la t.me/rjsxrd
+hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&obfs=salamander&obfs-password=salamander&sni=179.61.132.96&alpn=h2#[tcp][HY][alpn_h2] +@Azarakhsh_Proxy+🩷 t.me/rjsxrd
+hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&obfs=salamander&obfs-password=salamander&sni=179.61.132.96&alpn=h3#[tcp][HY][alpn_h3] +@Azarakhsh_Proxy+🩷 t.me/rjsxrd
+hysteria2://L9ckbqdTsZflCHixBWRV3pm6PWM@43.199.76.128:3317?insecure=1&sni=bing.com&alpn=h2#[tcp][HY][alpn_h2] https://t.me/zyzzzoao ⚡_2 t.me/rjsxrd
+hysteria2://L9ckbqdTsZflCHixBWRV3pm6PWM@43.199.76.128:3317?insecure=1&sni=bing.com&alpn=h3#[tcp][HY][alpn_h3] https://t.me/zyzzzoao ⚡_2 t.me/rjsxrd
+hysteria2://M4DUOPrnAJhCXCBGoTA2xLDA@147.45.154.150:443?insecure=0&obfs=salamander&obfs-password=salamander&sni=anymath.ir&alpn=h2#[tcp][HY][alpn_h2] @Change_IP1-HYS #1 t.me/rjsxrd
+hysteria2://M4DUOPrnAJhCXCBGoTA2xLDA@147.45.154.150:443?insecure=0&obfs=salamander&obfs-password=salamander&sni=anymath.ir&alpn=h3#[tcp][HY][alpn_h3] @Change_IP1-HYS #1 t.me/rjsxrd
+hysteria2://MomB5gcusrDl2k67OfsTUEJK@147.45.154.150:443?insecure=0&obfs=salamander&obfs-password=salamander&sni=anymath.ir&alpn=h2#[tcp][HY][alpn_h2] @Change_IP1-HYS #2 t.me/rjsxrd
+hysteria2://MomB5gcusrDl2k67OfsTUEJK@147.45.154.150:443?insecure=0&obfs=salamander&obfs-password=salamander&sni=anymath.ir&alpn=h3#[tcp][HY][alpn_h3] @Change_IP1-HYS #2 t.me/rjsxrd
+hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?insecure=1&alpn=h2#[tcp][HY][alpn_h2] @Daily_Configs #2 t.me/rjsxrd
+hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?insecure=1&alpn=h3#[tcp][HY][alpn_h3] @Daily_Configs #2 t.me/rjsxrd
+hysteria2://RKrGw4dSUwK3YAvqdQI8tcqNl0@35.94.124.236:34060?insecure=1&sni=bing.com&alpn=h2#[tcp][HY][alpn_h2] 美国🇺🇸 t.me/rjsxrd
+hysteria2://RKrGw4dSUwK3YAvqdQI8tcqNl0@35.94.124.236:34060?insecure=1&sni=bing.com&alpn=h3#[tcp][HY][alpn_h3] 美国🇺🇸 t.me/rjsxrd
+hysteria2://RzQrEkAmnGs86IhmSVUk9Q5cn9M@47.236.104.81:30308?insecure=1&sni=bing.com&alpn=h2#[tcp][HY][alpn_h2] @FreakConfig t.me/rjsxrd
+hysteria2://RzQrEkAmnGs86IhmSVUk9Q5cn9M@47.236.104.81:30308?insecure=1&sni=bing.com&alpn=h3#[tcp][HY][alpn_h3] @FreakConfig t.me/rjsxrd
+hysteria2://TtXjyZgkEG8vdzgLlgMUfxkDYw@47.236.104.81:12332?insecure=1&sni=bing.com&alpn=h2#[tcp][HY][alpn_h2] https://t.me/zyzzzoao ⚡ t.me/rjsxrd
+hysteria2://TtXjyZgkEG8vdzgLlgMUfxkDYw@47.236.104.81:12332?insecure=1&sni=bing.com&alpn=h3#[tcp][HY][alpn_h3] https://t.me/zyzzzoao ⚡ t.me/rjsxrd
+hysteria2://UiIoI79ktLVSpD8Fh6vTq5l5@147.45.154.150:443?insecure=0&obfs=salamander&obfs-password=salamander&sni=anymath.ir&alpn=h2#[tcp][HY][alpn_h2] @Change_IP1-HYS #3 t.me/rjsxrd
+hysteria2://UiIoI79ktLVSpD8Fh6vTq5l5@147.45.154.150:443?insecure=0&obfs=salamander&obfs-password=salamander&sni=anymath.ir&alpn=h3#[tcp][HY][alpn_h3] @Change_IP1-HYS #3 t.me/rjsxrd
+hysteria2://UnYCJJ9AQy@146.19.56.21:24803?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h2#[tcp][HY][alpn_h2] v2raybluecrystal3-hou t.me/rjsxrd
+hysteria2://UnYCJJ9AQy@146.19.56.21:24803?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h3#[tcp][HY][alpn_h3] v2raybluecrystal3-hou t.me/rjsxrd
+hysteria2://UnYCJJ9AQy@146.19.56.21:28165?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h2#[tcp][HY][alpn_h2] v2raybluecrystal-hou t.me/rjsxrd
+hysteria2://UnYCJJ9AQy@146.19.56.21:28165?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h3#[tcp][HY][alpn_h3] v2raybluecrystal-hou t.me/rjsxrd
+hysteria2://UnYCJJ9AQy@146.19.56.21:57418?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h2#[tcp][HY][alpn_h2] v2raybluecrystal2-hou t.me/rjsxrd
+hysteria2://UnYCJJ9AQy@146.19.56.21:57418?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h3#[tcp][HY][alpn_h3] v2raybluecrystal2-hou t.me/rjsxrd
+hysteria2://VQzTHumV767vaCqDGSFsXb0XTMU@13.228.25.14:4881?insecure=1&sni=bing.com&alpn=h2#[tcp][HY][alpn_h2] 新加坡12 | ⬇️ 1.9MB/s t.me/rjsxrd
+hysteria2://VQzTHumV767vaCqDGSFsXb0XTMU@13.228.25.14:4881?insecure=1&sni=bing.com&alpn=h3#[tcp][HY][alpn_h3] 新加坡12 | ⬇️ 1.9MB/s t.me/rjsxrd
+hysteria2://Wjes5mJnUmH7kwzpgZX5d2BeCs@143.110.156.170:13438?insecure=1&sni=bing.com&alpn=h2#[tcp][HY][alpn_h2] US t.me/rjsxrd
+hysteria2://Wjes5mJnUmH7kwzpgZX5d2BeCs@143.110.156.170:13438?insecure=1&sni=bing.com&alpn=h3#[tcp][HY][alpn_h3] US t.me/rjsxrd
+hysteria2://Wo9rLCYw6gzcfTgIu11mhBVciVs@47.74.34.102:29282?insecure=1&alpn=h2#[tcp][HY][alpn_h2] 香港 #1 t.me/rjsxrd
