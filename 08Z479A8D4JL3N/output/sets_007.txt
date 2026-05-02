@@ -1,3 +1,21 @@
+hysteria2://95c2b673-d899-4ff4-a6c1-eafa74268a5e@166.1.18.244:26699?security=tls&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇺🇸 US down t.me/rjsxrd
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@108.181.23.231:443?security=tls&insecure=1&mport=50000-53000&sni=www.microsoft.com&alpn=h2#[tcp][HY][alpn_h2] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇺🇸 US down t.me/rjsxrd
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@108.181.23.231:443?security=tls&insecure=1&mport=50000-53000&sni=www.microsoft.com&alpn=h3#[tcp][HY][alpn_h3] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇺🇸 US down t.me/rjsxrd
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@129.153.76.186:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com&alpn=h2#[tcp][HY][alpn_h2] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇺🇸 US down t.me/rjsxrd
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@129.153.76.186:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com&alpn=h3#[tcp][HY][alpn_h3] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇺🇸 US down t.me/rjsxrd
+hysteria2://df77b09e-a079-4a2d-a382-c1e0dae18107@139.185.34.29:443?security=tls&insecure=1&mport=50000-53000&sni=www.hoyoverse.com&alpn=h2#[tcp][HY][alpn_h2] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇦🇪 AE down t.me/rjsxrd
+hysteria2://df77b09e-a079-4a2d-a382-c1e0dae18107@139.185.34.29:443?security=tls&insecure=1&mport=50000-53000&sni=www.hoyoverse.com&alpn=h3#[tcp][HY][alpn_h3] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇦🇪 AE down t.me/rjsxrd
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@140.238.132.152:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com&alpn=h2#[tcp][HY][alpn_h2] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇨🇦 CA down t.me/rjsxrd
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@140.238.132.152:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com&alpn=h3#[tcp][HY][alpn_h3] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇨🇦 CA down t.me/rjsxrd
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@141.148.223.173:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com&alpn=h2#[tcp][HY][alpn_h2] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇮🇳 IN down t.me/rjsxrd
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@141.148.223.173:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com&alpn=h3#[tcp][HY][alpn_h3] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇮🇳 IN down t.me/rjsxrd
+hysteria2://df77b09e-a079-4a2d-a382-c1e0dae18107@158.101.37.59:443?security=tls&insecure=1&mport=50000-53000&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇺🇸 US down t.me/rjsxrd
+hysteria2://df77b09e-a079-4a2d-a382-c1e0dae18107@158.101.37.59:443?security=tls&insecure=1&mport=50000-53000&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇺🇸 US down t.me/rjsxrd
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@158.101.4.24:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com&alpn=h2#[tcp][HY][alpn_h2] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇺🇸 US down t.me/rjsxrd
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@158.101.4.24:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com&alpn=h3#[tcp][HY][alpn_h3] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇺🇸 US down t.me/rjsxrd
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@139.185.49.195:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com&alpn=h2#[tcp][HY][alpn_h2] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇦🇪 AE down t.me/rjsxrd
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@139.185.49.195:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com&alpn=h3#[tcp][HY][alpn_h3] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇦🇪 AE down t.me/rjsxrd
+hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@158.179.214.33:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com&alpn=h2#[tcp][HY][alpn_h2] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇪🇸 ES down t.me/rjsxrd
 hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@158.179.214.33:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com&alpn=h3#[tcp][HY][alpn_h3] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇪🇸 ES down t.me/rjsxrd
 hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@193.122.12.150:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com&alpn=h2#[tcp][HY][alpn_h2] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇩🇪 DE down t.me/rjsxrd
 hysteria2://95eb72fe-e967-4540-ac10-069c8a95c6d7@193.122.12.150:443?security=tls&insecure=1&mport=50000-53000&sni=fastcdn.hoyoverse.com&alpn=h3#[tcp][HY][alpn_h3] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇩🇪 DE down t.me/rjsxrd
@@ -780,21 +798,3 @@ hysteria2://wieZ9G0FbEecGx2kXaZLchtt@147.45.154.150:443?alpn=h3&fastopen=1&obfs=
 hysteria2://cef1e7a47565b431@147.45.76.99:443?insecure=1&obfs=salamander&obfs-password=2c5ef5135559d4f5&sni=vkvd127.mycdn.me&alpn=h2#[tcp][HY][alpn_h2] MojtabaXYZ t.me/rjsxrd
 hysteria2://cef1e7a47565b431@147.45.76.99:443?insecure=1&obfs=salamander&obfs-password=2c5ef5135559d4f5&sni=vkvd127.mycdn.me&alpn=h3#[tcp][HY][alpn_h3] MojtabaXYZ t.me/rjsxrd
 hysteria2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=vkvd127.mycdn.me&alpn=h2#[tcp][HY][alpn_h2] MojtabaXYZ t.me/rjsxrd
-hysteria2://dongtaiwang.com@109.104.152.89:22441?insecure=1&sni=vkvd127.mycdn.me&alpn=h3#[tcp][HY][alpn_h3] MojtabaXYZ t.me/rjsxrd
-hysteria2://sharecentrepro@jpntt2.sharecentre.online:4433?peer=jpntt2.sharecentre.online&obfs=none&alpn=h2#[tcp][HY][alpn_h2] SCP2 t.me/rjsxrd
-hysteria2://sharecentrepro@jpntt2.sharecentre.online:4433?peer=jpntt2.sharecentre.online&obfs=none&alpn=h3#[tcp][HY][alpn_h3] SCP2 t.me/rjsxrd
-hysteria2://097f6b5f-bcf9-4a24-9f0d-d1feaa638d86@hkt.aiopen.sbs:443/?insecure=1&sni=tv.apple.com&alpn=h2#[tcp][HY][alpn_h2] 套餐到期：长期有效 t.me/rjsxrd
-hysteria2://097f6b5f-bcf9-4a24-9f0d-d1feaa638d86@hkt.aiopen.sbs:443/?insecure=1&sni=tv.apple.com&alpn=h3#[tcp][HY][alpn_h3] 套餐到期：长期有效 t.me/rjsxrd
-hysteria2://81cd0143-601c-44dc-b479-6f28b3b71c64@hkt.aiopen.sbs:443/?insecure=1&sni=tv.apple.com&alpn=h2#[tcp][HY][alpn_h2] 🇭🇰香港HKT-hy2 t.me/rjsxrd
-hysteria2://81cd0143-601c-44dc-b479-6f28b3b71c64@hkt.aiopen.sbs:443/?insecure=1&sni=tv.apple.com&alpn=h3#[tcp][HY][alpn_h3] 🇭🇰香港HKT-hy2 t.me/rjsxrd
-hysteria2://56e1f11c-1217-46ab-b127-6afbc23bafba@108.181.24.43:443/?insecure=1&sni=20-24-33-134.nhost.00cdn.com&alpn=h2#[tcp][HY][alpn_h2] @ZDYZ2_ðŸ‡¨ðŸ‡¦_CA t.me/rjsxrd
-hysteria2://56e1f11c-1217-46ab-b127-6afbc23bafba@108.181.24.43:443/?insecure=1&sni=20-24-33-134.nhost.00cdn.com&alpn=h3#[tcp][HY][alpn_h3] @ZDYZ2_ðŸ‡¨ðŸ‡¦_CA t.me/rjsxrd
-hysteria2://56e1f11c-1217-46ab-b127-6afbc23bafba@108.181.23.225:443/?insecure=1&sni=20-24-33-134.nhost.00cdn.com&alpn=h2#[tcp][HY][alpn_h2] @ZDYZ2_ðŸ‡¨ðŸ‡¦_CA t.me/rjsxrd
-hysteria2://56e1f11c-1217-46ab-b127-6afbc23bafba@108.181.23.225:443/?insecure=1&sni=20-24-33-134.nhost.00cdn.com&alpn=h3#[tcp][HY][alpn_h3] @ZDYZ2_ðŸ‡¨ðŸ‡¦_CA t.me/rjsxrd
-hysteria2://56e1f11c-1217-46ab-b127-6afbc23bafba@108.181.22.153:443/?insecure=1&sni=20-24-33-134.nhost.00cdn.com&alpn=h2#[tcp][HY][alpn_h2] @ZDYZ2_ðŸ‡¨ðŸ‡¦_CA t.me/rjsxrd
-hysteria2://56e1f11c-1217-46ab-b127-6afbc23bafba@108.181.22.153:443/?insecure=1&sni=20-24-33-134.nhost.00cdn.com&alpn=h3#[tcp][HY][alpn_h3] @ZDYZ2_ðŸ‡¨ðŸ‡¦_CA t.me/rjsxrd
-hysteria2://56e1f11c-1217-46ab-b127-6afbc23bafba@208.87.243.155:443/?insecure=1&sni=20-24-33-134.nhost.00cdn.com&alpn=h2#[tcp][HY][alpn_h2] @ZDYZ2_ðŸ‡ºðŸ‡¸_US t.me/rjsxrd
-hysteria2://56e1f11c-1217-46ab-b127-6afbc23bafba@208.87.243.155:443/?insecure=1&sni=20-24-33-134.nhost.00cdn.com&alpn=h3#[tcp][HY][alpn_h3] @ZDYZ2_ðŸ‡ºðŸ‡¸_US t.me/rjsxrd
-hysteria2://56e1f11c-1217-46ab-b127-6afbc23bafba@108.181.23.235:443/?insecure=1&sni=20-24-33-134.nhost.00cdn.com&alpn=h2#[tcp][HY][alpn_h2] @ZDYZ2_ðŸ‡¨ðŸ‡¦_CA t.me/rjsxrd
-hysteria2://56e1f11c-1217-46ab-b127-6afbc23bafba@108.181.23.235:443/?insecure=1&sni=20-24-33-134.nhost.00cdn.com&alpn=h3#[tcp][HY][alpn_h3] @ZDYZ2_ðŸ‡¨ðŸ‡¦_CA t.me/rjsxrd
-hysteria2://56e1f11c-1217-46ab-b127-6afbc23bafba@205.178.183.97:443/?insecure=1&sni=18-140-66-207.nhost.00cdn.com&alpn=h2#[tcp][HY][alpn_h2] @ZDYZ2_ðŸ‡¯ðŸ‡µ_JP t.me/rjsxrd
