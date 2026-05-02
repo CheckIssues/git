@@ -1,3 +1,11 @@
+hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@tr.saigonfly.com:17165?security=tls&insecure=0&mport=17001-17999&alpn=h3#[tcp][HY][alpn_h3] 🇹🇷 土耳其3 t.me/rjsxrd
+hysteria2://bee108c4-78d0-4853-a59c-8f799d7805e6@nexiahl.688997.xyz:20457?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1&sni=nexiahl.688997.xyz&alpn=h2#[tcp][HY][alpn_h2] هلند🇳🇱| اختصاصی شادمان t.me/rjsxrd
+hysteria2://bee108c4-78d0-4853-a59c-8f799d7805e6@nexiahl.688997.xyz:20457?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1&sni=nexiahl.688997.xyz&alpn=h3#[tcp][HY][alpn_h3] هلند🇳🇱| اختصاصی شادمان t.me/rjsxrd
+hysteria2://9cea8611-9024-4b0b-ad28-f68eae101812@ae.saigonfly.com:17556?security=tls&insecure=0&mport=17001-17999&alpn=h2#[tcp][HY][alpn_h2] 🇦🇪 阿联酋1 t.me/rjsxrd
+hysteria2://9cea8611-9024-4b0b-ad28-f68eae101812@ae.saigonfly.com:17556?security=tls&insecure=0&mport=17001-17999&alpn=h3#[tcp][HY][alpn_h3] 🇦🇪 阿联酋1 t.me/rjsxrd
+hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@ae.saigonfly.com:17986?security=tls&insecure=0&mport=17001-17999&alpn=h2#[tcp][HY][alpn_h2] 🇦🇪 阿联酋4 t.me/rjsxrd
+hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@ae.saigonfly.com:17986?security=tls&insecure=0&mport=17001-17999&alpn=h3#[tcp][HY][alpn_h3] 🇦🇪 阿联酋4 t.me/rjsxrd
+hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@ae.saigonfly.com:17348?security=tls&insecure=0&mport=17001-17999&alpn=h2#[tcp][HY][alpn_h2] 🇦🇪 阿联酋4 t.me/rjsxrd
 hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@ae.saigonfly.com:17348?security=tls&insecure=0&mport=17001-17999&alpn=h3#[tcp][HY][alpn_h3] 🇦🇪 阿联酋4 t.me/rjsxrd
 hysteria2://bee108c4-78d0-4853-a59c-8f799d7805e6@nexiaels.688997.xyz:20757?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1&sni=nexiaels.688997.xyz&alpn=h2#[tcp][HY][alpn_h2] 俄罗斯 t.me/rjsxrd
 hysteria2://bee108c4-78d0-4853-a59c-8f799d7805e6@nexiaels.688997.xyz:20757?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1&sni=nexiaels.688997.xyz&alpn=h3#[tcp][HY][alpn_h3] 俄罗斯 t.me/rjsxrd
@@ -790,11 +798,3 @@ hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891?insecure=
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@38.45.89.97:23892?insecure=1&sni=fus02.mistea.top&alpn=h2#[tcp][HY][alpn_h2] @meli_proxyy #8 t.me/rjsxrd
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@38.45.89.97:23892?insecure=1&sni=fus02.mistea.top&alpn=h3#[tcp][HY][alpn_h3] @meli_proxyy #8 t.me/rjsxrd
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.28.100:45979?insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] 🔐 @AblNet7 🇨🇦 机场推荐 t.me/rjsxrd
-hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.28.100:45979?insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] 🔐 @AblNet7 🇨🇦 机场推荐 t.me/rjsxrd
-hysteria2://1051bfbb-90db-4261-b5e4-8b91f62b437f@156.67.30.77:48173?hiddify=1&obfs=salamander&obfs-password=zeryYYEPSzWiCPYstfUb&sni=con.bitplatform-servers.com&alpn=h2#[tcp][HY][alpn_h2] public-hys2 t.me/rjsxrd
-hysteria2://1051bfbb-90db-4261-b5e4-8b91f62b437f@156.67.30.77:48173?hiddify=1&obfs=salamander&obfs-password=zeryYYEPSzWiCPYstfUb&sni=con.bitplatform-servers.com&alpn=h3#[tcp][HY][alpn_h3] public-hys2 t.me/rjsxrd
-hysteria2://1051bfbb-90db-4261-b5e4-8b91f62b437f@156.67.30.77:48173?hiddify=1&obfs=salamander&obfs-password=zeryYYEPSzWiCPYstfUb&sni=www.google.com&insecure=1&alpn=h2#[tcp][HY][alpn_h2] public-hys2-2 t.me/rjsxrd
-hysteria2://1051bfbb-90db-4261-b5e4-8b91f62b437f@156.67.30.77:48173?hiddify=1&obfs=salamander&obfs-password=zeryYYEPSzWiCPYstfUb&sni=www.google.com&insecure=1&alpn=h3#[tcp][HY][alpn_h3] public-hys2-2 t.me/rjsxrd
-hysteria2://TKozvcwUPN@194.113.106.53:943?security=tls&obfs=salamander&obfs-password=Telegram%3A%40Mikronet-plus+&insecure=0&sni=asghar.mikronetplus.store&alpn=h2#[tcp][HY][alpn_h2] 🆔iran_v2ray1 🔒 HY2-UDP-N/A 🇷🇺 RU down t.me/rjsxrd
-hysteria2://TKozvcwUPN@194.113.106.53:943?security=tls&obfs=salamander&obfs-password=Telegram%3A%40Mikronet-plus+&insecure=0&sni=asghar.mikronetplus.store&alpn=h3#[tcp][HY][alpn_h3] 🆔iran_v2ray1 🔒 HY2-UDP-N/A 🇷🇺 RU down t.me/rjsxrd
-hysteria2://95c2b673-d899-4ff4-a6c1-eafa74268a5e@166.1.18.244:26699?security=tls&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🆔new_mtproxi2 🔒 HY2-UDP-N/A 🇺🇸 US down t.me/rjsxrd

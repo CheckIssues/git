@@ -1,3 +1,11 @@
+hysteria2://b778e4ae-1458-11ec-a8bf-f23c91cfbbc9@f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net:8443?insecure=1&sni=f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net&alpn=h2#[tcp][HY][alpn_h2] 其他地区_金融专线_凝光的麻花辫 t.me/rjsxrd
+hysteria2://b778e4ae-1458-11ec-a8bf-f23c91cfbbc9@f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net:8443?insecure=1&sni=f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net&alpn=h3#[tcp][HY][alpn_h3] 其他地区_金融专线_凝光的麻花辫 t.me/rjsxrd
+hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443?insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] 日本东京 t.me/rjsxrd
+hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443?insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] 日本东京 t.me/rjsxrd
+hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@89.185.27.133:443?insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] 香港2 #1 t.me/rjsxrd
+hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@89.185.27.133:443?insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] 香港2 #1 t.me/rjsxrd
+hysteria2://b93a1fbd-ce3b-4556-8524-182a98a693dc@xjp1.xiaohuolongjc.top:37771?insecure=1&sni=xjp1.xiaohuolongjc.top&alpn=h2#[tcp][HY][alpn_h2] US_29 | ⬇️ 1.1MB/s t.me/rjsxrd
+hysteria2://b93a1fbd-ce3b-4556-8524-182a98a693dc@xjp1.xiaohuolongjc.top:37771?insecure=1&sni=xjp1.xiaohuolongjc.top&alpn=h3#[tcp][HY][alpn_h3] US_29 | ⬇️ 1.1MB/s t.me/rjsxrd
 hysteria2://b9e696f4-8877-42a6-8918-078987d64aed@xg.jjzcloud.top:57338?insecure=1&sni=xg.jjzcloud.top&alpn=h2#[tcp][HY][alpn_h2] ❓Other_5 | ⬇️ 1.0MB/s t.me/rjsxrd
 hysteria2://b9e696f4-8877-42a6-8918-078987d64aed@xg.jjzcloud.top:57338?insecure=1&sni=xg.jjzcloud.top&alpn=h3#[tcp][HY][alpn_h3] ❓Other_5 | ⬇️ 1.0MB/s t.me/rjsxrd
 hysteria2://baab37f4-69f1-4142-8e2d-4b64fc5df960@45.11.1.62:50000?insecure=1&sni=www.microsoft.com&alpn=h2#[tcp][HY][alpn_h2] JP_3 | ⬇️ 1.3MB/s t.me/rjsxrd
@@ -790,11 +798,3 @@ hysteria2://9cea8611-9024-4b0b-ad28-f68eae101812@ae.saigonfly.com:17545?security
 hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@ae.saigonfly.com:17636?security=tls&insecure=0&mport=17001-17999&alpn=h2#[tcp][HY][alpn_h2] 🇦🇪 阿联酋2 t.me/rjsxrd
 hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@ae.saigonfly.com:17636?security=tls&insecure=0&mport=17001-17999&alpn=h3#[tcp][HY][alpn_h3] 🇦🇪 阿联酋2 t.me/rjsxrd
 hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@tr.saigonfly.com:17165?security=tls&insecure=0&mport=17001-17999&alpn=h2#[tcp][HY][alpn_h2] 🇹🇷 土耳其3 t.me/rjsxrd
-hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@tr.saigonfly.com:17165?security=tls&insecure=0&mport=17001-17999&alpn=h3#[tcp][HY][alpn_h3] 🇹🇷 土耳其3 t.me/rjsxrd
-hysteria2://bee108c4-78d0-4853-a59c-8f799d7805e6@nexiahl.688997.xyz:20457?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1&sni=nexiahl.688997.xyz&alpn=h2#[tcp][HY][alpn_h2] هلند🇳🇱| اختصاصی شادمان t.me/rjsxrd
-hysteria2://bee108c4-78d0-4853-a59c-8f799d7805e6@nexiahl.688997.xyz:20457?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1&sni=nexiahl.688997.xyz&alpn=h3#[tcp][HY][alpn_h3] هلند🇳🇱| اختصاصی شادمان t.me/rjsxrd
-hysteria2://9cea8611-9024-4b0b-ad28-f68eae101812@ae.saigonfly.com:17556?security=tls&insecure=0&mport=17001-17999&alpn=h2#[tcp][HY][alpn_h2] 🇦🇪 阿联酋1 t.me/rjsxrd
-hysteria2://9cea8611-9024-4b0b-ad28-f68eae101812@ae.saigonfly.com:17556?security=tls&insecure=0&mport=17001-17999&alpn=h3#[tcp][HY][alpn_h3] 🇦🇪 阿联酋1 t.me/rjsxrd
-hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@ae.saigonfly.com:17986?security=tls&insecure=0&mport=17001-17999&alpn=h2#[tcp][HY][alpn_h2] 🇦🇪 阿联酋4 t.me/rjsxrd
-hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@ae.saigonfly.com:17986?security=tls&insecure=0&mport=17001-17999&alpn=h3#[tcp][HY][alpn_h3] 🇦🇪 阿联酋4 t.me/rjsxrd
-hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@ae.saigonfly.com:17348?security=tls&insecure=0&mport=17001-17999&alpn=h2#[tcp][HY][alpn_h2] 🇦🇪 阿联酋4 t.me/rjsxrd

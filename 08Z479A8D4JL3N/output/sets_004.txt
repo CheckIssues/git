@@ -1,3 +1,11 @@
+hysteria2://49904f74-629c-40e4-ab64-19613e557ca8@rb1.xiaohuolongjc.top:37771?insecure=1&sni=rb1.xiaohuolongjc.top&alpn=h2#[tcp][HY][alpn_h2] ❓Other_23 | ⬇️ 1.2MB/s t.me/rjsxrd
+hysteria2://49904f74-629c-40e4-ab64-19613e557ca8@rb1.xiaohuolongjc.top:37771?insecure=1&sni=rb1.xiaohuolongjc.top&alpn=h3#[tcp][HY][alpn_h3] ❓Other_23 | ⬇️ 1.2MB/s t.me/rjsxrd
+hysteria2://4VDmo53kWX@185.219.81.33:18865?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h2#[tcp][HY][alpn_h2] v2raybluecrystal2 t.me/rjsxrd
+hysteria2://4VDmo53kWX@185.219.81.33:18865?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h3#[tcp][HY][alpn_h3] v2raybluecrystal2 t.me/rjsxrd
+hysteria2://4VDmo53kWX@185.219.81.33:20675?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h2#[tcp][HY][alpn_h2] v2raybluecrystal t.me/rjsxrd
+hysteria2://4VDmo53kWX@185.219.81.33:20675?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h3#[tcp][HY][alpn_h3] v2raybluecrystal t.me/rjsxrd
+hysteria2://4VDmo53kWX@185.219.81.33:50757?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h2#[tcp][HY][alpn_h2] v2raybluecrystal3 t.me/rjsxrd
+hysteria2://4VDmo53kWX@185.219.81.33:50757?insecure=1&obfs=salamander&obfs-password=salamander&alpn=h3#[tcp][HY][alpn_h3] v2raybluecrystal3 t.me/rjsxrd
 hysteria2://4a7f880c-72f4-11ed-b0b5-f23c9164ca5d@6be32764-sw3ts0-t6ouc9-13xtu.hy2.gotochinatown.net:8443?insecure=1&sni=6be32764-sw3ts0-t6ouc9-13xtu.hy2.gotochinatown.net&alpn=h2#[tcp][HY][alpn_h2] 其他地区_鸣潮专线_芙宁娜的连体袜 t.me/rjsxrd
 hysteria2://4a7f880c-72f4-11ed-b0b5-f23c9164ca5d@6be32764-sw3ts0-t6ouc9-13xtu.hy2.gotochinatown.net:8443?insecure=1&sni=6be32764-sw3ts0-t6ouc9-13xtu.hy2.gotochinatown.net&alpn=h3#[tcp][HY][alpn_h3] 其他地区_鸣潮专线_芙宁娜的连体袜 t.me/rjsxrd
 hysteria2://4a7f880c-72f4-11ed-b0b5-f23c9164ca5d@a62452a0-swin40-t6ouc9-13xtu.hy2.gotochinatown.net:8443?insecure=1&sni=a62452a0-swin40-t6ouc9-13xtu.hy2.gotochinatown.net&alpn=h2#[tcp][HY][alpn_h2] 美国_优刻得专线_珊瑚宫心海的鸡吧 t.me/rjsxrd
@@ -790,11 +798,3 @@ hysteria2://b671e3e8-a271-4a36-b746-573d7c00e72c@xg.jjzcloud.top:57338?insecure=
 hysteria2://b671e3e8-a271-4a36-b746-573d7c00e72c@xg.jjzcloud.top:57338?insecure=1&sni=xg.jjzcloud.top&alpn=h3#[tcp][HY][alpn_h3] US_1 | ⬇️ 1.6MB/s t.me/rjsxrd
 hysteria2://b70a4d87-2b57-4532-8f10-f421de511eff@45.11.1.62:50000?insecure=1&sni=www.microsoft.com&alpn=h2#[tcp][HY][alpn_h2] JP_22 | ⬇️ 1.2MB/s t.me/rjsxrd
 hysteria2://b70a4d87-2b57-4532-8f10-f421de511eff@45.11.1.62:50000?insecure=1&sni=www.microsoft.com&alpn=h3#[tcp][HY][alpn_h3] JP_22 | ⬇️ 1.2MB/s t.me/rjsxrd
-hysteria2://b778e4ae-1458-11ec-a8bf-f23c91cfbbc9@f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net:8443?insecure=1&sni=f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net&alpn=h2#[tcp][HY][alpn_h2] 其他地区_金融专线_凝光的麻花辫 t.me/rjsxrd
-hysteria2://b778e4ae-1458-11ec-a8bf-f23c91cfbbc9@f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net:8443?insecure=1&sni=f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net&alpn=h3#[tcp][HY][alpn_h3] 其他地区_金融专线_凝光的麻花辫 t.me/rjsxrd
-hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443?insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] 日本东京 t.me/rjsxrd
-hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443?insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] 日本东京 t.me/rjsxrd
-hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@89.185.27.133:443?insecure=1&sni=www.bing.com&alpn=h2#[tcp][HY][alpn_h2] 香港2 #1 t.me/rjsxrd
-hysteria2://b866d83a-d301-4270-b699-40f322bf52fb@89.185.27.133:443?insecure=1&sni=www.bing.com&alpn=h3#[tcp][HY][alpn_h3] 香港2 #1 t.me/rjsxrd
-hysteria2://b93a1fbd-ce3b-4556-8524-182a98a693dc@xjp1.xiaohuolongjc.top:37771?insecure=1&sni=xjp1.xiaohuolongjc.top&alpn=h2#[tcp][HY][alpn_h2] US_29 | ⬇️ 1.1MB/s t.me/rjsxrd
-hysteria2://b93a1fbd-ce3b-4556-8524-182a98a693dc@xjp1.xiaohuolongjc.top:37771?insecure=1&sni=xjp1.xiaohuolongjc.top&alpn=h3#[tcp][HY][alpn_h3] US_29 | ⬇️ 1.1MB/s t.me/rjsxrd
