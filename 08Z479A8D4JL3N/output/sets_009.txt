@@ -745,6 +745,14 @@ hysteria2://s12fFiUvpP8B@vps-vmiss-usa.maze-maker.com:8443?sni=vps-vmiss-usa.maz
 hysteria2://XKuFgZiq27oj@vps-orange-jpn.maze-maker.com:8443?sni=vps-orange-jpn.maze-maker.com&alpn=h3&insecure=0#[tcp][HY][alpn_h3] ORANGE-JPN-HY2 t.me/rjsxrd
 hysteria2://w8RXDdaAd1cK@vps-vmshell-hkg.maze-maker.com:8443?sni=vps-vmshell-hkg.maze-maker.com&alpn=h3&insecure=0#[tcp][HY][alpn_h3] VMSHELL-HKG-HY2 t.me/rjsxrd
 hysteria2://vbOepSqrRCC2@vps-rcv-hkg.maze-maker.com:8443?sni=vps-rcv-hkg.maze-maker.com&alpn=h3&insecure=0#[tcp][HY][alpn_h3] RCV-HKG-HY2 t.me/rjsxrd
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
+hysteria2://dongtaiwang.com@163.172.113.118:41211?insecure=1&sni=www.microsoft.com&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
+hysteria2://dongtaiwang.com@163.172.113.118:41211?insecure=1&sni=www.microsoft.com&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
+hysteria2://dongtaiwang.com@163.172.113.118:41283?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
+hysteria2://dongtaiwang.com@163.172.113.118:41283?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
+hysteria2://dongtaiwang.com@163.172.113.118:41581?insecure=1&sni=www.microsoft.com&mport=41211%2C41283%2C40022%2C41000-42000&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
+hysteria2://dongtaiwang.com@163.172.113.118:41581?insecure=1&sni=www.microsoft.com&mport=41211%2C41283%2C40022%2C41000-42000&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
 hysteria2://XKuFgZiq27oj@vps-orange-jpn.maze-maker.com:8443?alpn=h3&insecure=1&sni=vps-orange-jpn.maze-maker.com#[tcp][HY][alpn_h3] 🇯🇵 Япония, Chiyoda City [🏴BL] t.me/rjsxrd
 hysteria2://239471f8-4608-438e-9d2e-a6a950d98ad4@31.59.104.139:8443?sni=bing.com&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇱🇻 Латвия, Riga [🏴BL] t.me/rjsxrd
 hysteria2://239471f8-4608-438e-9d2e-a6a950d98ad4@31.59.104.139:8443?sni=bing.com&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇱🇻 Латвия, Riga [🏴BL] t.me/rjsxrd
@@ -790,11 +798,3 @@ hysteria2://strong-secret-pass-777@45.149.114.75:444?insecure=1&sni=www.microsof
 hysteria2://strong-secret-pass-777@45.149.114.75:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&alpn=h3#[tcp][HY][alpn_h3] ⭐ 🇮🇳 New Delhi | HY2 t.me/rjsxrd
 hysteria2://strong-secret-pass-777@37.221.125.156:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&alpn=h2#[tcp][HY][alpn_h2] ⭐ 🇩🇪 Berlin Pro | HY2 t.me/rjsxrd
 hysteria2://strong-secret-pass-777@37.221.125.156:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&alpn=h3#[tcp][HY][alpn_h3] ⭐ 🇩🇪 Berlin Pro | HY2 t.me/rjsxrd
-hysteria2://strong-secret-pass-777@45.12.146.179:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&alpn=h2#[tcp][HY][alpn_h2] ⭐ 🇫🇮 Helsinki | HY2 t.me/rjsxrd
-hysteria2://strong-secret-pass-777@45.12.146.179:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&alpn=h3#[tcp][HY][alpn_h3] ⭐ 🇫🇮 Helsinki | HY2 t.me/rjsxrd
-hysteria2://strong-secret-pass-777@85.208.108.63:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&alpn=h2#[tcp][HY][alpn_h2] ⭐ 🇨🇦 Toronto | HY2 t.me/rjsxrd
-hysteria2://strong-secret-pass-777@85.208.108.63:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&alpn=h3#[tcp][HY][alpn_h3] ⭐ 🇨🇦 Toronto | HY2 t.me/rjsxrd
-hysteria2://strong-secret-pass-777@45.82.245.37:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&alpn=h2#[tcp][HY][alpn_h2] ⭐ 🇧🇷 Brasilia | HY2 t.me/rjsxrd
-hysteria2://strong-secret-pass-777@45.82.245.37:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&alpn=h3#[tcp][HY][alpn_h3] ⭐ 🇧🇷 Brasilia | HY2 t.me/rjsxrd
-hysteria2://strong-secret-pass-777@45.15.171.80:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&alpn=h2#[tcp][HY][alpn_h2] ⭐ 🇦🇱 Tirana | HY2 t.me/rjsxrd
-hysteria2://strong-secret-pass-777@45.15.171.80:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&alpn=h3#[tcp][HY][alpn_h3] ⭐ 🇦🇱 Tirana | HY2 t.me/rjsxrd

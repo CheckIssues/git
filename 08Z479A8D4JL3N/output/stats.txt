@@ -5,23 +5,23 @@
 
 [Протоколы]
 HY2: 586
-HYSTERIA2: 6530
-SS: 7806
-SSR: 148
-TROJAN: 14807
+HYSTERIA2: 6531
+SS: 7714
+SSR: 154
+TROJAN: 14901
 TUIC: 10
-VLESS: 70342
-VMESS: 6689
+VLESS: 69114
+VMESS: 6662
 
 [XHTTP Аналитика]
-Всего XHTTP: 3647
+Всего XHTTP: 3602
   - SS XHTTP: 84
   - TROJAN XHTTP: 2
-  - VLESS XHTTP: 3561
+  - VLESS XHTTP: 3516
 
 [IPv6 Аналитика]
-Всего IPv6: 550
+Всего IPv6: 548
   - DualStack: 420
   - Explicit: 105
-  - IPv6Only: 25
+  - IPv6Only: 23
 ==============================
