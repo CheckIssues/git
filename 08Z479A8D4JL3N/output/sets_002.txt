@@ -1,3 +1,25 @@
+hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@sg.zhenshihui.one:48489/?alpn=h2#[tcp][HY][alpn_h2] @V2rayMiner t.me/rjsxrd
+hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@sg.zhenshihui.one:48489/?alpn=h3#[tcp][HY][alpn_h3] @V2rayMiner t.me/rjsxrd
+hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@sg2.zhenshihui.one:48489/?alpn=h2#[tcp][HY][alpn_h2] @V2rayMiner t.me/rjsxrd
+hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@sg2.zhenshihui.one:48489/?alpn=h3#[tcp][HY][alpn_h3] @V2rayMiner t.me/rjsxrd
+hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@kr.zhenshihui.one:48489/?alpn=h2#[tcp][HY][alpn_h2] @V2rayMiner t.me/rjsxrd
+hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@kr.zhenshihui.one:48489/?alpn=h3#[tcp][HY][alpn_h3] @V2rayMiner t.me/rjsxrd
+hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@us.zhenshihui.one:48489/?alpn=h2#[tcp][HY][alpn_h2] @V2rayMiner t.me/rjsxrd
+hy2://02a9cb5b-1c13-47a2-bad8-bf46fabe1a4d@us.zhenshihui.one:48489/?alpn=h3#[tcp][HY][alpn_h3] @V2rayMiner t.me/rjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&alpn=h2#[tcp][HY][alpn_h2] 🇳🇱 Netherlands - 1 t.me/rjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&alpn=h3#[tcp][HY][alpn_h3] 🇳🇱 Netherlands - 1 t.me/rjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&alpn=h2#[tcp][HY][alpn_h2] 🇳🇱 Netherlands - 2 t.me/rjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&alpn=h3#[tcp][HY][alpn_h3] 🇳🇱 Netherlands - 2 t.me/rjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&alpn=h2#[tcp][HY][alpn_h2] 🇳🇱 Netherlands - 6 t.me/rjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&alpn=h3#[tcp][HY][alpn_h3] 🇳🇱 Netherlands - 6 t.me/rjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&alpn=h2#[tcp][HY][alpn_h2] 🇳🇱 Netherlands - 9 t.me/rjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&alpn=h3#[tcp][HY][alpn_h3] 🇳🇱 Netherlands - 9 t.me/rjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&alpn=h2#[tcp][HY][alpn_h2] 🇳🇱 Netherlands - 10 t.me/rjsxrd
+hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&alpn=h3#[tcp][HY][alpn_h3] 🇳🇱 Netherlands - 10 t.me/rjsxrd
+hy2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335/?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#[tcp][HY][alpn_h3] 🇸🇪-hamedp71 - Hysteria2 t.me/rjsxrd
+hy2://148097c2-cd69-4015-992f-5939c08b9ab8@112.120.54.171:443?mport=22000-22999&alpn=h2#[tcp][HY][alpn_h2] 🔒 HYSTERIA-UDP 🇭🇰 HK-112.120.54.171:443 t.me/rjsxrd
+hy2://148097c2-cd69-4015-992f-5939c08b9ab8@112.120.54.171:443?mport=22000-22999&alpn=h3#[tcp][HY][alpn_h3] 🔒 HYSTERIA-UDP 🇭🇰 HK-112.120.54.171:443 t.me/rjsxrd
+hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@157.245.198.38:10001?sni=AU.1010520.shop&alpn=h2#[tcp][HY][alpn_h2] 🔒 HYSTERIA-UDP 🇸🇬 SG-157.245.198.38:10001 t.me/rjsxrd
 hy2://b50f923f-1508-4991-a4c9-b22ce9a50085@157.245.198.38:10001?sni=AU.1010520.shop&alpn=h3#[tcp][HY][alpn_h3] 🔒 HYSTERIA-UDP 🇸🇬 SG-157.245.198.38:10001 t.me/rjsxrd
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@144.202.119.175:8080?sni=jp2.trojanws.xyz&alpn=h2#[tcp][HY][alpn_h2] 🔒 HYSTERIA-UDP 🇺🇸 US-144.202.119.175:8080 t.me/rjsxrd
 hy2://c5110090-c3a2-429e-b9b8-072b6535be1b@144.202.119.175:8080?sni=jp2.trojanws.xyz&alpn=h3#[tcp][HY][alpn_h3] 🔒 HYSTERIA-UDP 🇺🇸 US-144.202.119.175:8080 t.me/rjsxrd
@@ -337,8 +359,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tl
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org&alpn=h3#[tcp][HY][alpn_h3] @V2RAYROZ 🐥🌷 t.me/rjsxrd
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org&alpn=h2#[tcp][HY][alpn_h2] @V2rayNG3 t.me/rjsxrd
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org&alpn=h3#[tcp][HY][alpn_h3] @V2rayNG3 t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com&alpn=h2#[tcp][HY][alpn_h2] 𝙁𝙧𝙖𝙣𝙘𝙚 t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com&alpn=h3#[tcp][HY][alpn_h3] 𝙁𝙧𝙖𝙣𝙘𝙚 t.me/rjsxrd
 hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&fp=&sni=www.microsoft.com&obfs=&obfs-password=&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷FR_2|2.5MB/s t.me/rjsxrd
 hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&fp=&sni=www.microsoft.com&obfs=&obfs-password=&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷FR_2|2.5MB/s t.me/rjsxrd
 hysteria2://dongtaiwang.com@163.172.113.118:41984,41211,41283,40022,41000-42000?insecure=1&sni=www.microsoft.com&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷FR_1|1.8MB/s t.me/rjsxrd
@@ -652,22 +672,6 @@ hysteria2://rstnnl:hrQVPjgUr9HTgKyTj0oFCr6j4EpRzXTQ@reddeadfan.rd-team.ru:2026?s
 hysteria2://rstnnl:hrQVPjgUr9HTgKyTj0oFCr6j4EpRzXTQ@reddeadfan.rd-team.ru:2026?sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2&alpn=h3#[tcp][HY][alpn_h3] 1712 | 🇦🇲 Armenia | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu t.me/rjsxrd
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?insecure=1&alpn=h2#[tcp][HY][alpn_h2] 2020 | 🇩🇪 Germany | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu t.me/rjsxrd
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?insecure=1&alpn=h3#[tcp][HY][alpn_h3] 2020 | 🇩🇪 Germany | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:40022/?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&insecure=1&sni=www.microsoft.com&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷 France, Paris | [BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:40022/?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&insecure=1&sni=www.microsoft.com&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷 France, Paris | [BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷 France, Paris | [BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷 France, Paris | [BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=41283%2C40022%2C41000-42000&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷 France, Paris | [BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=41283%2C40022%2C41000-42000&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷 France, Paris | [BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:41947?insecure=1&sni=www.microsoft.com&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷 France, Paris | [BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:41947?insecure=1&sni=www.microsoft.com&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷 France, Paris | [BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:41947?insecure=1&sni=www.microsoft.com&mport=41283%2C41283%2C40022%2C41000&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷 France, Paris | [BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:41947?insecure=1&sni=www.microsoft.com&mport=41283%2C41283%2C40022%2C41000&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷 France, Paris | [BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:41984?sni=www.microsoft.com&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷 France, Paris | [BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:41984?sni=www.microsoft.com&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷 France, Paris | [BL] t.me/rjsxrd
-hysteria2://hysteria_master_password@72.56.122.195:443?encryption=none&sni=google.com&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇩🇪 Germany, Frankfurt am Main | [BL] t.me/rjsxrd
-hysteria2://hysteria_master_password@72.56.122.195:443?encryption=none&sni=google.com&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇩🇪 Germany, Frankfurt am Main | [BL] t.me/rjsxrd
-hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇩🇪 Germany, Frankfurt am Main | 🌐 | [IPv6] | [BL] t.me/rjsxrd
-hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇩🇪 Germany, Frankfurt am Main | 🌐 | [IPv6] | [BL] t.me/rjsxrd
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?headerType=none&encryption=none&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇩🇪 Germany, Frankfurt am Main | 🌐 | [IPv6] | [BL] t.me/rjsxrd
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?headerType=none&encryption=none&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇩🇪 Germany, Frankfurt am Main | 🌐 | [IPv6] | [BL] t.me/rjsxrd
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?headerType=none&encryption=none&sni=flkf.mangshe.xyz&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇩🇪 Germany, Frankfurt am Main | 🌐 | [IPv6] | [BL] t.me/rjsxrd
@@ -676,12 +680,10 @@ hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?security=tls&
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?security=tls&insecure=1&sni=flkf.mangshe.xyz&alpn=h3#[tcp][HY][alpn_h3] 🇩🇪 Germany, Frankfurt am Main | 🌐 | [IPv6] | [BL] t.me/rjsxrd
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk2.shiyuandian.shop:1935?insecure=1&sni=hk2.shiyuandian.shop&alpn=h2#[tcp][HY][alpn_h2] 🇭🇰 Hong Kong, Hong Kong | 🌐 | [IPv6] | [BL] t.me/rjsxrd
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk2.shiyuandian.shop:1935?insecure=1&sni=hk2.shiyuandian.shop&alpn=h3#[tcp][HY][alpn_h3] 🇭🇰 Hong Kong, Hong Kong | 🌐 | [IPv6] | [BL] t.me/rjsxrd
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-jp-010.fastervpn.world&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇯🇵 Japan, Chiyoda City | [BL] t.me/rjsxrd
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-jp-010.fastervpn.world&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇯🇵 Japan, Chiyoda City | [BL] t.me/rjsxrd
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@sg1.shiyuandian.shop:2056?insecure=1&sni=sg1.shiyuandian.shop&alpn=h2#[tcp][HY][alpn_h2] 🇸🇬 Singapore, Singapore | [BL] t.me/rjsxrd
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@sg1.shiyuandian.shop:2056?insecure=1&sni=sg1.shiyuandian.shop&alpn=h3#[tcp][HY][alpn_h3] 🇸🇬 Singapore, Singapore | [BL] t.me/rjsxrd
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?security=tls&insecure=1&sni=vpn-tw-001.fastervpn.world&alpn=h2#[tcp][HY][alpn_h2] 🇹🇼 Taiwan, Taoyuan | [BL] t.me/rjsxrd
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?security=tls&insecure=1&sni=vpn-tw-001.fastervpn.world&alpn=h3#[tcp][HY][alpn_h3] 🇹🇼 Taiwan, Taoyuan | [BL] t.me/rjsxrd
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@83.243.86.103:12855?sni=www.microsoft.com&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🌐 Anycast-IP | [BL] t.me/rjsxrd
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@83.243.86.103:12855?sni=www.microsoft.com&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🌐 Anycast-IP | [BL] t.me/rjsxrd
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.117.103.156:443/?insecure=1&sni=vpn-us-003.fastervpn.world&alpn=h2#[tcp][HY][alpn_h2] 🏳️ ShatakVPN 894602 t.me/rjsxrd
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.117.103.156:443/?insecure=1&sni=vpn-us-003.fastervpn.world&alpn=h3#[tcp][HY][alpn_h3] 🏳️ ShatakVPN 894602 t.me/rjsxrd
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.133.111.231:443?insecure=1&sni=vpn-us-003.fastervpn.world&alpn=h2#[tcp][HY][alpn_h2] 🏳️ ShatakVPN 504383 t.me/rjsxrd
@@ -702,8 +704,6 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir&alpn=h3#[tcp][HY][alpn_h3] 🏳️ ShatakVPN 168296 t.me/rjsxrd
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@180.93.164.252:443?insecure=1&sni=vpn-vn-001.fastervpn.world&alpn=h2#[tcp][HY][alpn_h2] 🏳️ ShatakVPN 883153 t.me/rjsxrd
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@180.93.164.252:443?insecure=1&sni=vpn-vn-001.fastervpn.world&alpn=h3#[tcp][HY][alpn_h3] 🏳️ ShatakVPN 883153 t.me/rjsxrd
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443/?insecure=1&alpn=h2#[tcp][HY][alpn_h2] 0954 | 🌐 Unknown | HYSTERIA2 | TG: @YoutubeUnBlockRu t.me/rjsxrd
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443/?insecure=1&alpn=h3#[tcp][HY][alpn_h3] 0954 | 🌐 Unknown | HYSTERIA2 | TG: @YoutubeUnBlockRu t.me/rjsxrd
 hysteria2://SeilceBolshoyPenis@37.18.14.235:143/?insecure=1&sni=max.ru&alpn=h2#[tcp][HY][alpn_h2] №41 🇷🇺 Россия, Max.ru t.me/rjsxrd
 hysteria2://SeilceBolshoyPenis@37.18.14.235:143/?insecure=1&sni=max.ru&alpn=h3#[tcp][HY][alpn_h3] №41 🇷🇺 Россия, Max.ru t.me/rjsxrd
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@107.167.18.123:1743?security=tls&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk&alpn=h2#[tcp][HY][alpn_h2] 🇺🇸 [AS46844] Sharktech #1 (227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk) t.me/rjsxrd

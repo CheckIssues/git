@@ -737,14 +737,8 @@ hysteria2://s12fFiUvpP8B@vps-vmiss-usa.maze-maker.com:8443?sni=vps-vmiss-usa.maz
 hysteria2://XKuFgZiq27oj@vps-orange-jpn.maze-maker.com:8443?sni=vps-orange-jpn.maze-maker.com&alpn=h3&insecure=0#[tcp][HY][alpn_h3] ORANGE-JPN-HY2 t.me/rjsxrd
 hysteria2://w8RXDdaAd1cK@vps-vmshell-hkg.maze-maker.com:8443?sni=vps-vmshell-hkg.maze-maker.com&alpn=h3&insecure=0#[tcp][HY][alpn_h3] VMSHELL-HKG-HY2 t.me/rjsxrd
 hysteria2://vbOepSqrRCC2@vps-rcv-hkg.maze-maker.com:8443?sni=vps-rcv-hkg.maze-maker.com&alpn=h3&insecure=0#[tcp][HY][alpn_h3] RCV-HKG-HY2 t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:40022?security=tls&insecure=1&sni=www.microsoft.com&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:40022?security=tls&insecure=1&sni=www.microsoft.com&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:41211?insecure=1&sni=www.microsoft.com&mport=41283%2C40022%2C41000&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:41211?insecure=1&sni=www.microsoft.com&mport=41283%2C40022%2C41000&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:41283?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:41283?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:41581?insecure=1&sni=www.microsoft.com&mport=41211%2C41283%2C40022%2C41000-42000&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@163.172.113.118:41581?insecure=1&sni=www.microsoft.com&mport=41211%2C41283%2C40022%2C41000-42000&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷 Франция, Paris [🏴BL] t.me/rjsxrd
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-011.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-jp-011.fastervpn.world&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇯🇵 Япония, Chiyoda City [🏴BL] t.me/rjsxrd
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-011.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-jp-011.fastervpn.world&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇯🇵 Япония, Chiyoda City [🏴BL] t.me/rjsxrd
 hysteria2://XKuFgZiq27oj@vps-orange-jpn.maze-maker.com:8443?alpn=h3&insecure=1&sni=vps-orange-jpn.maze-maker.com#[tcp][HY][alpn_h3] 🇯🇵 Япония, Chiyoda City [🏴BL] t.me/rjsxrd
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-vn-001.fastervpn.world&insecure=1&alpn=h2#[tcp][HY][alpn_h2] 🇻🇳 Вьетнам, Quận Bốn [🏴BL] t.me/rjsxrd
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-vn-001.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-vn-001.fastervpn.world&insecure=1&alpn=h3#[tcp][HY][alpn_h3] 🇻🇳 Вьетнам, Quận Bốn [🏴BL] t.me/rjsxrd
@@ -798,3 +792,9 @@ hysteria2://strong-secret-pass-777@45.15.171.80:444?insecure=1&sni=www.microsoft
 hysteria2://strong-secret-pass-777@45.15.171.80:444?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=cry_me_a_r1ver_2026&alpn=h3#[tcp][HY][alpn_h3] ⭐ 🇦🇱 Tirana | HY2 t.me/rjsxrd
 hysteria2://SeilceBolshoyPenis@37.18.14.235:143?security=tls&sni=max.ru&allowInsecure=true&alpn=h2#[tcp][HY][alpn_h2] 🇷🇺 Москва №5 Hysteria t.me/rjsxrd
 hysteria2://SeilceBolshoyPenis@37.18.14.235:143?security=tls&sni=max.ru&allowInsecure=true&alpn=h3#[tcp][HY][alpn_h3] 🇷🇺 Москва №5 Hysteria t.me/rjsxrd
+hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&sni=www.microsoft.com&allowInsecure=true&alpn=h2#[tcp][HY][alpn_h2] 🇫🇷 France | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd
+hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&sni=www.microsoft.com&allowInsecure=true&alpn=h3#[tcp][HY][alpn_h3] 🇫🇷 France | 🌐 | [IPv6] [*CIDR] t.me/rjsxrd
+hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&sni=www.cloudflare.com&allowInsecure=true&alpn=h2#[tcp][HY][alpn_h2] 🇳🇱 The Netherlands [*CIDR] t.me/rjsxrd
+hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&sni=www.cloudflare.com&allowInsecure=true&alpn=h3#[tcp][HY][alpn_h3] 🇳🇱 The Netherlands [*CIDR] t.me/rjsxrd
+hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowInsecure=true&alpn=h2#[tcp][HY][alpn_h2] 🇳🇱 The Netherlands [*CIDR] t.me/rjsxrd
+hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&allowInsecure=true&alpn=h3#[tcp][HY][alpn_h3] 🇳🇱 The Netherlands [*CIDR] t.me/rjsxrd
