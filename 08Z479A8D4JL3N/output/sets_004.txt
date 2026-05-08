@@ -1,3 +1,15 @@
+hysteria2://sharecentrepro@103.245.237.90:4433?peer=vn.sharecentre.online&obfs=none#hy2测试 t.me/rjsxrd
+hysteria2://sharecentrepro@de.sharecentrepro.link:4433?insecure=1&sni= de.sharecentrepro.link#SCP1 t.me/rjsxrd
+hysteria2://sharecentrepro@de.sharecentrepro.link:4433?peer=de.sharecentrepro.link&obfs=none&downmbps=1000#SCP1 t.me/rjsxrd
+hysteria2://sharecentrepro@jpntt.sharecentre.online:4433?insecure=1&sni=jpntt.sharecentre.online#t.me/rjsxrd
+hysteria2://sharecentrepro@jpntt.sharecentre.online:4433?peer=jpntt.sharecentre.online&obfs=none#hy2｜TEST t.me/rjsxrd
+hysteria2://sharecentrepro@jpntt2.sharecentre.online:4433?insecure=1&sni= jpntt2.sharecentre.online#SCP t.me/rjsxrd
+hysteria2://sharecentrepro@jpntt2.sharecentre.online:4433?peer= jpntt2.sharecentre.online&obfs=none#SCP1 t.me/rjsxrd
+hysteria2://sharecentrepro@us.scproxy.top:4433?insecure=1&sni= us.scproxy.top#SCP t.me/rjsxrd
+hysteria2://sharecentrepro@us.scproxy.top:4433?peer=us.scproxy.top&obfs=none#SCP1 t.me/rjsxrd
+hysteria2://sharecentrepro@ushy2.sharecentre.online:4433?insecure=1&sni=ushy2.sharecentre.online#hy2 t.me/rjsxrd
+hysteria2://sharecentrepro@ushy2.sharecentre.online:4433?peer=ushy2.sharecentre.online&obfs=none#hy2｜TEST t.me/rjsxrd
+hysteria2://sharecentrepro@ushy2.sharecentre.online:4434?insecure=1&sni=ushy2.sharecentre.online#hy2 t.me/rjsxrd
 hysteria2://sharecentrepro@ushy2.sharecentre.online:4434?peer=ushy2.sharecentre.online&obfs=none#hy2｜TEST t.me/rjsxrd
 hysteria2://v2meowmeowmeow@103.68.108.25:443?insecure=1#💘 @v2ray_configs_pool 💘 t.me/rjsxrd
 hysteria2://v2meowmeowmeow@103.68.108.25:443?insecure=1&sni=google.com#💘 @v2ray_configs_pool 💘 t.me/rjsxrd
@@ -786,15 +798,3 @@ hysteria2://ba9b7cb2-9cda-4dc1-9b0a-313fdd2254bf@195.58.49.84:31000?obfs=salaman
 hysteria2://b64716ca-1e3a-4f91-8b23-f5001eb81a9c@195.58.49.84:31000?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#🇷🇺俄罗斯1 | ⬇️ 1.0MB/s t.me/rjsxrd
 hysteria2://7af3db60-b2d9-11ef-88ab-f23c913c8d2b@b9a88fb8-suk9s0-t7qex7-1supq.hy2.gotochinatown.net:8443?sni=b9a88fb8-suk9s0-t7qex7-1supq.hy2.gotochinatown.net&insecure=0#https://t.me/pgkj666 t.me/rjsxrd
 hysteria2://be8ba532-0dcf-11f0-9a65-f23c9164ca5d@8b21ebfd-suif40-tcvn0z-1tlyg.hy2.gotochinatown.net:8443?sni=8b21ebfd-suif40-tcvn0z-1tlyg.hy2.gotochinatown.net&insecure=0#🇺🇸美国16 | ⬇️ 3.0MB/s t.me/rjsxrd
-hysteria2://1166b630-c683-4d43-aad6-a1bc9fe8abf1@195.58.49.84:31000?obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D&insecure=1#https://t.me/pgkj666 t.me/rjsxrd
-hysteria2://b543c066-2189-4aa4-8afb-445ac8ee28d4@193.122.98.107:35000?sni=api.push.apple.com&insecure=1#🇰🇷韩国18 | ⬇️ 2.1MB/s|63%|Netflix|Disney|Youtube|Openai|Gemini t.me/rjsxrd
-hysteria2://b543c066-2189-4aa4-8afb-445ac8ee28d4@217.142.230.50:35000?sni=www.apple.com&insecure=1#🇯🇵日本9 | ⬇️ 2.0MB/s|63%|Disney|Youtube|Openai|Gemini t.me/rjsxrd
-hysteria2://b543c066-2189-4aa4-8afb-445ac8ee28d4@167.234.210.122:35000?sni=www.apple.com&insecure=1#🇺🇸美国123 | ⬇️ 1.0MB/s|63%|Disney|Openai|Gemini t.me/rjsxrd
-hysteria2://b543c066-2189-4aa4-8afb-445ac8ee28d4@192.9.130.120:35000?sni=www.apple.com&insecure=1#🇺🇸美国119 | ⬇️ 1.0MB/s|63%|Netflix|Openai t.me/rjsxrd
-hysteria2://dongtaiwang.com@195.154.33.70:23587?sni=www.bing.com&insecure=1#🇫🇷 FR 037 | ⬇️ 4.49 MB/s t.me/rjsxrd
-hysteria2://dongtaiwang.com@46.17.41.5:12904?sni=apple.com&insecure=1#https://t.me/xyfqzy t.me/rjsxrd
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@91.149.238.71:30102?insecure=1#hamedp71-47-🇫🇷 t.me/rjsxrd
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@193.123.76.141:30102?insecure=1&sni=du.wish.ml#hamedp71-50-🇫🇷 t.me/rjsxrd
-hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102?insecure=1#hamedp71-52-🇺🇸 t.me/rjsxrd
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#hamedp71-58-🇨🇦 t.me/rjsxrd
-hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@107.167.18.123:1743?security=tls&insecure=0&sni=fecc1dc4-t4v9c0-t5ht86-dnss.la.shifen.uk#%3E%3E%40FreakConfig::US t.me/rjsxrd
