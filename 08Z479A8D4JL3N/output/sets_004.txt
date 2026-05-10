@@ -1,7 +1,3 @@
-hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@uk.saigonfly.com:17177?security=tls&insecure=0&mport=17001-17999#🇬🇧 英国3 t.me/rjsxrd
-hysteria2://de4aa07f-fde5-4fb1-8317-7f66814f9cd0@shitou-uk.mxtn.net:21157?security=tls&insecure=0&mport=21001-21999#🇬🇧 英国3 t.me/rjsxrd
-hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-nl.legeth.xyz:11588?security=tls&insecure=0#🇳🇱 荷兰4 t.me/rjsxrd
-hysteria2://9cea8611-9024-4b0b-ad28-f68eae101812@ae.saigonfly.com:17007?security=tls&insecure=0&mport=17001-17999#🇦🇪 阿联酋1 t.me/rjsxrd
 hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@uk.saigonfly.com:17465?security=tls&insecure=0&mport=17001-17999#🇬🇧 英国2 t.me/rjsxrd
 hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@ae.saigonfly.com:17597?security=tls&insecure=0&mport=17001-17999#🇦🇪 阿联酋2 t.me/rjsxrd
 hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-se.legeth.xyz:11663?security=tls&insecure=0#🇸🇪 瑞典3 t.me/rjsxrd
@@ -798,3 +794,7 @@ hysteria2://zdUcTseVJy@91.99.225.11:443?insecure=1&obfs=salamander&obfs-password
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:37058?sni=dxobg4azmk.gafnode.sbs&insecure=0#Kyiv-GetAFreeNode t.me/rjsxrd
 hysteria2://KTK7EAVqhmH4AHDaB3OGo7yy0u3xiBV3sk4dmLXdwpxjYS9ifVSotkGOQRBl3skwPgS7jhKWjNyRM7FkglbsmW4cJoKpDQoqIojc@duckduckv.online:443?sni=duckduckv.online&alpn=h3&obfs=salamander&obfs-password=GaQVRAuv3XIrFqKLqgwmIzTZA2UHX9cHvlicw1aScd9s8qEiRZlAq3UEQCGgkKJXBnIP3fCWHDIMi6CugM5x6ztRPYoqNlSWKVeZ&fastopen=1#HYS-Join-@Change_IP1 t.me/rjsxrd
 hysteria2://DnMOT5C2CP@162.55.223.25:2083?obfs=salamander&obfs-password=Vk%40l%40b%40shV&insecure=1#Hys2+TLS+ECH â¾ t.me/rjsxrd
+hysteria2://DnMOT5C2CP@162.55.223.25:2096?obfs=salamander&obfs-password=Vk%40l%40b%40shV&insecure=1#Hys2+ECH+PQS â¾ t.me/rjsxrd
+hysteria2://af9e1b9f-3ee6-4184-a330-bb110419687a@us.555199.xyz:5000/?insecure=0&sni=sg.555199.xyz&mport=5000-12000#联通用美国2 t.me/rjsxrd
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-kr-001.fastervpn.world:443?insecure=1&sni=vpn-kr-001.fastervpn.world#🇰🇷 机场推荐:dafei.de 韩国 02 t.me/rjsxrd
+hysteria2://9a94ba24@156.239.46.82:56524?insecure=1&sni=www.bing.com#🇸🇨 机场推荐:dafei.de 塞舌尔 01 t.me/rjsxrd

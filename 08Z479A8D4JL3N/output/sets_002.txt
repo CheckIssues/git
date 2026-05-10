@@ -1,7 +1,3 @@
-hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056#3389 | 🇩🇪 Germany | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu t.me/rjsxrd
-hysteria2://abc123@pl1-lite.epichost.pl:10090?headerType=none&encryption=none&sni=pl1-lite.epichost.pl&insecure=1#🇵🇱 Poland [*CIDR] t.me/rjsxrd
-hysteria2://SeilceBolshoyPenis@37.18.14.235:143/?insecure=1&sni=max.ru#№41 🇷🇺 Россия, Max.ru t.me/rjsxrd
-hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@107.167.18.123:1743?security=tls&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk#🇺🇸 [AS46844] Sharktech #1 (227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk) t.me/rjsxrd
 hysteria2://dongtaiwang.com@89.144.35.25:33550?security=tls&sni=apple.com#🇳🇱 [AS214639] ITM NORD AS #1 (apple.com) t.me/rjsxrd
 hysteria2://d2be25ee-46b9-4cdb-a3aa-dcfc70503162@v4.yuetoto.net:443?sni=up-jv6o.yuetong.online&insecure=0&allowInsecure=0#🇭🇰 Hysteria-TLS | @v2ray_configs_pool t.me/rjsxrd
 hysteria2://d2be25ee-46b9-4cdb-a3aa-dcfc70503162@v4.yuetoto.net:443?sni=e7216e33.yuetong.online&insecure=0&allowInsecure=0#🇰🇷 Hysteria-TLS | @v2ray_configs_pool t.me/rjsxrd
@@ -798,3 +794,7 @@ hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21077?insecu
 hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21083?insecure=1&sni=yue-hk.yuetoto.net#HK_9|5.9MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
 hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21090?insecure=1&sni=yue-hk.yuetoto.net#HK_10|14.0MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
 hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-hk.yuetoto.net:21099?insecure=1&sni=yue-hk.yuetoto.net#HK_3|7.6MB/s|YT-HK|NF|D+|0% t.me/rjsxrd
+hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-jp.yuetoto.net:21008?insecure=1&sni=yue-jp.yuetoto.net#JP_19|5.0MB/s|GPT⁺|NF|GM|0% t.me/rjsxrd
+hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-jp.yuetoto.net:21009?insecure=1&sni=yue-jp.yuetoto.net#JP_6|9.3MB/s|GPT⁺|NF|GM|0% t.me/rjsxrd
+hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-jp.yuetoto.net:21010?insecure=1&sni=yue-jp.yuetoto.net#JP_20|12.2MB/s|GPT⁺|NF|GM|0% t.me/rjsxrd
+hysteria2://7de0251a-7130-43b4-852e-8209dc6dc900@yue-jp.yuetoto.net:21013?insecure=1&sni=yue-jp.yuetoto.net#JP_1|5.4MB/s|GPT⁺|NF|GM|0% t.me/rjsxrd
