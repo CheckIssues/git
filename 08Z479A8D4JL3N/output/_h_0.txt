@@ -188,20 +188,27 @@ hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@finprem.nimarko.org:443?alpn=h3
 hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@finprem.nimarko.org:443?headerType=none&encryption=none&sni=finprem.nimarko.org&alpn=h3&insecure=0#🇫🇮 Finland, Helsinki | [BL]
 hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@finprem.nimarko.org:443?headerType=none&encryption=none&sni=finprem.nimarko.org&insecure=0#🇫🇮 Finland, Helsinki | [BL]
 hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@finprem.nimarko.org:443?sni=finprem.nimarko.org#🇫🇮 Finland, Helsinki | [BL]
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🇫🇷 France, Paris | 🌐 | [IPv6] | [BL]
 hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&insecure=1&sni=www.microsoft.com#🇫🇷 France, Paris | 🌐 | [IPv6] | [BL]
 hysteria2://dongtaiwang.com@62.210.124.146:22000?security=tls&sni=www.microsoft.com&allowInsecure=true#🇫🇷 France, Paris | 🌐 | [IPv6] | [BL]
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443/?insecure=1&sni=vpn-jp-010.fastervpn.world#🇯🇵 Japan, Chiyoda City | [BL]
+hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France, Paris | 🌐 | [IPv6] | [BL]
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@154.83.84.58:443?sni=s488.ccgfw.online#🇭🇰 Hong Kong, Hong Kong | [BL]
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443?headerType=none&encryption=none&insecure=1#🇯🇵 Japan, Chiyoda City | [BL]
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-jp-010.fastervpn.world&insecure=1#🇯🇵 Japan, Chiyoda City | [BL]
 hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@pols.nimarko.org:4443?alpn=h3&insecure=0&sni=pols.nimarko.org#🇵🇱 Poland, Warsaw (Mokotów) | [BL]
 hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@pols.nimarko.org:4443?headerType=none&encryption=none&sni=pols.nimarko.org&alpn=h3&insecure=0#🇵🇱 Poland, Warsaw (Mokotów) | [BL]
+hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@pols.nimarko.org:4443?headerType=none&encryption=none&sni=pols.nimarko.org&insecure=0#🇵🇱 Poland, Warsaw (Mokotów) | [BL]
 hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@pols.nimarko.org:4443?sni=pols.nimarko.org#🇵🇱 Poland, Warsaw (Mokotów) | [BL]
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443/?insecure=1&sni=vpn-tw-001.fastervpn.world#🇹🇼 Taiwan, Taoyuan | [BL]
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-tw-001.fastervpn.world&insecure=1#🇹🇼 Taiwan, Taoyuan | [BL]
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?security=tls&insecure=1&sni=vpn-tw-001.fastervpn.world#🇹🇼 Taiwan, Taoyuan | [BL]
 hysteria2://ef6a309e-c300-4907-92a4-f2869eba4be6@92.112.124.13:10802/?insecure=1&sni=www.bing.com#🇳🇱 The Netherlands, Amsterdam | 🌐 | [IPv6] | [BL]
+hysteria2://ef6a309e-c300-4907-92a4-f2869eba4be6@92.112.124.13:10802?headerType=none&encryption=none&insecure=1#🇳🇱 The Netherlands, Amsterdam | 🌐 | [IPv6] | [BL]
+hysteria2://ef6a309e-c300-4907-92a4-f2869eba4be6@92.112.124.13:10802?headerType=none&encryption=none&sni=www.bing.com&insecure=1#🇳🇱 The Netherlands, Amsterdam | 🌐 | [IPv6] | [BL]
+hysteria2://ef6a309e-c300-4907-92a4-f2869eba4be6@92.112.124.13:10802?insecure=1#🇳🇱 The Netherlands, Amsterdam | 🌐 | [IPv6] | [BL]
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1#🌐 Anycast-IP | [IPv6] | [BL]
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?sni=www.microsoft.com&insecure=1#🌐 Anycast-IP | [IPv6] | [BL]
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?sni=www.microsoft.com&insecure=1&allowInsecure=1#🌐 Anycast-IP | [IPv6] | [BL]
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=0&alpn=h3&fp=&sni=s516.okgfw.top#🇷🇺 Russia | 🌐 | [IPv6] | [BL]
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?sni=s516.okgfw.top#🇷🇺 Russia | 🌐 | [IPv6] | [BL]
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?sni=s516.okgfw.top&insecure=1#🇷🇺 Russia | 🌐 | [IPv6] | [BL]
 hy2://5046SHWqk6@91.132.51.160:844/#🇦🇪AE(AzadNet.t.me) t.me/rjsxrd
@@ -553,7 +560,6 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-003.fastervpn.world:443?insecure=1&s
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-uk-002.fastervpn.world:443?insecure=1&sni=vpn-uk-002.fastervpn.world#🇬🇧 机场推荐:dafei.de 英国 01 t.me/rjsxrd
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-005.fastervpn.world:443?insecure=1&sni=vpn-us-005.fastervpn.world#🇺🇸 机场推荐:dafei.de 美国 33 t.me/rjsxrd
 hysteria2://rstnnl@185.73.126.28:443?sni=healthpp.ppnorma.ru#🌐سرور t.me/rjsxrd
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🍥41@oneclickvpnkeys t.me/rjsxrd
 hysteria2://41aec03d-4345-4bff-9bab-69d36d80033c@94.103.3.40:2056/?insecure=1&sni=ru.eyucdn.xyz#🇷🇺RU  ROSE—02 t.me/rjsxrd
 hysteria2://7dd10318-28fd-413f-81f0-cd0a286e4779@flkf2.mangshe.xyz:2056/?insecure=1&sni=flkf2.mangshe.xyz#🇩🇪DE  ROSE—03 t.me/rjsxrd
 hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#🇩🇪DE  ROSE—04 t.me/rjsxrd
@@ -655,7 +661,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=t
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#IP_CF t.me/rjsxrd
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#🔷🆔@v2ray_configs_pool🔷 t.me/rjsxrd
 hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?sni=iij.mggl.wang&insecure=1&allowInsecure=1#🇯🇵 Japan | 🌐 | [IPv6] | [BL] t.me/rjsxrd
-hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France, Paris | 🌐 | [IPv6] | [BL] t.me/rjsxrd
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#🏳️ ShatakVPN 487096 t.me/rjsxrd
 hysteria2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443/?sni=hy5.hy2yydsapi.top#t.me/rjsxrd
 hysteria2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443?sni=hy5.hy2yydsapi.top#t.me/rjsxrd
@@ -664,7 +669,7 @@ hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1#�
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?headerType=none&encryption=none&insecure=1#🇩🇪 Germany, Frankfurt am Main | 🌐 | [IPv6] | [BL] t.me/rjsxrd
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?security=tls&insecure=1&sni=flkf.mangshe.xyz#🇩🇪 Germany, Frankfurt am Main | 🌐 | [IPv6] | [BL] t.me/rjsxrd
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@116.206.92.123:443?headerType=none&encryption=none&insecure=1#🇯🇵 Japan, Chiyoda City | [BL] t.me/rjsxrd
-hysteria2://661ce23b-7fe9-4217-8abe-76c28b687691@pols.nimarko.org:4443?headerType=none&encryption=none&sni=pols.nimarko.org&insecure=0#🇵🇱 Poland, Warsaw (Mokotów) | [BL] t.me/rjsxrd
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=0&alpn=h3&fp=&sni=s516.okgfw.top#🇷🇺 Russia | 🌐 | [IPv6] | [BL] t.me/rjsxrd
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=1&sni=s516.okgfw.top&mport=443#🇷🇺 Russia | 🌐 | [IPv6] | [BL] t.me/rjsxrd
 hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@91.149.236.252:24591?insecure=1&sni=hk1.shiyuandian.shop#🏳️ ShatakVPN 799757 t.me/rjsxrd
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🏳️ ShatakVPN 572884 t.me/rjsxrd
@@ -3418,8 +3423,7 @@ hysteria2://vbOepSqrRCC2@vps-rcv-hkg.maze-maker.com:8443?sni=vps-rcv-hkg.maze-ma
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@116.206.92.123:443?insecure=1#🇯🇵 Япония, Chiyoda City [🏴BL] t.me/rjsxrd
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-005.fastervpn.world:443/?insecure=1&sni=vpn-jp-005.fastervpn.world#🇯🇵 Япония, Chiyoda City [🏴BL] t.me/rjsxrd
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-005.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-jp-005.fastervpn.world&insecure=1#🇯🇵 Япония, Chiyoda City [🏴BL] t.me/rjsxrd
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443?headerType=none&encryption=none&insecure=1#🇯🇵 Япония, Chiyoda City [🏴BL] t.me/rjsxrd
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-jp-010.fastervpn.world&insecure=1#🇯🇵 Япония, Chiyoda City [🏴BL] t.me/rjsxrd
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443/?insecure=1&sni=vpn-jp-010.fastervpn.world#🇯🇵 Япония, Chiyoda City [🏴BL] t.me/rjsxrd
 hysteria2://rstnnl:hrQVPjgUr9HTgKyTj0oFCr6j4EpRzXTQ@reddeadfan.rd-team.ru:2026?insecure=1&sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2&pinSHA256=10:2B:BF:96:86:B6:A5:23:6E:34:4D:EE:79:8E:FF:D5:95:A9:0D:24:E7:2D:73:8C:28:1C:68:A2:BE:55:5B:6F#🇩🇪 Германия | тгк: @rostunnel t.me/rjsxrd
 hysteria2://rstnnl:XmFNUbpdnnIy7df1YtfLyzVgzt8U9GUv@musicclips.videolinks.ru:8443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw&pinSHA256=50:91:73:98:E7:41:C9:60:B8:7F:68:92:C4:39:EF:36:00:30:02:67:98:D8:DF:40:31:80:AD:B6:19:58:E0:47#🇫🇮 Финляндия | тгк: @rostunnel t.me/rjsxrd
 hysteria2://rstnnl:7ltZBmta4ahLenTIoywBy3R1Z1PV7ZGf@nrealistic.nn-foto.ru:8932?insecure=1&sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W&pinSHA256=45:99:5E:84:DA:63:45:19:A4:A7:FE:97:CE:42:91:B7:CB:FE:B7:3A:52:3F:22:39:67:D3:E1:22:D1:37:1F:71#🇳🇱 Нидерланды | тгк: @rostunnel t.me/rjsxrd
@@ -3468,12 +3472,21 @@ hysteria2://239471f8-4608-438e-9d2e-a6a950d98ad4@158.160.216.39:443?sni=bing.com
 hysteria2://239471f8-4608-438e-9d2e-a6a950d98ad4@31.57.105.162:8443?sni=bing.com&insecure=1#🇫🇮 Финляндия ⚡ t.me/rjsxrd
 hysteria2://239471f8-4608-438e-9d2e-a6a950d98ad4@31.59.104.139:8443?sni=bing.com&insecure=1#🇱🇻 Латвия ⚡ t.me/rjsxrd
 hysteria2://VOdAOiz9sQ@whtk.mooo.com:49350?security=tls&insecure=1&disable_sni=1&sni=google.com&obfs=salamander&obfs-password=whtk700O&fastopen=0#DIRECT-FL-H2 t.me/rjsxrd
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.127.34.84:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.201.25.203:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@65.0.182.133:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.112.138.56:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇯🇵JP_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.115.3.140:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇯🇵JP_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.201.41.222:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.231.162.174:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇯🇵JP_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.231.21.110:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇯🇵JP_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.58.52:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.102.14:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.112.239.167:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇯🇵JP_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@43.205.214.214:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@43.205.231.160:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@43.205.254.42:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇮🇳IN_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.128.219.180:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.169.215.241:443/?insecure=1&sni=https://t.me/WangCai2🇨🇳#🇸🇬SG_@WangCai_8
 hysteria2://4ZsHI2OW3j@45.91.81.231:443?alpn=h3&sni=45.91.81.231#A - 🇺🇸 US 01 TG: @nodpai
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=0&alpn=h3&fp=&sni=s516.okgfw.top&obfs=&obfs-password=#🇷🇺RU_1|1.6MB/s
-hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@1jp003.156786.xyz:8081?sni=1jp003.156786.xyz#A - 🇯🇵 JP 01 TG: @nodpai
-hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@hyfnjp01.156786.xyz:60000?sni=hyfnjp01.156786.xyz&obfs=salamander&obfs-password=ZTBjNDA0YTVhNTFkMzFlOQ==#A - 🇯🇵 JP 02 TG: @nodpai
-hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@sg12.352343.cc:8080?sni=sg12.352343.cc#A - 🇸🇬 SG 05 TG: @nodpai
-hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@sg13.352343.cc:8080?sni=sg13.352343.cc#A - 🇸🇬 SG 01 TG: @nodpai
+hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@sg12.352343.cc:8080?sni=sg12.352343.cc#🇸🇬 机场推荐:dafei.de 新加坡 06
+hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@sg13.352343.cc:8080?sni=sg13.352343.cc#🇸🇬 机场推荐:dafei.de 新加坡 04
+hysteria2://917bb394-8d91-4eee-956d-b81aba3aed70@sg20.476579.xyz:8080?sni=sg20.476579.xyz#🇸🇬 机场推荐:dafei.de 新加坡 02
