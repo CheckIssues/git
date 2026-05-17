@@ -1,3 +1,15 @@
+hysteria2://cacbb291-1b43-4272-bfce-6e6f4c378490@87.254.23.104:50000?security=tls&insecure=1&mport=50000-55000&sni=www.microsoft.com#美国 t.me/rjsxrd
+hysteria2://de4aa07f-fde5-4fb1-8317-7f66814f9cd0@shitou-mx.mxtn.net:21773?security=tls&insecure=0&mport=21001-21999#🇲🇽 墨西哥4 t.me/rjsxrd
+hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-us.legeth.xyz:11727?security=tls&insecure=0#🇺🇸 美国3 t.me/rjsxrd
+hysteria2://9173d143-4c62-4d20-bf4e-a117e6a149f5@38.246.229.56:10095?security=tls&insecure=1&sni=yahoo.com#[美国] 01 Hysteria2 t.me/rjsxrd
+hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@us.saigonfly.com:17316?security=tls&insecure=0&mport=17001-17999#🇺🇸 美国2 t.me/rjsxrd
+hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@us.saigonfly.com:17645?security=tls&insecure=0&mport=17001-17999#🇺🇸 美国4 t.me/rjsxrd
+hysteria2://c5723481-9255-4bcf-8069-8cc659a61c04@nlnl.yinheyz.cfd:33856?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1&sni=nlnl.yinheyz.cfd#NL-阿姆斯特丹 t.me/rjsxrd
+hysteria2://5f28011e-4925-4171-a6a7-3fda238419b8@sg.redbean.pro:21987?security=tls&insecure=0&mport=21001-21999#新加坡1 t.me/rjsxrd
+hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-uk.legeth.xyz:11003?security=tls&insecure=0#🇬🇧 英国4 t.me/rjsxrd
+hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@ae.saigonfly.com:17289?security=tls&insecure=0&mport=17001-17999#🇦🇪 阿联酋4 t.me/rjsxrd
+hysteria2://dc8f12af-3e2e-4b55-aa1c-96f76c51ff24@gsg.mxtn.net:21036?security=tls&insecure=0&mport=21001-21999#新加坡1 t.me/rjsxrd
+hysteria2://de4aa07f-fde5-4fb1-8317-7f66814f9cd0@shitou-mx.mxtn.net:21671?security=tls&insecure=0&mport=21001-21999#🇲🇽 墨西哥3 t.me/rjsxrd
 hysteria2://5f28011e-4925-4171-a6a7-3fda238419b8@sg.redbean.pro:21932?security=tls&insecure=0&mport=21001-21999#新加坡2 t.me/rjsxrd
 hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@ae.saigonfly.com:17912?security=tls&insecure=0&mport=17001-17999#🇦🇪 阿联酋1 t.me/rjsxrd
 hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@ae.saigonfly.com:17249?security=tls&insecure=0&mport=17001-17999#🇦🇪 阿联酋1 t.me/rjsxrd
@@ -786,15 +798,3 @@ hysteria2://sysadmin.sysadmin@37.123.193.73:443?security=tls&insecure=1#IR-@V2ra
 hysteria2://nRSmYP828VP1UwxlAnWEbmEtlLSH5SE7@147.45.154.150:443?security=tls&obfs=salamander&obfs-password=6u33lecx372cssb22nzgu5l5fpdhom4ivqwg4fqby133lzsv3q&insecure=0&sni=anymath.ir#IR-@V2ray_Alpha-05 t.me/rjsxrd
 hysteria2://0d42717f@212.192.13.222:1995?security=tls&insecure=1&sni=www.bing.com#MCi-@V2ray_Alpha-8 t.me/rjsxrd
 hysteria2://547e05a0-2e59-4712-b9f9-dedb10293d83@ae1.xiaoliyu.us:2056?security=tls&insecure=1&sni=ae1.xiaoliyu.us#MCi-@V2ray_Alpha-9 t.me/rjsxrd
-hysteria2://547e05a0-2e59-4712-b9f9-dedb10293d83@bra1.xiaoliyu.us:2056?security=tls&insecure=1&sni=bra1.xiaoliyu.us#MCi-@V2ray_Alpha-10 t.me/rjsxrd
-hysteria2://547e05a0-2e59-4712-b9f9-dedb10293d83@hk3.xiaoliyu.us:2052?security=tls&insecure=1&sni=hk3.xiaoliyu.us#MCi-@V2ray_Alpha-11 t.me/rjsxrd
-hysteria2://sysadmin.12345678@192.227.247.92:2025?security=tls&insecure=1#MCi-@V2ray_Alpha-12 t.me/rjsxrd
-hysteria2://sysadmin.sysadmin@47.76.80.29:2023?security=tls&insecure=1#MCi-@V2ray_Alpha-13 t.me/rjsxrd
-hysteria2://sysadmin.sysadmin@45.130.146.21:443?security=tls&insecure=1#MCi-@V2ray_Alpha-14 t.me/rjsxrd
-hysteria2://sysadmin.sysadmin@192.227.231.142:443?security=tls&insecure=1#MCi-@V2ray_Alpha-15 t.me/rjsxrd
-hysteria2://sysadmin.sysadmin@154.201.76.131:444?security=tls&insecure=1&sni=ss.wodeyumingliao.top#MCi-@V2ray_Alpha-16 t.me/rjsxrd
-hysteria2://sysadmin.sysadmin@23.95.20.134:446?security=tls&insecure=1#MCi-@V2ray_Alpha-17 t.me/rjsxrd
-hysteria2://sysadmin.sysadmin@148.135.59.9:446?security=tls&insecure=1#MCi-@V2ray_Alpha-18 t.me/rjsxrd
-hysteria2://9ca78a86-07bb-4eaf-a47d-1a7bb40928e3@205.185.125.20:443?security=tls&insecure=1&mport=50000-53000&sni=apps.apple.com#MCi-@V2ray_Alpha-19 t.me/rjsxrd
-hysteria2://sysadmin.sysadmin@206.237.0.170:443?security=tls&insecure=1#MCi-@V2ray_Alpha-20 t.me/rjsxrd
-hysteria2://547e05a0-2e59-4712-b9f9-dedb10293d83@in1.xiaoliyu.us:2052?security=tls&insecure=1&sni=in1.xiaoliyu.us#Ir-@@V2ray_Alpha-12 t.me/rjsxrd
