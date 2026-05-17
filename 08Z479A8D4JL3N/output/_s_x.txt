@@ -97,29 +97,3 @@ ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=
 ss://d787c7d5-46c1-4434-869e-76cddd3e2e50@84bf6a263638e546.fast1.viperping.ir:80?mode=auto&security=none&encryption=none&host=milad-g1.global.ssl.fastly.net&type=xhttp#NOFILTERING2 🚀
 ss://d787c7d5-46c1-4434-869e-76cddd3e2e50@84bf6a263638e546.fast1.viperping.ir:80?mode=auto&security=none&encryption=none&host=milad-g1.global.ssl.fastly.net&type=xhttp&alpn=h2#[XHTTP][SS][alpn_h2] NOFILTERING2 🚀
 ss://d787c7d5-46c1-4434-869e-76cddd3e2e50@84bf6a263638e546.fast1.viperping.ir:80?mode=auto&security=none&encryption=none&host=milad-g1.global.ssl.fastly.net&type=xhttp&alpn=h3#[XHTTP][SS][alpn_h3] NOFILTERING2 🚀
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server990857935246795719.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#Aggregated
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server990857935246795719.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp&alpn=h2#[XHTTP][SS][alpn_h2]
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server990857935246795719.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp&alpn=h3#[XHTTP][SS][alpn_h3]
-ss://%50%61%72%73%61%73%68%6F%6E%61%6D-299@91.99.16.244:443?mode=auto&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=reality&encryption=none&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&fp=chrome&spx=%2F&type=xhttp&sni=Google.com&sid=61e683d41fdb#Aggregated
-ss://%50%61%72%73%61%73%68%6F%6E%61%6D-299@91.99.16.244:443?mode=auto&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=reality&encryption=none&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&fp=chrome&spx=%2F&type=xhttp&sni=Google.com&sid=61e683d41fdb&alpn=h2#[XHTTP][SS][alpn_h2]
-ss://%50%61%72%73%61%73%68%6F%6E%61%6D-299@91.99.16.244:443?mode=auto&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=reality&encryption=none&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&fp=chrome&spx=%2F&type=xhttp&sni=Google.com&sid=61e683d41fdb&alpn=h3#[XHTTP][SS][alpn_h3]
-ss://000f1ace-a4d6-44ea-93b0-d5d384fc9cd7@llc.v2sub.ir:2082/?type=xhttp&encryption=none#Aggregated
-ss://000f1ace-a4d6-44ea-93b0-d5d384fc9cd7@llc.v2sub.ir:2082/?type=xhttp&encryption=none&alpn=h2#[XHTTP][SS][alpn_h2]
-ss://000f1ace-a4d6-44ea-93b0-d5d384fc9cd7@llc.v2sub.ir:2082/?type=xhttp&encryption=none&alpn=h3#[XHTTP][SS][alpn_h3]
-ss://000f1ace-a4d6-44ea-93b0-d5d384fc9cd7@llc.v2sub.ir:2082?mode=auto&path=%2F%3Fed%3D1024&security=none&encryption=none&host=chat.learningaii.ir&type=xhttp#Aggregated
-ss://000f1ace-a4d6-44ea-93b0-d5d384fc9cd7@llc.v2sub.ir:2082?mode=auto&path=%2F%3Fed%3D1024&security=none&encryption=none&host=chat.learningaii.ir&type=xhttp&alpn=h2#[XHTTP][SS][alpn_h2]
-ss://000f1ace-a4d6-44ea-93b0-d5d384fc9cd7@llc.v2sub.ir:2082?mode=auto&path=%2F%3Fed%3D1024&security=none&encryption=none&host=chat.learningaii.ir&type=xhttp&alpn=h3#[XHTTP][SS][alpn_h3]
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Aggregated
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp&alpn=h2#[XHTTP][SS][alpn_h2]
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server229242717676380726.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp&alpn=h3#[XHTTP][SS][alpn_h3]
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp#Aggregated
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp&alpn=h2#[XHTTP][SS][alpn_h2]
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=none&encryption=none&type=xhttp&alpn=h3#[XHTTP][SS][alpn_h3]
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Aggregated
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?type=xhttp&mode=stream-one&path=/sc&security=none#Aggregated
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?type=xhttp&mode=stream-one&path=%2Fsc&security=none&alpn=h2#[XHTTP][SS][alpn_h2]
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?type=xhttp&mode=stream-one&path=%2Fsc&security=none&alpn=h3#[XHTTP][SS][alpn_h3]
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server990857935246795719.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Aggregated
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server990857935246795719.tas-bazi.com:443?type=xhttp&mode=stream-one&path=/sc&security=none#Aggregated
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server990857935246795719.tas-bazi.com:443?type=xhttp&mode=stream-one&path=%2Fsc&security=none&alpn=h2#[XHTTP][SS][alpn_h2]
-ss://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server990857935246795719.tas-bazi.com:443?type=xhttp&mode=stream-one&path=%2Fsc&security=none&alpn=h3#[XHTTP][SS][alpn_h3]
