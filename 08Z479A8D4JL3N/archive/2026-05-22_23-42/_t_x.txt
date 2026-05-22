@@ -1,0 +1,7 @@
+trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=/&host=&mode=auto&security=none#@Vpn_jet7
+trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=%2F&host=&mode=auto&security=none&alpn=h2#[XHTTP][TR][alpn_h2] @Vpn_jet7
+trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=%2F&host=&mode=auto&security=none&alpn=h3#[XHTTP][TR][alpn_h3] @Vpn_jet7
+trojan://045a2a7a27ffbef5@185.165.119.254:443?security=none&type=xhttp&path=/#
+trojan://045a2a7a27ffbef5@185.165.119.254:443?security=none&type=xhttp&path=%2F&alpn=h2#[XHTTP][TR][alpn_h2]
+trojan://045a2a7a27ffbef5@185.165.119.254:443?security=none&type=xhttp&path=%2F&alpn=h3#[XHTTP][TR][alpn_h3]
+trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=%2F&host=&mode=auto&security=none#
