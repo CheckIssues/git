@@ -1,0 +1,10 @@
+trojan://045a2a7a27ffbef5@185.165.119.254:443?security=none&type=xhttp&path=/#
+trojan://045a2a7a27ffbef5@185.165.119.254:443?security=none&type=xhttp&path=%2F&alpn=h2#[XHTTP][TR][alpn_h2]
+trojan://045a2a7a27ffbef5@185.165.119.254:443?security=none&type=xhttp&path=%2F&alpn=h3#[XHTTP][TR][alpn_h3]
+trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=%2F&host=&mode=auto&security=none#
+trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=%2F&host=&mode=auto&security=none&alpn=h2#[XHTTP][TR][alpn_h2]
+trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=%2F&host=&mode=auto&security=none&alpn=h3#[XHTTP][TR][alpn_h3]
+trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=/&host=&mode=auto&security=none#
+trojan://Telegram-VPNHouse_Official@104.16.7.70:443?type=xhttp&mode=packet-up&path=%2Finternet-access&security=tls&fp=chrome&sni=stats.mmdshahin.dpdns.org#[🇺🇳] [tr-tl-xh] [260527-082827.999]
+trojan://Telegram-VPNHouse_Official@104.16.7.70:443?type=xhttp&mode=packet-up&path=%2Finternet-access&security=tls&fp=chrome&sni=stats.mmdshahin.dpdns.org&alpn=h2#[XHTTP][TR][alpn_h2] [🇺🇳] [tr-tl-xh] [260527-082827.999]
+trojan://Telegram-VPNHouse_Official@104.16.7.70:443?type=xhttp&mode=packet-up&path=%2Finternet-access&security=tls&fp=chrome&sni=stats.mmdshahin.dpdns.org&alpn=h3#[XHTTP][TR][alpn_h3] [🇺🇳] [tr-tl-xh] [260527-082827.999]
