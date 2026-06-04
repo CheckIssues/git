@@ -1,0 +1,13 @@
+trojan://mdhwoon0a01p31xn@8.47.69.41:443?mode=auto&path=/Kose-nanat-decoder&security=tls&alpn=h2,http/1.1&host=www.nscl.ir&fp=chrome&type=xhttp&sni=www.nscl.ir#⚡@V2ray_official
+trojan://mdhwoon0a01p31xn@8.47.69.41:443?mode=auto&path=%2FKose-nanat-decoder&security=tls&alpn=h2&host=www.nscl.ir&fp=chrome&type=xhttp&sni=www.nscl.ir#[XHTTP][TR][alpn_h2] ⚡@V2ray_official
+trojan://mdhwoon0a01p31xn@8.47.69.41:443?mode=auto&path=%2FKose-nanat-decoder&security=tls&alpn=h3&host=www.nscl.ir&fp=chrome&type=xhttp&sni=www.nscl.ir#[XHTTP][TR][alpn_h3] ⚡@V2ray_official
+trojan://mdhwoon0a01p31xn@8.47.69.41:443?mode=auto&path=/Kose-nanat-decoder&security=tls&alpn=h2,http/1.1&host=www.nscl.ir&fp=firefox&type=xhttp&sni=www.nscl.ir#
+trojan://mdhwoon0a01p31xn@8.47.69.41:443?mode=auto&path=%2FKose-nanat-decoder&security=tls&alpn=h2&host=www.nscl.ir&fp=firefox&type=xhttp&sni=www.nscl.ir#[XHTTP][TR][alpn_h2]
+trojan://mdhwoon0a01p31xn@8.47.69.41:443?mode=auto&path=%2FKose-nanat-decoder&security=tls&alpn=h3&host=www.nscl.ir&fp=firefox&type=xhttp&sni=www.nscl.ir#[XHTTP][TR][alpn_h3]
+trojan://045a2a7a27ffbef5@185.165.119.254:443?security=none&type=xhttp&path=/#
+trojan://045a2a7a27ffbef5@185.165.119.254:443?security=none&type=xhttp&path=%2F&alpn=h2#[XHTTP][TR][alpn_h2]
+trojan://045a2a7a27ffbef5@185.165.119.254:443?security=none&type=xhttp&path=%2F&alpn=h3#[XHTTP][TR][alpn_h3]
+trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=%2F&host=&mode=auto&security=none#
+trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=%2F&host=&mode=auto&security=none&alpn=h2#[XHTTP][TR][alpn_h2]
+trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=%2F&host=&mode=auto&security=none&alpn=h3#[XHTTP][TR][alpn_h3]
+trojan://045a2a7a27ffbef5@185.165.119.254:443?type=xhttp&path=/&host=&mode=auto&security=none#
