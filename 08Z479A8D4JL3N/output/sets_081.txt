@@ -1,6 +1,3 @@
-vless://519dc44b-17cc-45b4-a391-ad85f2957083@37.9.4.147:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=yandex.ru&pbk=id2bTxg98QfB21HhGUl5OBN1qifL-W_t5f_SJf8QACo&sid=e0850aee0392d49c&spx=/#By EbraSha
-vless://519dc44b-17cc-45b4-a391-ad85f2957083@46.8.18.38:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=www.vk.com&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&sid=ae03e6ef452252e0&spx=/#By EbraSha
-vless://519dc44b-17cc-45b4-a391-ad85f2957083@46.8.18.38:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=yandex.ru&pbk=djV0ofrWaRYqyKIgjuXuDGZt3QmkfDwyBk-ro_nv1zs&sid=b175ae75e2a15bf0&spx=/#By EbraSha
 vless://519dc44b-17cc-45b4-a391-ad85f2957083@46.8.209.215:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=a-fvBe0tLnLOEn2O4FEBKXeJMAsOxKFP0LIJdsQzi3k&sid=f4f4a12042ea3ba8&spx=/#By EbraSha
 vless://519dc44b-17cc-45b4-a391-ad85f2957083@46.8.209.215:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=www.vk.com&pbk=ZlXBEYDy1NPe1mLvq7j8CCB9fBIaIvc8X3UZsbVxNT8&sid=ae03e6ef452252e0&spx=/#By EbraSha
 vless://519dc44b-17cc-45b4-a391-ad85f2957083@46.8.209.224:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=a-fvBe0tLnLOEn2O4FEBKXeJMAsOxKFP0LIJdsQzi3k&sid=f4f4a12042ea3ba8&spx=/#By EbraSha
@@ -340,6 +337,7 @@ vless://532a9115-aee7-4d39-9638-1e5146de075b@172.67.215.39:443?encryption=none&t
 vless://532a9115-aee7-4d39-9638-1e5146de075b@172.67.215.39:443?encryption=none&type=ws&host=muddy-math-c1fc.tmpnriqueau89.workers.dev&path=/js/cHlpcC55Z2tray5kcGRucy5vcmc=/&security=tls&sni=muddy-math-c1fc.tmpnriqueau89.workers.dev#By EbraSha
 vless://532a9115-aee7-4d39-9638-1e5146de075b@172.67.215.39:443?security=tls&type=ws&path=/js/cHlpcC55Z2tray5kcGRucy5vcmc=/&host=muddy-math-c1fc.tmpnriqueau89.workers.dev&ed=2560&sni=muddy-math-c1fc.tmpnriqueau89.workers.dev&fp=chrome&encryption=none#By EbraSha
 vless://532a9115-aee7-4d39-9638-1e5146de075b@172.67.215.39:443?security=tls&type=ws&path=/js/cHlpcC55Z2tray5kcGRucy5vcmc=/?ed=2048&host=muddy-math-c1fc.tmpnriqueau89.workers.dev&alpn=h2,http/1.1&sni=muddy-math-c1fc.tmpnriqueau89.workers.dev&fp=chrome&encryption=none#By EbraSha
+vless://532c9a78-307b-4e57-863d-b8d812708308@188.114.97.3:443?path=/dkU-cln2-GSPOV-q?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=FREE-AZadNet.PAges.dEV&fp=chrome&type=ws&sni=FreE-azADnet.pagEs.DeV#By EbraSha
 vless://532c9a78-307b-4e57-863d-b8d812708308@188.114.97.3:443?path=/dkU-cln2-GSPOV-q?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=FREE-AZadNet.PAges.dEV&fp=randomized&type=ws&sni=FreE-azADnet.pagEs.DeV#By EbraSha
 vless://53342b53-157e-4475-9f3a-40439434e689@104.18.173.174:80?encryption=none&security=none&type=ws&host=c.iamdt.dpdns.org&path=%2F%3Fed%3D2048#By EbraSha
 vless://53342b53-157e-4475-9f3a-40439434e689@104.18.173.174:80?encryption=none&type=ws&host=c.iamdt.dpdns.org&path=%2F%3Fed%3D2048&security=none#By EbraSha
@@ -798,3 +796,5 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.244.60:8880/?type=ws&encryptio
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.247.1:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#By EbraSha
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.247.225:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#By EbraSha
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.247.248:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#By EbraSha
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#By EbraSha
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#By EbraSha
