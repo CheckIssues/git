@@ -1,3 +1,8 @@
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@212.193.155.32:443?encryption=none&security=tls&sni=s28315.cdn.ngenix.net&insecure=0&allowInsecure=0&type=ws&path=/ws#By EbraSha
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@212.193.155.32:443?encryption=none&type=ws&path=%2Fws&security=tls&sni=s28315.cdn.ngenix.net#By EbraSha
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@212.193.155.32:443?encryption=none&type=ws&security=tls&path=%2Fws&sni=s28315.cdn.ngenix.net#By EbraSha
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.186.50:443/?type=ws&encryption=none&flow=&host=s28315.cdn.ngenix.net&path=/ws&security=tls&sni=s28315.cdn.ngenix.net#By EbraSha
+vless://9ebab373-19fe-4535-aa95-4e348ea300f1@46.235.186.50:443?encryption=none&type=ws&security=tls&path=%2Fws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net&alpn=h2%2Chttp%2F1.1#By EbraSha
 vless://9ebab373-19fe-4535-aa95-4e348ea300f1@78.41.110.238:443?encryption=none&type=ws&security=tls&path=%2Fws&sni=s28315.cdn.ngenix.net#By EbraSha
 vless://9ebab373-19fe-4535-aa95-4e348ea300f1@78.41.110.238:443?encryption=none&type=ws&security=tls&path=/ws&host=s28315.cdn.ngenix.net&sni=s28315.cdn.ngenix.net#By EbraSha
 vless://9ebab373-19fe-4535-aa95-4e348ea300f1@78.41.110.238:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=s28315.cdn.ngenix.net&type=ws&allowInsecure=0&sni=s28315.cdn.ngenix.net#By EbraSha
@@ -793,8 +798,3 @@ vless://Vpn_Shield@104.17.121.9:2053?encryption=none&type=ws&security=tls&path=%
 vless://Vpn_Shield@104.17.121.9:2053?encryption=none&type=ws&security=tls&path=/&host=sell.sigikala.site&sni=sell.sigikala.site&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#By EbraSha
 vless://Vpn_Shield@45.130.125.69:2087?encryption=none&type=ws&security=tls&path=%2F&host=sell.sigikala.site&sni=sell.sigikala.site&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#By EbraSha
 vless://Vpn_Shield@45.130.125.69:2087?encryption=none&type=ws&security=tls&path=%2F&host=sigikala.site&sni=sigikala.site&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#By EbraSha
-vless://Vpn_Shield@45.130.125.69:2087?encryption=none&type=ws&security=tls&path=/&host=sell.sigikala.site&sni=sell.sigikala.site&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#By EbraSha
-vless://Vpn_Shield@45.130.125.69:2087?encryption=none&type=ws&security=tls&path=/&host=sigikala.site&sni=sigikala.site&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#By EbraSha
-vless://WomanLifeFreedomVPN@google.wlftest.xyz:80?type=tcp&path=%2F&host=www.google.com&headerType=http#By EbraSha
-vless://WomanLifeFreedomVPN@speedtest.wlftest.xyz:443?type=tcp&security=reality&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&fp=ios&sni=www.speedtest.net&sid=ce&spx=%2F&flow=xtls-rprx-vision#By EbraSha
-vless://XAWol5rja+gxtpJkW5SN9o16X5ysuoNslWR5iZrd3kQfaJFrVN8Tnx8gAf7LI37OoZvRyjokiiyoin2AlMHMC7VTJWeAv4fuUaqBsPmTK6uyknqaedAWmQI9qDLF0loabMUM/AIC36vTOuCV+SNzuq4dfyr39v/kjcZhsSAECcsHO8Afng0287n+JlXnA6PMVOZuVY9vLMkpvaMIxOf1c8/xODfpUxW0+KJyKYryIRbdOgM7XNzpCpyJyvnOs2RDar#By EbraSha
