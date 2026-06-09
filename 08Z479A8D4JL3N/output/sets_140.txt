@@ -321,6 +321,7 @@ vless://c2c301e9-a9db-4d91-9c7b-ff8935aeb4e1@165.154.226.214:27017?encryption=no
 vless://c2c301e9-a9db-4d91-9c7b-ff8935aeb4e1@8.223.63.189:443?type=ws&security=tls&path=/&sni=ioioioi.pages.dev&fp=chrome#By EbraSha
 vless://c2c65124-d369-432b-aab3-33e319d2b0d2@185.143.233.5:2082?path=%2F&security=none&encryption=none&host=p1.sesrsa.com&type=ws#By EbraSha
 vless://c2c65124-d369-432b-aab3-33e319d2b0d2@185.143.233.5:2082?path=/&security=none&encryption=none&host=p1.sesrsa.com&type=ws#By EbraSha
+vless://c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?path=%2FTelegram%40Azarakhsh_Proxy%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=bpb-worker-panel-3jc.pages.dev&fp=randomized&type=ws&sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV#By EbraSha
 vless://c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?security=tls&sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV&type=ws&host=bpb-worker-panel-3jc.pages.dev&path=%2FTelegram%40Azarakhsh_Proxy%2F%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#By EbraSha
 vless://c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?security=tls&sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV&type=ws&host=bpb-worker-panel-3jc.pages.dev&path=/Telegram@Azarakhsh_Proxy/?ed=2560&fp=chrome&alpn=h2,http/1.1#By EbraSha
 vless://c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.47.147:443?path=%2F%40freedomofinfor%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=bpB-WORKER-pAnel-1mi.PaGEs.DEv&fp=randomized&type=ws&sni=pagES.dEV#By EbraSha
@@ -586,6 +587,7 @@ vless://c35aa3ef-b21a-43af-c820-1a3bc6498044@104.21.28.188:2087?path=%2FTelegram
 vless://c35aa3ef-b21a-43af-c820-1a3bc6498044@104.21.28.188:2087?path=%2FTelegram%3A%40@Vip_Security join us - 1243#By EbraSha
 vless://c35aa3ef-b21a-43af-c820-1a3bc6498044@104.21.28.188:2087?path=%2FTelegram%3A%40@Vip_Security join us - 1258#By EbraSha
 vless://c35aa3ef-b21a-43af-c820-1a3bc6498044@104.21.28.188:2087?path=%2FTelegram%3A%40@Vip_Security join us - 1262#By EbraSha
+vless://c35aa3ef-b21a-43af-c820-1a3bc6498044@104.21.28.188:2087?path=%2FTelegram%3A%40@Vip_Security join us - 1295#By EbraSha
 vless://c35aa3ef-b21a-43af-c820-1a3bc6498044@104.21.28.188:2087?path=%2FTelegram%3A%40@Vip_Security join us - 1305#By EbraSha
 vless://c35aa3ef-b21a-43af-c820-1a3bc6498044@104.21.28.188:2087?path=%2FTelegram%3A%40@Vip_Security join us - 1312#By EbraSha
 vless://c35aa3ef-b21a-43af-c820-1a3bc6498044@104.21.28.188:2087?path=%2FTelegram%3A%40@Vip_Security join us - 1331#By EbraSha
@@ -796,5 +798,3 @@ vless://c43b7819-008e-4863-aa20-9d3fc2935df8@star-dc.az9x99.ir:2083?encryption=n
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@tunell-rezidentali.fastsoft98.ir:2080?encryption=none&security=none&type=tcp&headerType=http&host=http%3A%2F%2FSpaceNetwork.divarcdn.com#By EbraSha
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@tunell-rezidentali.fastsoft98.ir:2080?encryption=none&security=none&type=tcp&headerType=http&host=http://SpaceNetwork.divarcdn.com#By EbraSha
 vless://c43b7819-008e-4863-aa20-9d3fc2935df8@tunell-star.dsadsadads.ir:2070?encryption=none&security=none&type=tcp&headerType=none#By EbraSha
-vless://c43b7819-008e-4863-aa20-9d3fc2935df8@tunell-star.fastsoft98.ir:2010?encryption=none&security=none&type=tcp&headerType=none#By EbraSha
-vless://c43cf30c-18f1-4e20-bd88-73b1288c5202@172.67.216.94:443/?type=ws&encryption=none&host=worker-dry-breeze-60a0.chngyznwy.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=worker-dry-breeze-60a0.chngyznwy.workers.dev#By EbraSha
