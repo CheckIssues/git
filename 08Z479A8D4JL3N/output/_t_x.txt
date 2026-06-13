@@ -66,10 +66,10 @@ trojan://SoftNetConnect@167.233.105.87:443?mode=auto&path=%2F&security=reality&e
 trojan://Tl5Qu5x5Tn@188.114.97.6:8443?mode=auto&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&host=sv-free.n2buy.ir&fp=chrome&type=xhttp&sni=sv-free.n2buy.ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:43.34ms
 trojan://Tl5Qu5x5Tn@188.114.97.6:8443?mode=auto&path=%2F&security=tls&alpn=h2&host=sv-free.n2buy.ir&fp=chrome&type=xhttp&sni=sv-free.n2buy.ir#[XHTTP][TR][alpn_h2] 👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:43.34ms
 trojan://Tl5Qu5x5Tn@188.114.97.6:8443?mode=auto&path=%2F&security=tls&alpn=h3&host=sv-free.n2buy.ir&fp=chrome&type=xhttp&sni=sv-free.n2buy.ir#[XHTTP][TR][alpn_h3] 👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:43.34ms
-trojan://SoftNetConnect@194.5.192.89:443?mode=auto&path=%2F&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&type=xhttp&sni=www.yahoo.com&sid=d591#filembad-34
-trojan://SoftNetConnect@194.5.192.89:443?mode=auto&path=%2F&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&type=xhttp&sni=www.yahoo.com&sid=d591&alpn=h2#[XHTTP][TR][alpn_h2] filembad-34
-trojan://SoftNetConnect@194.5.192.89:443?mode=auto&path=%2F&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&type=xhttp&sni=www.yahoo.com&sid=d591&alpn=h3#[XHTTP][TR][alpn_h3] filembad-34
-trojan://SoftNetConnect@194.5.192.89:443?mode=auto&path=%2F&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=d591#filembad-33
+trojan://SoftNetConnect@194.5.192.89:443?mode=auto&path=%2F&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&type=xhttp&sni=www.yahoo.com&sid=d591#filembad-33
+trojan://SoftNetConnect@194.5.192.89:443?mode=auto&path=%2F&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&type=xhttp&sni=www.yahoo.com&sid=d591&alpn=h2#[XHTTP][TR][alpn_h2] filembad-33
+trojan://SoftNetConnect@194.5.192.89:443?mode=auto&path=%2F&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&type=xhttp&sni=www.yahoo.com&sid=d591&alpn=h3#[XHTTP][TR][alpn_h3] filembad-33
+trojan://SoftNetConnect@194.5.192.89:443?mode=auto&path=%2F&security=reality&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=d591#filembad-32
 trojan://SoftNetConnect@77.110.114.75:8443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=78851a413f5033b0#🇺🇸@FreakConfig
 trojan://SoftNetConnect@82.158.120.48:8443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=78851a413f5033b0#🇩🇪@FreakConfig
 trojan://045a2a7a27ffbef5@185.165.119.254:443?security=none&type=xhttp&path=/#
