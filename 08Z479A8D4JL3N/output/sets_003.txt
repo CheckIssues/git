@@ -1,3 +1,14 @@
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:443?insecure=1&obfs=salamander&obfs-password=salamander&sni=Ab.ac#@FreakConfig t.me/rjsxrd
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:51978?insecure=1&obfs=salamander&obfs-password=salamander&sni=Ab.ac#NL1 t.me/rjsxrd
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:54902?insecure=1&obfs=salamander&obfs-password=salamander&sni=Ab.ac#NL1 t.me/rjsxrd
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2001:bc8:1640:50eb:dc00:ff:fe57:dd6f:58433?insecure=1&obfs=salamander&obfs-password=salamander&sni=Ab.ac#NL1 t.me/rjsxrd
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2604:abc0:50:0:0:0:10:505b:53075?insecure=1&obfs=salamander&obfs-password=salamander&sni=Ab.ac#US2 t.me/rjsxrd
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2604:abc0:50:0:0:0:10:505b:54132?insecure=1&obfs=salamander&obfs-password=salamander&sni=Ab.ac#US2 t.me/rjsxrd
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2604:abc0:50:0:0:0:10:505b:54689?insecure=1&obfs=salamander&obfs-password=salamander&sni=Ab.ac#US2 t.me/rjsxrd
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2a01:4f9:6b:f808::1:53260?insecure=1&obfs=salamander&obfs-password=salamander&sni=Ab.ac#FI1 t.me/rjsxrd
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@2a01:4f9:6b:f808::1:54937?insecure=1&obfs=salamander&obfs-password=salamander&sni=Ab.ac#FI1 t.me/rjsxrd
+hysteria2://729cf4e2-d5c8-4273-8c78-a2483afaf3e4@xg2.dimoyun.top:40001?insecure=1&sni=xg2.dimoyun.top#HK_32 | ⬇️ 1.3MB/s t.me/rjsxrd
+hysteria2://747c62da-109f-4add-8e67-c66e1af7d255@208.87.242.77:35000?insecure=1&sni=www.apple.com#US_52 | ⬇️ 8.9MB/s t.me/rjsxrd
 hysteria2://74e74e40-e134-11ee-bded-f23c913c8d2b@2fa3e7cb-sw5og0-tchszt-1quq9.hy2.gotochinatown.net:8443?insecure=1&sni=2fa3e7cb-sw5og0-tchszt-1quq9.hy2.gotochinatown.net#美国_青云专线_雷泽的屁股 t.me/rjsxrd
 hysteria2://754eb16a-4d52-4e45-b7b9-d1af6cc86d66@yd.jjzcloud.top:57338?insecure=1&sni=yd.jjzcloud.top#机场推荐:dafei.de 美国 04 t.me/rjsxrd
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?insecure=1&sni=www.bing.com#@V2rayNG3 #3 t.me/rjsxrd
@@ -787,14 +798,3 @@ hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@uk.saigonfly.com:17221?security
 hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@uk.saigonfly.com:17646?security=tls&insecure=0&mport=17001-17999#🇬🇧 英国3 t.me/rjsxrd
 hysteria2://9cea8611-9024-4b0b-ad28-f68eae101812@tr.saigonfly.com:17138?security=tls&insecure=0&mport=17001-17999#🇹🇷 土耳其1 t.me/rjsxrd
 hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-es.legeth.xyz:11067?security=tls&insecure=0#🇪🇸 西班牙4 t.me/rjsxrd
-hysteria2://de4aa07f-fde5-4fb1-8317-7f66814f9cd0@shitou-tr.mxtn.net:21720?security=tls&insecure=0&mport=21001-21999#🇹🇷 土耳其4 t.me/rjsxrd
-hysteria2://9cea8611-9024-4b0b-ad28-f68eae101812@uk.saigonfly.com:17750?security=tls&insecure=0&mport=17001-17999#🇬🇧 英国4 t.me/rjsxrd
-hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-pl.legeth.xyz:11532?security=tls&insecure=0#🇵🇱 波兰4 t.me/rjsxrd
-hysteria2://c5723481-9255-4bcf-8069-8cc659a61c04@frfr.yinheyz.cfd:33426?security=tls&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D&insecure=1&sni=frfr.yinheyz.cfd#FR-巴黎 t.me/rjsxrd
-hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@tr.saigonfly.com:17690?security=tls&insecure=0&mport=17001-17999#🇹🇷 土耳其1 t.me/rjsxrd
-hysteria2://9cea8611-9024-4b0b-ad28-f68eae101812@ae.saigonfly.com:17850?security=tls&insecure=0&mport=17001-17999#🇦🇪 阿联酋3 t.me/rjsxrd
-hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-it.legeth.xyz:11931?security=tls&insecure=0#🇮🇹 意大利3 t.me/rjsxrd
-hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@ae.saigonfly.com:17329?security=tls&insecure=0&mport=17001-17999#🇦🇪 阿联酋2 t.me/rjsxrd
-hysteria2://9cea8611-9024-4b0b-ad28-f68eae101812@ae.saigonfly.com:17545?security=tls&insecure=0&mport=17001-17999#🇦🇪 阿联酋3 t.me/rjsxrd
-hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@ae.saigonfly.com:17636?security=tls&insecure=0&mport=17001-17999#🇦🇪 阿联酋2 t.me/rjsxrd
-hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@tr.saigonfly.com:17165?security=tls&insecure=0&mport=17001-17999#🇹🇷 土耳其3 t.me/rjsxrd
