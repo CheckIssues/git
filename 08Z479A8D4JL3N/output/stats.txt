@@ -1,34 +1,34 @@
 
 ==============================
-📊 ДЕТАЛЬНАЯ СТАТИСТИКА (2026-06-15 22:40:05)
+📊 ДЕТАЛЬНАЯ СТАТИСТИКА (2026-06-16 05:45:26)
 ==============================
 
 [Протоколы]
 HY2: 228
-HYSTERIA2: 3259
-SS: 4836
-SSR: 56
-TROJAN: 2767
+HYSTERIA2: 3263
+SS: 4860
+SSR: 54
+TROJAN: 2912
 TUIC: 6
-VLESS: 168694
-VMESS: 4462
+VLESS: 169517
+VMESS: 4548
 
 [XHTTP Аналитика]
-Всего XHTTP: 35282
-  - SS XHTTP: 331
-  - TROJAN XHTTP: 74
-  - VLESS XHTTP: 34789
-  - VMESS XHTTP: 88
+Всего XHTTP: 35490
+  - SS XHTTP: 334
+  - TROJAN XHTTP: 76
+  - VLESS XHTTP: 35010
+  - VMESS XHTTP: 70
 
 [IPv6 Аналитика]
-Всего IPv6: 1094
-  - DualStack: 805
+Всего IPv6: 1014
+  - DualStack: 702
   - Explicit: 234
-  - IPv6Only: 55
+  - IPv6Only: 78
 
 [DNS Статистика]
 Удалено (NXDOMAIN): 0
 Таймауты: 0
 Всего NXDOMAIN: 0
-Запросов из кэша: 6205
+Запросов из кэша: 6476
 ==============================
