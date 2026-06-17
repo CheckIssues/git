@@ -1,29 +1,3 @@
-hysteria2://elczfe1nt42amtjf@markazi.kidshop.dpdns.org:42641?sni=markazi.kidshop.dpdns.org&insecure=0&obfs=salamander#t.me/rjsxrd
-hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@sg2.yuntong.click:443?insecure=0&sni=sg2.yuntong.click#t.me/rjsxrd
-hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@sg2.yuntong.click:443?insecure=0&sni=sg2.yuntong.click&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#t.me/rjsxrd
-hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@sg2.yuntong.click:443?security=tls&obfs=salamander&obfs-password=eNM%2FNfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo%3D&insecure=0&sni=sg2.yuntong.click#t.me/rjsxrd
-hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@sg2.yuntong.click:443?security=tls&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=&insecure=0&sni=sg2.yuntong.click#t.me/rjsxrd
-hysteria2://go6a426v10ckcl75@tb.zibayeman.com:37620?security=tls&obfs=salamander&obfs-password=ct7igvlhkkvuvyto&insecure=0&sni=tb.zibayeman.com#t.me/rjsxrd
-hysteria2://hk6ah4vgb0qp2koh@ger1.riziro.ir:2087?alpn=h2%2Ch3&fp=chrome&sni=ger1.riziro.ir&obfs=salamander&obfs-password=xdbc2u01v1j9fhvv#t.me/rjsxrd
-hysteria2://hk6ah4vgb0qp2koh@ger1.riziro.ir:2087?alpn=h2,h3&fm={#t.me/rjsxrd
-hysteria2://hk6ah4vgb0qp2koh@ger1.riziro.ir:2087?security=tls&obfs=salamander&obfs-password=xdbc2u01v1j9fhvv&insecure=0&sni=#t.me/rjsxrd
-hysteria2://hk6ah4vgb0qp2koh@ger1.riziro.ir:2087?security=tls&obfs=salamander&obfs-password=xdbc2u01v1j9fhvv&insecure=0&sni=ger1.riziro.ir#t.me/rjsxrd
-hysteria2://hk6ah4vgb0qp2koh@panel.riziro.ir:4526?alpn=h3&ech=AGH+DQBdAAAgACA/G+iJmvonLLbAR/qxdOJHr3YYz+cR14O4ZUJa9LQNBgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA5nZXIxLnJpemlyby5pcgAA&fp=chrome&security=tls&sni=ger1.riziro.ir#t.me/rjsxrd
-hysteria2://hk6ah4vgb0qp2koh@panel.riziro.ir:4526?alpn=h3&fp=chrome&sni=ger1.riziro.ir#t.me/rjsxrd
-hysteria2://masir_sefid@18.157.51.145:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#t.me/rjsxrd
-hysteria2://masir_sefid@18.157.51.145:443?insecure=0&sni=content.masir-sefid.shop&obfs=salamander&obfs-password=masir_sefid#t.me/rjsxrd
-hysteria2://masir_sefid@18.157.51.145:443?obfs=salamander&obfs-password=masir_sefid&sni=content.masir-sefid.shop&insecure=0#t.me/rjsxrd
-hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#t.me/rjsxrd
-hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443,2053,2083,2087,2096,8443&sni=content.masir-sefid.shop#t.me/rjsxrd
-hysteria2://masir_sefid@18.157.51.145:443?sni=content.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=masir_sefid&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443#t.me/rjsxrd
-hysteria2://masir_sefid@18.157.51.145:443?sni=content.masir-sefid.shop&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=masir_sefid&mport=443,2053,2083,2087,2096,8443#t.me/rjsxrd
-hysteria2://masir_sefid@18.157.51.145:443?sni=content.masir-sefid.shop&insecure=0&obfs=salamander#t.me/rjsxrd
-hysteria2://masir_sefid@18.157.51.145:443?sni=content.masir-sefid.shop&obfs=salamander&obfs-password=masir_sefid&insecure=0#t.me/rjsxrd
-hysteria2://masir_sefid@18.194.63.255:443?insecure=0&sni=content.masir-sefid.shop&obfs=salamander&obfs-password=masir_sefid#t.me/rjsxrd
-hysteria2://masir_sefid@18.194.63.255:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443,500-56000&sni=content.masir-sefid.shop#t.me/rjsxrd
-hysteria2://n53566kqk2ktslon@165.22.24.47:10416?security=tls&obfs=salamander&obfs-password=wod6yowux1e9deog&insecure=0&sni=simsefyd.shop#t.me/rjsxrd
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443/?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#t.me/rjsxrd
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#t.me/rjsxrd
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?insecure=0&obfs=salamander#t.me/rjsxrd
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?insecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#t.me/rjsxrd
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?insecure=0&sni=&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#t.me/rjsxrd
@@ -99,11 +73,8 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=sa
 hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?sni=iij.mggl.wang&insecure=1&allowInsecure=1#🇯🇵 Japan | 🌐 | [IPv6] | [BL] t.me/rjsxrd
 hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#🇫🇷 France, Paris | 🌐 | [IPv6] | [BL] t.me/rjsxrd
 hysteria2://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@s544.ccgfw.online:443?sni=u729792us544.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#🇧🇬 Bulgaria, Veliko Tarnovo | [BL] t.me/rjsxrd
-hysteria2://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@185.227.108.195:11000?sni=de-node.farnet.top&pinSHA256=firefox#🇩🇪 Germany, Frankfurt am Main (Bergen-Enkheim) | [BL] t.me/rjsxrd
 hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?headerType=none&encryption=none&sni=hkt.ccwink.cc&insecure=0#🇭🇰 Hong Kong, Central | [BL] t.me/rjsxrd
 hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?insecure=1&sni=hkt.ccwink.cc#🇭🇰 Hong Kong, Central | [BL] t.me/rjsxrd
-hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?sni=hkt.ccwink.cc#🇭🇰 Hong Kong, Central | [BL] t.me/rjsxrd
-hysteria2://efe3901e-b309-43f3-843a-f4f871670cf3@888275.nl01-cherry.online:8449?insecure=0&sni=sni.nl01-cherry.online#🇳🇱 The Netherlands, Amsterdam | [BL] t.me/rjsxrd
 hysteria2://SeilceBolshoyPenis@37.18.14.235:143/?insecure=1&sni=max.ru#№41 🇷🇺 Россия, Max.ru t.me/rjsxrd
 hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@107.167.18.123:1743?security=tls&sni=227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk#🇺🇸 [AS46844] Sharktech #1 (227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk) t.me/rjsxrd
 hysteria2://dongtaiwang.com@89.144.35.25:33550?security=tls&sni=apple.com#🇳🇱 [AS214639] ITM NORD AS #1 (apple.com) t.me/rjsxrd
@@ -124,6 +95,7 @@ hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?insecure=1&s
 hysteria2://4543ebb9-3fa5-438d-8791-cb3d9a9e4137@hk1.xiaoliyu.cyou:4433?insecure=1&mport=22000-27000&sni=hk1.xiaoliyu.cyou#0271 | 🌐 Unknown | 🏳️ CIDR-OLD | HYSTERIA2 | TG: @YoutubeUnBlockRu t.me/rjsxrd
 hysteria2://71b0bd15-a03a-481e-a52d-74042c8db157@103.88.241.133:8443?security=tls&sni=slopllex.app&pinSHA256=firefox#0279 | 🇷🇺 Russia | HYSTERIA2 | TG: @YoutubeUnBlockRu t.me/rjsxrd
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?security=tls&sni=de1.xiaoliyu.cyou#0288 | 🇩🇪 Germany | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu t.me/rjsxrd
+hysteria2://efe3901e-b309-43f3-843a-f4f871670cf3@888275.nl01-cherry.online:8449?sni=sni.nl01-cherry.online#0292 | 🇳🇱 Netherlands | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu t.me/rjsxrd
 hysteria2://2d83ea00-2813-448d-bee6-14eaf7f52e13@161.104.88.46:443?sni=k71530.w-mebel.pro&upmbps=2&downmbps=5#0299 | 🇷🇺 Russia | HYSTERIA2 | TG: @YoutubeUnBlockRu t.me/rjsxrd
 hysteria2://2f4c3fc5-8fa2-4576-a583-8f98a6026887@hkt.ccwink.cc:56309?insecure=1#0317 | 🌐 Unknown | HYSTERIA2 | TG: @YoutubeUnBlockRu t.me/rjsxrd
 hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@185.106.96.231:443?security=tls&sni=s559.ccgfw.top#0324 | 🇺🇸 USA | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu t.me/rjsxrd
@@ -798,3 +770,31 @@ hysteria2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?insecure=1&sn
 hysteria2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@89.185.27.133:443?insecure=1&sni=www.bing.com#香港2 t.me/rjsxrd
 hysteria2://5da87dcd-ec4b-43d1-b6d0-ab11eaacec5c@mf1.ylccloud.top:16090?insecure=1&sni=mf1.ylccloud.top#机场推荐:dafei.de 美国 05 t.me/rjsxrd
 hysteria2://5e0c9776-1635-49a8-9fb2-7e348ca04c18@rb1.xiaohuolongjc.top:37771?insecure=1&sni=rb1.xiaohuolongjc.top#❓Other_6 | ⬇️ 1.0MB/s t.me/rjsxrd
+hysteria2://5e0c9776-1635-49a8-9fb2-7e348ca04c18@xg1.xiaohuolongjc.top:37771?insecure=1&sni=xg1.xiaohuolongjc.top#HK_6 | ⬇️ 1.1MB/s t.me/rjsxrd
+hysteria2://5f9f4bd4-4c77-4694-880b-4ddcd3665149@45.11.1.62:50000?insecure=1&sni=www.microsoft.com#JP_13 | ⬇️ 1.1MB/s t.me/rjsxrd
+hysteria2://5fbe139f-c1e0-4b92-bb3c-7f68035962c3@hl.dport.top:33659?insecure=1&obfs=salamander&obfs-password=salamander&sni=hl.dport.top#WI-FI--@IRAN_V2RAY1 t.me/rjsxrd
+hysteria2://5fe87ec5-d448-43e6-ba81-f7a63bc0eb10@wmg2.wanlidag.top:5555?insecure=1&sni=wmg2.wanlidag.top#US_38 | ⬇️ 7.4MB/s t.me/rjsxrd
+hysteria2://60b66af6-a235-4ca9-82cb-b2d331506beb@rb1.xiaohuolongjc.top:37771?insecure=1&sni=rb1.xiaohuolongjc.top#❓Other_16 | ⬇️ 1.1MB/s t.me/rjsxrd
+hysteria2://60b66af6-a235-4ca9-82cb-b2d331506beb@xg1.xiaohuolongjc.top:37771?insecure=1&sni=xg1.xiaohuolongjc.top#HK_10 | ⬇️ 1.1MB/s t.me/rjsxrd
+hysteria2://620002af-8061-454a-bb40-1b2af4aa34f0@6bkr1.6bnw.top:10100?insecure=1&sni=6bkr1.6bnw.top#TG群 https://t.me/zyzzzoao t.me/rjsxrd
+hysteria2://620002af-8061-454a-bb40-1b2af4aa34f0@ca1.jueduibupao.top:46915?insecure=1&sni=ca1.jueduibupao.top#CA_1 | ⬇️ 4.2MB/s t.me/rjsxrd
+hysteria2://620002af-8061-454a-bb40-1b2af4aa34f0@de1.jueduibupao.top:45646?insecure=1&sni=de1.jueduibupao.top#DE_2 | ⬇️ 5.7MB/s t.me/rjsxrd
+hysteria2://620002af-8061-454a-bb40-1b2af4aa34f0@hk1.jueduibupao.top:50001?insecure=1&sni=hk1.jueduibupao.top#HK_31 | ⬇️ 1.9MB/s t.me/rjsxrd
+hysteria2://620002af-8061-454a-bb40-1b2af4aa34f0@kr2.jueduibupao.top:30000?insecure=1&sni=kr2.jueduibupao.top#KR_2 | ⬇️ 2.7MB/s t.me/rjsxrd
+hysteria2://620002af-8061-454a-bb40-1b2af4aa34f0@linjp1.jueduibupao.top:49424?insecure=1&sni=linjp1.jueduibupao.top#https://t.me/zyzzzoao t.me/rjsxrd
+hysteria2://620002af-8061-454a-bb40-1b2af4aa34f0@linjp2.jueduibupao.top:30000?insecure=1&sni=linjp2.jueduibupao.top#JP_2 | ⬇️ 1.5MB/s t.me/rjsxrd
+hysteria2://620002af-8061-454a-bb40-1b2af4aa34f0@linsg1.jueduibupao.top:42036?insecure=1&sni=linsg1.jueduibupao.top#SG_3 | ⬇️ 7.0MB/s t.me/rjsxrd
+hysteria2://620002af-8061-454a-bb40-1b2af4aa34f0@lvs.jueduibupao.top:50001?insecure=1&sni=lvs.jueduibupao.top#US_10 | ⬇️ 3.3MB/s t.me/rjsxrd
+hysteria2://620002af-8061-454a-bb40-1b2af4aa34f0@ny.jueduibupao.top:50001?insecure=1&sni=ny.jueduibupao.top#US_9 | ⬇️ 3.4MB/s t.me/rjsxrd
+hysteria2://63093860-10b4-44b0-8e45-449e0e7cebf6@wels1.wanlidag.top:5555?insecure=1&sni=wels1.wanlidag.top#US_34 | ⬇️ 1.5MB/s t.me/rjsxrd
+hysteria2://64a974b1-0a8a-47c3-b028-474a511da143@dg1.xiaohuolongjc.top:37771?insecure=1&sni=dg1.xiaohuolongjc.top#US_68 | ⬇️ 1.2MB/s t.me/rjsxrd
+hysteria2://64af3401-4dbc-4a2c-a07b-dfcc7e345d26@sfjmg4.sufujia.top:57300?insecure=0&sni=sfjmg4.sufujia.top#美國 25 t.me/rjsxrd
+hysteria2://64af3401-4dbc-4a2c-a07b-dfcc7e345d26@sfjmg4.sufujia.top:57300?insecure=1&sni=sfjmg4.sufujia.top#美國 t.me/rjsxrd
+hysteria2://64ea80b3-6f33-4bdc-906b-c43fd9a9ded8@mf1.ylccloud.top:16090?insecure=0&sni=mf1.ylccloud.top#美國 24 t.me/rjsxrd
+hysteria2://64ea80b3-6f33-4bdc-906b-c43fd9a9ded8@mf1.ylccloud.top:16090?insecure=1&sni=mf1.ylccloud.top#美國 t.me/rjsxrd
+hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#美国1 | ⬇️ 6.2MB/s t.me/rjsxrd
+hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@dg.dimoyun.top:40001?insecure=1&sni=dg.dimoyun.top#德国 t.me/rjsxrd
+hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@els1.dimoyun.top:40001?insecure=1&sni=els1.dimoyun.top#俄罗斯1 t.me/rjsxrd
+hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@els2.dimoyun.top:40001?insecure=1&sni=els1.dimoyun.top#俄罗斯2 t.me/rjsxrd
+hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@mg.dimoyun.top:40001?insecure=1&sni=mg.dimoyun.top#美国 @vlees_v2rayng t.me/rjsxrd
+hysteria2://66975a45-dd40-4854-ba7b-80157a38dd64@rb.dimoyun.top:40001?insecure=1&sni=rb.dimoyun.top#日本 t.me/rjsxrd
