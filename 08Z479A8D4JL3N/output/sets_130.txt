@@ -1,10 +1,3 @@
-vless://60c0ee27-3c20-475b-8fa4-7c981d4747f1@37.9.4.224:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-2-1.legendary.ac&pbk=uL4x8EbCl080G43kFlv8nbpEyseWi1Dc_bl8F7lWtm8&sid=aa03ec59c9695e91#By EbraSha
-vless://60c0ee27-3c20-475b-8fa4-7c981d4747f1@45.11.26.216:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=wl-7-2.nodes.ac&pbk=XcKsq814Eci-OL3RwNbjvTMn73QzoczITlTSmnY-syI&sid=ba4ce2cb1029b0dd#By EbraSha
-vless://60c0ee27-3c20-475b-8fa4-7c981d4747f1@46.254.17.72:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-1-1.legendary.ac&pbk=Ce2abow3fU3pN2_mlX3uJW93sBMgTI9qNo5q7_EgFTA&sid=c4a70eddb745b1ea#By EbraSha
-vless://60c0ee27-3c20-475b-8fa4-7c981d4747f1@51.250.33.25:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-6-5.nodes.ac&pbk=c8Sx7-8OcvtHEbVU59r-9DQrNdSI91GbMaHR-du4BxA&sid=b7b3ff64ca530808#By EbraSha
-vless://60c0ee27-3c20-475b-8fa4-7c981d4747f1@62.152.58.114:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=wl-13-1.nodes.ac&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&sid=3130197867c23edb#By EbraSha
-vless://60c0ee27-3c20-475b-8fa4-7c981d4747f1@95.183.11.123:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=wl-8-1.nodes.ac&pbk=knrqm393ghxJNYj-4qu2BYpwpG5_zOG5h5-H7yyyR38&sid=0be28edc1b0278d6#By EbraSha
-vless://60c4d55d-bee3-4719-9568-aabf45153f9f@172.67.151.222:80?security=none&encryption=none&type=ws&host=y670.0h0.ccwu.cc&path=/gPvZ4oCcNDyuc3szX7xhuvpEme=@FreeOnlineVPN#By EbraSha
 vless://60d0630c-8ac4-436d-ad2c-b798b63e1c69@193.34.213.174:443?security=reality&flow=xtls-rprx-vision&sni=pl.nodes.rocketnetwork.ru&type=raw&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#By EbraSha
 vless://60d0630c-8ac4-436d-ad2c-b798b63e1c69@195.3.221.147:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl.nodes.rocketnetwork.ru&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32&type=tcp&headerType=none#By EbraSha
 vless://60d0630c-8ac4-436d-ad2c-b798b63e1c69@195.3.221.147:443?security=reality&encryption=none&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.nodes.rocketnetwork.ru&sid=428ef87fd47a3a32#By EbraSha
@@ -69,6 +62,8 @@ vless://60d23baf-3c04-4ea3-be57-136dc4bc4a5c@snapp.ir:80?type=ws&path=%2F&host=k
 vless://60d5ad89-39a0-4ce1-a86c-f0a06c5a1095@snapp.ir:80?path=%2F&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#By EbraSha
 vless://60d5ad89-39a0-4ce1-a86c-f0a06c5a1095@snapp.ir:80?path=/&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#By EbraSha
 vless://60d955c2-c8b5-492c-a457-af3ffe2ca6a2@99.199.73.53:6068?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#By EbraSha
+vless://60dbde2d-552e-4248-be32-c42272180f7e@46.4.162.63:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=tcp#By EbraSha
+vless://60dbde2d-552e-4248-be32-c42272180f7e@46.4.162.63:443?security=none&type=tcp#By EbraSha
 vless://60dc64e0-f902-437e-bc8b-221415db0c37@66.92.161.248:19371?encryption=none&security=none&type=ws&headerType=none&path=/graphql?ed=8080&host=p8888.lezzaelio.ir#By EbraSha
 vless://60dc64e0-f902-437e-bc8b-221415db0c37@prov.rgatak.ir:19371?encryption=none&security=none&type=ws&headerType=none&path=/graphql?ed=8080&host=p8888.lezzaelio.ir#By EbraSha
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?amp%3Bencryption=none&%3BheaderType=none&%3Btype=tcp#By EbraSha
@@ -209,6 +204,7 @@ vless://612c872d-1370-4109-8644-f0755f97e33f@83.97.78.13:443/?type=tcp&encryptio
 vless://612c872d-1370-4109-8644-f0755f97e33f@83.97.78.13:443?security=reality&encryption=none&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=16#By EbraSha
 vless://612c872d-1370-4109-8644-f0755f97e33f@85.208.139.100:443?security=reality&%3Bencryption=none&%3Bpbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&%3BheaderType=none&%3Bfp=firefox&%3Btype=tcp&%3Bsni=www.samsung.com&%3Bsid=16#By EbraSha
 vless://612c872d-1370-4109-8644-f0755f97e33f@85.208.139.100:443?security=reality&encryption=none&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=16#By EbraSha
+vless://612c872d-1370-4109-8644-f0755f97e33f@89.23.107.137:443?encryption=none&fp=&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&security=reality&sid=16&sni=www.samsung.com&type=tcp#By EbraSha
 vless://612c872d-1370-4109-8644-f0755f97e33f@89.23.107.137:443?encryption=none&security=reality&sni=www.samsung.com&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&sid=16&type=tcp&headerType=none#By EbraSha
 vless://612fa38e-dbf2-491c-9417-a4187c25bda2@ip4-fas.tyryqyserver.ir:80?path=/V2ynpv-V2ynpv-V2ynpv-V2ynpv-V2ynpv&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#By EbraSha
 vless://6131792d-c6b1-4754-8a9f-1955370d8e69@irna.ir:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/&security=tls&alpn=h2&encryption=none&host=am4.helxk.ir&fp=chrome&type=ws&sni=am4.helxk.ir#By EbraSha
@@ -798,3 +794,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.162.195.30:8880?type=ws&securit
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.162.196.30:8880?&type=ws&headerType=none&host=vms.lifetime59.workers.dev&path=%2F#By EbraSha
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.162.196.30:8880?type=ws&host=vms.lifetime59.workers.dev#By EbraSha
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.152.30:8880?type=ws&host=vms.lifetime61.workers.dev#By EbraSha
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.107.164.64:8443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#By EbraSha
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.132.6:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#By EbraSha
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.132.6:443?path=/?ed=2560&Telegram#By EbraSha
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.132.6:443?path=/?ed=2560&Telegram @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#By EbraSha
