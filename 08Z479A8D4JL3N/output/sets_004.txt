@@ -1,5 +1,3 @@
-hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-de.legeth.xyz:11650?security=tls&insecure=0#🇩🇪 德国4 t.me/rjsxrd
-hysteria2://de4aa07f-fde5-4fb1-8317-7f66814f9cd0@shitou-de.mxtn.net:21546?security=tls&insecure=0&mport=21001-21999#🇩🇪 德国3 t.me/rjsxrd
 hysteria2://ecb6df71-c4f1-4cd8-b129-ffa67643d2e1@uk.saigonfly.com:17177?security=tls&insecure=0&mport=17001-17999#🇬🇧 英国3 t.me/rjsxrd
 hysteria2://de4aa07f-fde5-4fb1-8317-7f66814f9cd0@shitou-uk.mxtn.net:21157?security=tls&insecure=0&mport=21001-21999#🇬🇧 英国3 t.me/rjsxrd
 hysteria2://96ccaa92-f487-4673-b8f5-a6ee167d6f39@yume-nl.legeth.xyz:11588?security=tls&insecure=0#🇳🇱 荷兰4 t.me/rjsxrd
@@ -798,3 +796,5 @@ hysteria2://338ce171-d764-4610-8fd5-6688b0d321f0@132.226.162.10:30102?insecure=1
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#hamedp71-58-🇨🇦 t.me/rjsxrd
 hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@107.167.18.123:1743?security=tls&insecure=0&sni=fecc1dc4-t4v9c0-t5ht86-dnss.la.shifen.uk#%3E%3E%40FreakConfig::US t.me/rjsxrd
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk#%3E%3E%40configV2rayNG::US t.me/rjsxrd
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk#%3E%3E%40FreakConfig::US t.me/rjsxrd
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%3E%3E%40configV2rayNG::US t.me/rjsxrd
