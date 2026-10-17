@@ -1,0 +1,800 @@
+trojan://humanity@144.31.205.106:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-2509
+trojan://humanity@172.66.40.99:443?allowInsecure=0&sni=www.trusteeforward.com&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment#[TR] [OpenRay] %F0%9F%8C%90XX-1482
+trojan://UX82473651@3.120.109.26:443?sni=actual-squid.rooster465.autos&fp=chrome&type=tcp&path=/#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-129
+trojan://UX82473651@pro-mako.rooster465.autos:443?security=tls&sni=pro-mako.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-1484
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=0&sni=adapting-basilisk.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-1487
+trojan://UX82473651@54.249.36.167:443?sni=comic-poodle.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-150
+trojan://humanity@46.8.228.165:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%AB%F0%9F%87%AEFI-48
+trojan://humanity@185.230.44.62:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%A6UA-9
+trojan://humanity@104.21.37.56:443?path=/assignment&security=tls&host=www.volumeroot.com&fp=ios&type=ws&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%8C%90XX-1511
+trojan://trj-qWC4DKUemeUYWSKA1xx7okumSKKw0QSX@38.181.42.136:9443?allowInsecure=0&sni=www.jqyverse.com#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-2577
+trojan://humanity@82.117.245.125:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-133
+trojan://UX82473651@fond-mammoth.rooster465.autos:443?type=tcp&security=tls&sni=fond-mammoth.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-1523
+trojan://humanity@185.14.186.43:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%B3%F0%9F%87%B1NL-215
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@188.114.97.6:443?security=tls&type=ws&host=id1.nathaya.web.id&path=%2Ftrojan&sni=id1.nathaya.web.id&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%A6CA-174
+trojan://humanity@92.42.99.143:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-135
+trojan://UX82473651@inviting-rabbit.rooster465.autos:443?allowInsecure=0&sni=inviting-rabbit.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-1546
+trojan://4a5afc6d-36db-4991-9c49-7eb0ed751a39@45.76.218.34:32676?sni=lazeno.vip&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-153
+trojan://UX82473651@stable-python.rooster465.autos:443?allowInsecure=0&sni=stable-python.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-1556
+trojan://humanity@104.18.35.86:443?security=tls&sni=www.volumerOot.coM.&type=ws&path=/assignment&Host=www.volumerOot.coM.#[TR] [OpenRay] %F0%9F%8C%90XX-1560
+trojan://UX82473651@normal-macaque.rooster465.autos:443?type=raw&security=tls&sni=normal-macaque.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-1567
+trojan://UX82473651@54.238.153.132:443?sni=obliging-louse.rooster465.autos&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-156
+trojan://UX82473651@legible-ram.rooster465.autos:443?type=tcp&security=tls&sni=legible-ram.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-1594
+trojan://UX82473651@warm-krill.rooster465.autos:443?security=tls&sni=warm-krill.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-1600
+trojan://humanity@188.42.145.180:443?security=tls&allowInsecure=0&sni=www.volumeroot.com&type=ws&host=www.volumeroot.com&path=%2Fassignment&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=safari#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-39
+trojan://UX82473651@43.207.89.91:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=organic-caribou.rooster465.autos#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-159
+trojan://UX82473651@54.179.60.162:443?sni=intense-wildcat.rooster465.autos&allowInsecure=0#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-128
+trojan://humanity@138.226.220.205:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-2765
+trojan://humanity@57.128.183.108:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%AB%F0%9F%87%B7FR-78
+trojan://UX82473651@stable-python.rooster465.autos:443?sni=stable-python.rooster465.autos&allowInsecure=0&type=tcp#[TR] [OpenRay] %F0%9F%8C%90XX-1650
+trojan://Trojan@82164024@92.118.150.146:443?sni=pl.tronsg.com&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%B5%F0%9F%87%B1PL-48
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumerOot.coM.&fp=safari&type=ws&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-40
+trojan://humanity@159.223.12.89:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%B3%F0%9F%87%B1NL-235
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?type=raw&security=tls&sni=adapting-basilisk.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-1687
+trojan://UX82473651@optimum-snapper.rooster465.autos:443?sni=optimum-snapper.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%8C%90XX-1697
+trojan://UX82473651@54.72.130.222:443?type=tcp&security=tls&sni=adapting-basilisk.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%AE%F0%9F%87%AAIE-42
+trojan://humanity@172.67.217.240:443?security=tls&sni=www.calmlunch.com&fp=unsafe&type=ws&path=%2Fassignment#[TR] [OpenRay] %F0%9F%8C%90XX-1706
+trojan://UX82473651@delicate-buck.rooster465.autos:443?security=tls&sni=delicate-buck.rooster465.autos&fp=chrome&type=tcp&headerType=none#[TR] [OpenRay] %F0%9F%8C%90XX-1709
+trojan://e309e031-991e-4656-9934-44d10deb8fd8@104.21.48.18:2053?security=tls&sni=nimm.mpd.cc.cd&type=ws&host=nimm.mpd.cc.cd&path=/0962&fp=chrome&alpn=h3h2http/1.1&allowInsecure=0#[TR] [OpenRay] %F0%9F%8C%90XX-1716
+trojan://humanity@104.21.37.56:443?path=%2Fassignment&security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%8C%90XX-1719
+trojan://UX82473651@legible-ram.rooster465.autos:443?allowInsecure=0&sni=legible-ram.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-1720
+trojan://humanity@104.21.37.56:443?security=tls&sni=www.volumeroot.com&alpn=h3%2C%20h2%2C%20http%2F1.1&fp=ios&type=ws&host=www.volumeroot.com&path=%2Fassignment#[TR] [OpenRay] %F0%9F%8C%90XX-1721
+trojan://humanity@139.59.186.54:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%AC%F0%9F%87%A7GB-258
+trojan://humanity@31.57.190.34:443?path=/assignment&security=tls&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%A6%F0%9F%87%AAAE-59
+trojan://UX82473651@13.125.69.162:443?sni=engaging-toucan.rooster465.autos&fp=chrome&type=tcp&path=/#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-82
+trojan://UX82473651@54.249.55.154:443?sni=prime-corgi.rooster465.autos&path=%2f#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-167
+trojan://3ixF51QWmFNmKOO_utPxVL-7gYYUb6HC@b1.3danimation3.com:8443?type=tcp&security=tls&sni=b1.3danimation3.com&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-1739
+trojan://UX82473651@18.176.52.171:443?type=tcp&security=tls&sni=legible-ram.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-169
+trojan://humanity@185.114.72.31:2053?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#[TR] [OpenRay] %F0%9F%87%AA%F0%9F%87%B8ES-28
+trojan://UX82473651@176.34.5.100:443?sni=assuring-skink.rooster465.autos&fp=chrome&type=tcp&path=/#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-171
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-42
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] [OpenRay] %F0%9F%8C%90XX-1777
+trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&sni=equipped-stingray.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-1781
+trojan://UX82473651@optimal-penguin.rooster465.autos:443?sni=optimal-penguin.rooster465.autos&allowInsecure=0&type=tcp#[TR] [OpenRay] %F0%9F%8C%90XX-1792
+trojan://UX82473651@musical-mouse.rooster465.autos:443?type=tcp&security=tls&sni=musical-mouse.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-1796
+trojan://humanity@185.22.172.249:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BBLV-30
+trojan://UX82473651@amazed-mako.rooster465.autos:443?sni=amazed-mako.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-1801
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@43.169.19.179:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=tjsp.hhxaf.cc.cd&fp=chrome&sni=tjsp.hhxaf.cc.cd&path=%2F&encryption=none#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%B3CN-60
+trojan://UX82473651@34.220.15.24:443?sni=guided-ferret.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-3065
+trojan://UX82473651@54.249.36.167:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=comic-poodle.rooster465.autos#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-177
+trojan://humanity@104.16.72.41:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#[TR] [OpenRay] %F0%9F%8C%90XX-1827
+trojan://M7v%w11Se*@35.244.28.130:443?sni=tttyder.wsone.icu&type=raw&fp=chrome#[TR] [OpenRay] %F0%9F%87%AE%F0%9F%87%B3IN-51
+trojan://UX82473651@3.253.106.233:443?type=tcp&security=tls&sni=loved-shark.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%AE%F0%9F%87%AAIE-44
+trojan://UX82473651@pet-antelope.rooster465.autos:443?sni=pet-antelope.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-1842
+trojan://UX82473651@16.144.66.136:443?type=tcp&security=tls&sni=alert-titmouse.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-3118
+trojan://humanity@104.19.229.21:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%A6CA-203
+trojan://7076b233-c844-4bb0-a7e1-cf8f1fa824e9@45.76.218.34:32676?sni=lazeno.vip&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-180
+trojan://UX82473651@winning-marten.rooster465.autos:443?sni=winning-marten.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-1865
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%B2%F0%9F%87%BDMX-24
+trojan://humanity@46.8.228.165:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%AB%F0%9F%87%AEFI-58
+trojan://humanity@104.17.148.22:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%A6CA-208
+trojan://UX82473651@16.144.66.136:443?type=tcp&security=tls&sni=alert-titmouse.rooster465.autos#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-3218
+trojan://humanity@188.114.97.2:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%8C%90XX-1898
+trojan://UX82473651@13.230.91.226:443?sni=musical-terrier.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-183
+trojan://UX82473651@52.221.218.179:443?sni=real-cardinal.rooster465.autos&allowInsecure=0&type=tcp#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-149
+trojan://humanity@45.130.125.69:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%A8SC-17
+trojan://humanity@143.246.136.156:443?path=/assignment&security=tls&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-3306
+trojan://humanity@188.114.97.6:443?security=tls&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#[TR] [OpenRay] %F0%9F%8C%90XX-1937
+trojan://humanity@206.189.125.53:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm#[TR] [OpenRay] %F0%9F%87%AC%F0%9F%87%A7GB-296
+trojan://UX82473651@52.221.222.185:443?type=tcp&security=tls&sni=joint-ewe.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-153
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#[TR] [OpenRay] %F0%9F%87%A6%F0%9F%87%B9AT-12
+trojan://UX82473651@18.141.136.8:443?sni=musical-mouse.rooster465.autos&allowInsecure=0#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-154
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%A6CA-216
+trojan://UX82473651@3.35.207.188:443?sni=main-fawn.rooster465.autos&allowInsecure=0#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-92
+trojan://A4u%5Ep%28_UR%2AF6@104.21.70.21:8080?encryption=none&security=none&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%221%22%5D%2C%20%22delays%22%3A%20%5B%224%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%A6CA-220
+trojan://UX82473651@43.201.100.203:443?security=tls&sni=optimum-snapper.rooster465.autos#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-93
+trojan://UX82473651@inviting-rabbit.rooster465.autos:443?sni=inviting-rabbit.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-1957
+trojan://humanity@188.114.97.6:443?path=%2F%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%A6CA-221
+trojan://humanity@165.215.250.14:443?host=www.calmlunch.com&path=//assignment&sni=www.calmlunch.com&type=ws#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-3379
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@104.18.66.57:443?security=tls&sni=nat3.xxai.dpdns.org&type=ws&host=nat3.xxai.dpdns.org&path=/anyway#[TR] [OpenRay] %F0%9F%8C%90XX-1963
+trojan://humanity@46.8.228.165:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%AB%F0%9F%87%AEFI-61
+trojan://humanity@104.21.37.56:443?path=%2Fassignment&security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&insecure=0&host=www.volumeroot.com&fp=ios&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%8C%90XX-1984
+trojan://UX82473651@working-tomcat.rooster465.autos:443?sni=working-tomcat.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-1985
+trojan://UX82473651@3.35.168.225:443?sni=noted-cougar.rooster465.autos&allowInsecure=0#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-97
+trojan://humanity@57.128.176.37:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%AB%F0%9F%87%B7FR-102
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] [OpenRay] %F0%9F%8C%90XX-1999
+trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@172.64.80.1:443?type=ws&security=tls&path=%2Fcmh&sni=app-538961.user-y0o4gm.workers.dev&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2002
+trojan://UX82473651@allowed-poodle.rooster465.autos:443?type=tcp&security=tls&sni=allowed-poodle.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2016
+trojan://humanity@188.114.97.1:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%8C%90XX-2017
+trojan://UX82473651@54.179.60.162:443?sni=intense-wildcat.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-163
+trojan://UX82473651@live-stallion.rooster465.autos:443?sni=live-stallion.rooster465.autos&allowInsecure=0&type=tcp#[TR] [OpenRay] %F0%9F%8C%90XX-2031
+trojan://humanity@45.87.41.18:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] [OpenRay] %F0%9F%87%B3%F0%9F%87%B1NL-277
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%8C%90XX-2035
+trojan://UX82473651@3.112.29.244:443?sni=evident-ant.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-192
+trojan://humanity@212.227.144.37:8443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] [OpenRay] %F0%9F%87%AA%F0%9F%87%B8ES-30
+trojan://humanity@46.101.143.59:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-193
+trojan://UX82473651@inspired-hound.rooster465.autos:443?sni=inspired-hound.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2056
+trojan://UX82473651@54.179.60.162:443?type=tcp&security=tls&sni=intense-wildcat.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-167
+trojan://UX82473651@normal-macaque.rooster465.autos:443?type=tcp&security=tls&sni=normal-macaque.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2065
+trojan://UX82473651@43.203.120.240:443?type=tcp&security=tls&sni=cunning-grub.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-100
+trojan://2ab72d48-de25-4ae7-aefe-722b3384245d@45.76.218.34:32676?sni=lazeno.vip&allowInsecure=0&type=tcp#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-195
+trojan://e309e031-991e-4656-9934-44d10deb8fd8@104.26.15.137:2053?security=tls&sni=nimm.mpd.cc.cd.&type=ws&host=nimm.mpd.cc.cd.&path=%2F0962&fp=ios&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=0#[TR] [OpenRay] %F0%9F%8C%90XX-2072
+trojan://humanity@190.93.245.148:443?security=tls&type=ws&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%8C%90XX-2083
+trojan://UX82473651@concrete-aardvark.rooster465.autos:443?type=tcp&security=tls&sni=concrete-aardvark.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2088
+trojan://humanity@188.114.98.0:443?host=www.volumeroot.com&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#[TR] [OpenRay] %F0%9F%8C%90XX-2093
+trojan://humanity@46.101.110.34:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-198
+trojan://humanity@83.217.222.170:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%B3%F0%9F%87%B1NL-289
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumerOot.coM.#[TR] [OpenRay] %F0%9F%8C%90XX-2095
+trojan://UX82473651@54.250.237.143:443?type=tcp&security=tls&sni=accurate-frog.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-199
+trojan://humanity@77.239.121.232:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-3568
+trojan://UX82473651@rested-seahorse.rooster465.autos:443?allowInsecure=0&insecure=0&type=tcp&security=tls&sni=rested-seahorse.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2102
+trojan://UX82473651@ace-liger.rooster465.autos:443?allowInsecure=0&sni=ace-liger.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2103
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=ios#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-45
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=ios#[TR] [OpenRay] %F0%9F%8C%90XX-2115
+trojan://UX82473651@3.74.47.221:443?type=tcp&security=tls&sni=cuddly-sheepdog.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-201
+trojan://humanity@188.114.97.6:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=http/1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%A6CA-240
+trojan://UX82473651@52.78.203.191:443?sni=delicate-buck.rooster465.autos&fp=chrome&type=tcp&path=/#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-102
+trojan://humanity@188.114.97.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%8C%90XX-2136
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-46
+trojan://UX82473651@evident-ant.rooster465.autos:443?sni=evident-ant.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2148
+trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%A6%F0%9F%87%AAAE-72
+trojan://UX82473651@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&allowInsecure=0&type=tcp#[TR] [OpenRay] %F0%9F%8C%90XX-2150
+trojan://humanity@92.42.99.143:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-207
+trojan://UX82473651@moral-basilisk.rooster465.autos:443?allowInsecure=0&sni=moral-basilisk.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2158
+trojan://UX82473651@rested-seahorse.rooster465.autos:443?allowInsecure=0&sni=rested-seahorse.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2162
+trojan://UX82473651@3.35.168.225:443?sni=noted-cougar.rooster465.autos&fp=chrome&type=tcp&path=/#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-104
+trojan://humanity@161.35.192.122:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-208
+trojan://humanity@188.114.97.5:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%8C%90XX-2165
+trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%8C%90XX-2177
+trojan://UX82473651@13.114.99.222:443?type=tcp&security=tls&sni=allowed-poodle.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-206
+trojan://humanity@104.27.21.22:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#[TR] [OpenRay] %F0%9F%8C%90XX-2181
+trojan://humanity@89.150.34.41:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] [OpenRay] %F0%9F%87%B3%F0%9F%87%B1NL-301
+trojan://UX82473651@54.250.237.143:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=accurate-frog.rooster465.autos#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-207
+trojan://UX82473651@3.35.168.225:443?sni=noted-cougar.rooster465.autos&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-106
+trojan://humanity@164.92.223.252:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%B3%F0%9F%87%B1NL-303
+trojan://UX82473651@54.249.55.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=prime-corgi.rooster465.autos#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-208
+trojan://humanity@185.22.172.249:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BBLV-35
+trojan://UX82473651@live-stallion.rooster465.autos:443?type=tcp&security=tls&sni=live-stallion.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2199
+trojan://UX82473651@accurate-frog.rooster465.autos:443?allowInsecure=0&fp=chrome&security=tls&sni=accurate-frog.rooster465.autos&type=tcp#[TR] [OpenRay] %F0%9F%8C%90XX-2211
+trojan://humanity@46.62.204.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%AB%F0%9F%87%AEFI-68
+trojan://UX82473651@13.125.69.162:443?security=tls&sni=engaging-toucan.rooster465.autos&type=tcp&headerType=none&path=%2F#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-107
+trojan://UX82473651@alert-titmouse.rooster465.autos:443?sni=alert-titmouse.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2213
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=qq#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-49
+trojan://UX82473651@warm-krill.rooster465.autos:443?allowInsecure=0&sni=warm-krill.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2218
+trojan://Trojan%4082164024@gb.tronsg.com:443?security=tls&sni=gb.tronsg.com#[TR] [OpenRay] %F0%9F%8C%90XX-2221
+trojan://UX82473651@fond-mammoth.rooster465.autos:443?security=tls&sni=fond-mammoth.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2235
+trojan://UX82473651@54.151.181.75:443?security=tls&sni=moral-basilisk.rooster465.autos#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-182
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=firefox&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-51
+trojan://UX82473651@54.238.153.132:443?sni=obliging-louse.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-213
+trojan://humanity@www.speedtest.net:443?path=%2Fassignment%23Telegram---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[TR] [OpenRay] %F0%9F%8C%90XX-2244
+trojan://UX82473651@stable-python.rooster465.autos:443?sni=stable-python.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2250
+trojan://humanity@45.130.125.126:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%A8SC-18
+trojan://humanity@188.114.97.6:443?type=ws&security=tls&sni=www.volumeroot.com&alpn=http%2F1.1&fp=unsafe&host=www.volumeroot.com&path=%2Fassignment#[TR] [OpenRay] %F0%9F%8C%90XX-2261
+trojan://Trojan@82164024@ca.tronsg.com:443?sni=ca.tronsg.com&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2264
+trojan://humanity@188.114.97.4:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%8C%90XX-2266
+trojan://UX82473651@56.10.9.77:443?security=tls&sni=inviting-ferret.rooster465.autos#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-186
+trojan://humanity@188.114.97.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%8C%90XX-2275
+trojan://UX82473651@54.249.36.167:443?sni=comic-poodle.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-216
+trojan://UX82473651@176.34.5.100:443?type=tcp&security=tls&sni=assuring-skink.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-218
+trojan://UX82473651@43.207.89.91:443?sni=organic-caribou.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-219
+trojan://UX82473651@43.207.198.39:443?type=tcp&security=tls&sni=fancy-javelin.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-220
+trojan://UX82473651@54.249.36.167:443?type=tcp&security=tls&sni=comic-poodle.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-221
+trojan://UX82473651@evolving-platypus.rooster465.autos:443?type=tcp&security=tls&sni=evolving-platypus.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2320
+trojan://UX82473651@18.176.52.171:443?security=tls&sni=legible-ram.rooster465.autos#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-222
+trojan://humanity@188.114.97.8:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%8C%90XX-2327
+trojan://UX82473651@43.206.225.188:443?sni=warm-krill.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-226
+trojan://UX82473651@13.231.247.130:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=concrete-aardvark.rooster465.autos#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-228
+trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%B2%F0%9F%87%BDMX-34
+trojan://humanity@104.18.4.5:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%8C%90XX-2345
+trojan://UX82473651@3.39.225.215:443?security=tls&sni=kind-stork.rooster465.autos#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-114
+trojan://UX82473651@13.125.29.37:443?type=tcp&security=tls&sni=fancy-skink.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-115
+trojan://humanity@107.189.26.160:443?sni=www.pleadcourt.org&fp=unsafe&alpn=http%2F1.1&type=ws&path=%2Fassignment&host=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%B3%F0%9F%87%B1NL-327
+trojan://humanity@46.62.230.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-225
+trojan://UX82473651@noted-cougar.rooster465.autos:443?sni=noted-cougar.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%8C%90XX-2358
+trojan://UX82473651@organic-caribou.rooster465.autos:443?type=tcp&security=tls&sni=organic-caribou.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2361
+trojan://UX82473651@54.199.66.128:443?security=tls&sni=integral-rodent.rooster465.autos#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-232
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%8C%90XX-2382
+trojan://1710442808@188.114.97.6:443?security=tls&type=ws&host=subb.nrshop198.workers.dev&path=%2F&sni=subb.nrshop198.workers.dev&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%A6CA-260
+trojan://UX82473651@glorious-glider.rooster465.autos:443?allowInsecure=0&sni=glorious-glider.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2385
+trojan://UX82473651@52.192.45.137:443?sni=promoted-rattler.rooster465.autos&fp=chrome&type=tcp&path=/#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-234
+trojan://humanity@82.117.245.125:2053?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-232
+trojan://humanity@138.226.220.205:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-4129
+trojan://UX82473651@52.192.45.137:443?sni=promoted-rattler.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-236
+trojan://8bdfa4e8dac99c57decdd8bf55d2da4c@107.149.159.190:10443?sni=cf.shiranyu.xyz#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-4141
+trojan://UX82473651@fancy-skink.rooster465.autos:443?allowInsecure=0&sni=fancy-skink.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2423
+trojan://humanity@188.114.97.6:443?path=%2F%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%A6CA-268
+trojan://UX82473651@fond-mammoth.rooster465.autos:443?sni=fond-mammoth.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2431
+trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&peer=normal-macaque.rooster465.autos&security=tls#[TR] [OpenRay] %F0%9F%8C%90XX-2438
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=android#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-234
+trojan://UX82473651@3.35.168.225:443?sni=noted-cougar.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-117
+trojan://UX82473651@56.10.9.77:443?type=tcp&security=tls&sni=inviting-ferret.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-202
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos&fp=chrome&type=tcp&headerType=none#[TR] [OpenRay] %F0%9F%8C%90XX-2445
+trojan://UX82473651@52.221.219.241:443?security=tls&sni=fond-mammoth.rooster465.autos#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-204
+trojan://humanity@46.62.204.134:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%AB%F0%9F%87%AEFI-74
+trojan://humanity@188.114.97.6:443?security=tls&type=ws&host=www.calmlunch.com&path=%2F%2Fassignment&sni=www.calmlunch.com&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%A6CA-271
+trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&type=ws&path=%2Fassignment&Host=www.volumeroot.com&fp=firefox#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-54
+trojan://UX82473651@54.238.153.132:443?sni=obliging-louse.rooster465.autos&fp=chrome&type=tcp&path=/#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-238
+trojan://UX82473651@glorious-glider.rooster465.autos:443?type=tcp&security=tls&sni=glorious-glider.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2455
+trojan://UX82473651@simple-molly.rooster465.autos:443?allowInsecure=0&sni=simple-molly.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2457
+trojan://UX82473651@54.199.66.128:443?type=tcp&security=tls&sni=integral-rodent.rooster465.autos#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-239
+trojan://UX82473651@alert-titmouse.rooster465.autos:443?security=tls&sni=alert-titmouse.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2463
+trojan://humanity@172.86.93.55:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-238
+trojan://UX82473651@delicate-buck.rooster465.autos:443?sni=delicate-buck.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2476
+trojan://UX82473651@54.249.55.154:443?sni=prime-corgi.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-242
+trojan://Trojan%4082164024@92.118.150.146:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pl.tronsg.com#[TR] [OpenRay] %F0%9F%87%B5%F0%9F%87%B1PL-73
+trojan://humanity@193.239.160.134:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#[TR] [OpenRay] %F0%9F%87%A7%F0%9F%87%ACBG-38
+trojan://humanity@188.114.97.3:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#[TR] [OpenRay] %F0%9F%8C%90XX-2484
+trojan://UX82473651@54.250.237.143:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=accurate-frog.rooster465.autos#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-243
+trojan://humanity@188.114.97.8:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%8C%90XX-2489
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=ios#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-240
+trojan://humanity@185.114.72.31:2053?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com&fp=ios#[TR] [OpenRay] %F0%9F%87%AA%F0%9F%87%B8ES-37
+trojan://UX82473651@cuddly-sheepdog.rooster465.autos:443?sni=cuddly-sheepdog.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2493
+trojan://UX82473651@inviting-ferret.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=inviting-ferret.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2498
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2499
+trojan://UX82473651@3.112.188.176:443?sni=live-stallion.rooster465.autos&allowInsecure=0&type=tcp#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-245
+trojan://8bdfa4e8dac99c57decdd8bf55d2da4c@107.149.159.190:10443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cf.shiranyu.xyz#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-4319
+trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2515
+trojan://UX82473651@3.1.252.137:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=brave-tomcat.rooster465.autos#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-207
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=0#[TR] [OpenRay] %F0%9F%8C%90XX-2520
+trojan://UX82473651@fancy-javelin.rooster465.autos:443?type=tcp&security=tls&sni=fancy-javelin.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2524
+trojan://UX82473651@54.250.237.143:443?sni=accurate-frog.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-247
+trojan://Trojan@82164024@ca.tronsg.com:443?sni=ca.tronsg.com&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2528
+trojan://humanity@144.31.182.130:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-4353
+trojan://humanity@45.130.125.112:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%A8SC-20
+trojan://UX82473651@52.192.217.187:443?sni=evolving-platypus.rooster465.autos&fp=chrome&type=tcp&path=/#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-253
+trojan://UX82473651@54.238.153.132:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-254
+trojan://UX82473651@legible-ram.rooster465.autos:443?type=tcp&security=tls&sni=legible-ram.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2576
+trojan://humanity@172.66.40.99:443?security=tls&type=ws&sni=www.trusteeforward.com&path=/assignment#[TR] [OpenRay] %F0%9F%8C%90XX-2577
+trojan://UX82473651@3.75.93.113:443?sni=meet-goshawk.rooster465.autos&allowInsecure=0&type=tcp#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-252
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@172.67.211.79:443?sni=mfyousheng.nl.eu.org&type=ws&path=%2FtjwsLhx0SFASG4l9FERJ1g&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2579
+trojan://UX82473651@43.203.120.240:443?sni=cunning-grub.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-119
+trojan://UX82473651@13.114.99.222:443?sni=allowed-poodle.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-256
+trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=musical-terrier.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2587
+trojan://humanity@138.226.220.205:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-4476
+trojan://UX82473651@kind-stork.rooster465.autos:443?sni=kind-stork.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%8C%90XX-2593
+trojan://UX82473651@34.220.15.24:443?sni=guided-ferret.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-4484
+trojan://UX82473651@main-fawn.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=main-fawn.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2599
+trojan://UX82473651@43.201.100.203:443?type=tcp&security=tls&sni=optimum-snapper.rooster465.autos#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-120
+trojan://humanity@144.31.195.61:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-4497
+trojan://UX82473651@glorious-glider.rooster465.autos:443?sni=glorious-glider.rooster465.autos&allowInsecure=0&type=tcp#[TR] [OpenRay] %F0%9F%8C%90XX-2606
+trojan://UX82473651@43.207.89.91:443?sni=organic-caribou.rooster465.autos&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-258
+trojan://UX82473651@3.112.188.176:443?type=tcp&security=tls&sni=live-stallion.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-259
+trojan://UX82473651@43.207.198.39:443?sni=fancy-javelin.rooster465.autos&allowInsecure=0#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-262
+trojan://UX82473651@normal-macaque.rooster465.autos:443?type=tcp&security=tls&sni=normal-macaque.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2615
+trojan://M7v%25w11Se%2A@34.94.125.227:443?sni=mxlo.wsone.icu&peer=mxlo.wsone.icu&security=tls#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-4527
+trojan://UX82473651@comic-poodle.rooster465.autos:443?sni=comic-poodle.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2633
+trojan://UX82473651@pure-kodiak.rooster465.autos:443?type=tcp&security=tls&sni=pure-kodiak.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2636
+trojan://UX82473651@56.10.9.77:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=inviting-ferret.rooster465.autos#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-220
+trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%8C%90XX-2640
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2641
+trojan://UX82473651@noted-cougar.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=noted-cougar.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2646
+trojan://UX82473651@normal-macaque.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=normal-macaque.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2651
+trojan://humanity@155.103.71.142:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com&fp=android#[TR] [OpenRay] %F0%9F%8C%90XX-2654
+trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%ADCH-13
+trojan://UX82473651@43.201.100.203:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=optimum-snapper.rooster465.autos#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-121
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=qq&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-58
+trojan://humanity@render.com:443?path=%2Fassignment%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-4586
+trojan://UX82473651@47.131.250.125:443?type=tcp&security=tls&sni=simple-molly.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-222
+trojan://UX82473651@master-possum.rooster465.autos:443?sni=master-possum.rooster465.autos&allowInsecure=0&type=tcp#[TR] [OpenRay] %F0%9F%8C%90XX-2670
+trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=firefox#[TR] [OpenRay] %F0%9F%8C%90XX-2674
+trojan://UX82473651@52.221.220.227:443?type=tcp&security=tls&sni=pet-antelope.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-223
+trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=0&sni=master-possum.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2682
+trojan://av7fquzvuc99xcs9@172.67.140.126:2087?path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&security=tls&alpn=h2&insecure=0&host=uwu.dianaw.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#[TR] [OpenRay] %F0%9F%8C%90XX-2688
+trojan://humanity@219.76.13.177:443?path=/assignment&security=tls&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%AD%F0%9F%87%B0HK-175
+trojan://humanity@188.114.97.3:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%8C%90XX-2707
+trojan://c8b9c7ca-c022-4ee4-9690-2d615c784b14@45.76.218.34:32676?sni=lazeno.vip&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-269
+trojan://UX82473651@engaging-toucan.rooster465.autos:443?allowInsecure=0#[TR] [OpenRay] %F0%9F%8C%90XX-2717
+trojan://humanity@209.38.37.132:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%B3%F0%9F%87%B1NL-390
+trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&type=ws&path=%2Fassignment&Host=www.volumeroot.com&fp=chrome#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-59
+trojan://humanity@188.114.97.4:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%8C%90XX-2725
+trojan://UX82473651@intense-wildcat.rooster465.autos:443?type=tcp&security=tls&sni=intense-wildcat.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2729
+trojan://humanity@188.114.97.6:443?host=www.volumerOot.coM.&path=%2Fassignment&security=tls&sni=www.volumerOot.coM.&type=ws#[TR] [OpenRay] %F0%9F%8C%90XX-2733
+trojan://UX82473651@13.230.91.226:443?sni=musical-terrier.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-271
+trojan://humanity@139.59.186.54:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%AC%F0%9F%87%A7GB-424
+trojan://humanity@172.67.139.14:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&type=ws&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%8C%90XX-2747
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%B2%F0%9F%87%BDMX-39
+trojan://humanity@146.185.174.59:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%B3%F0%9F%87%B1NL-394
+trojan://UX82473651@optimum-snapper.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=optimum-snapper.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2757
+trojan://UX82473651@live-stallion.rooster465.autos:443?allowInsecure=0&sni=live-stallion.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2759
+trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%AB%F0%9F%87%AEFI-83
+trojan://UX82473651@13.229.59.187:443?sni=inspired-hound.rooster465.autos&allowInsecure=0#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-228
+trojan://humanity@138.226.220.205:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-4802
+trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&allowInsecure=0&type=tcp#[TR] [OpenRay] %F0%9F%8C%90XX-2771
+trojan://humanity@219.76.13.177:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%AD%F0%9F%87%B0HK-185
+trojan://UX82473651@optimum-snapper.rooster465.autos:443?type=raw&security=tls&sni=optimum-snapper.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2774
+trojan://UX82473651@accurate-frog.rooster465.autos:443?sni=accurate-frog.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%8C%90XX-2789
+trojan://UX82473651@simple-molly.rooster465.autos:443?type=tcp&security=tls&sni=simple-molly.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2791
+trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2796
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&type=ws&sni=www.volumeroot.com&fp=safari#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-60
+trojan://UX82473651@cunning-grub.rooster465.autos:443?allowInsecure=0&sni=cunning-grub.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2799
+trojan://humanity@188.114.97.2:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%8C%90XX-2803
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.96.3:443?type=ws&security=tls&path=%2FtjwsLhx0SFASG4l9FERJ1g&sni=mfyousheng.nl.eu.org&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2815
+trojan://UX82473651@13.229.121.67:443?sni=rested-seahorse.rooster465.autos&allowInsecure=0&type=tcp#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-235
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%A6CA-319
+trojan://UX82473651@ace-liger.rooster465.autos:443?allowInsecure=0&insecure=0&type=tcp&security=tls&sni=ace-liger.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-2836
+trojan://UX82473651@brave-tomcat.rooster465.autos:443?type=tcp&security=tls&sni=brave-tomcat.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2839
+trojan://humanity@46.8.228.165:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%AB%F0%9F%87%AEFI-85
+trojan://M7v%w11Se*@34.131.228.210:443?sni=hyfuuf6.wsone.icu&allowInsecure=0&type=tcp#[TR] [OpenRay] %F0%9F%87%AE%F0%9F%87%B3IN-79
+trojan://humanity@188.42.145.180:443?security=tls&allowInsecure=0&sni=www.volumeroot.com&type=ws&host=www.volumeroot.com&path=%2Fassignment&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=edge#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-61
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-62
+trojan://UX82473651@3.1.252.137:443?type=tcp&security=tls&sni=brave-tomcat.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-237
+trojan://Trojan@82164024@ca.tronsg.com:443?sni=ca.tronsg.com#[TR] [OpenRay] %F0%9F%8C%90XX-2854
+trojan://UX82473651@202.78.163.237:443?security=tls&sni=cheerful-swan.rooster465.autos&type=tcp&allowInsecure=0#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-274
+trojan://Trojan@82164024@ca.tronsg.com:443?security=tls#[TR] [OpenRay] %F0%9F%8C%90XX-2868
+trojan://UX82473651@main-fawn.rooster465.autos:443?sni=main-fawn.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%8C%90XX-2870
+trojan://UX82473651@3.35.214.220:443?type=tcp&security=tls&sni=glorious-lark.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-137
+trojan://8bdfa4e8dac99c57decdd8bf55d2da4c@107.149.159.190:10443?type=tcp&security=tls&fp=chrome&sni=cf.shiranyu.xyz#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-5001
+trojan://UX82473651@legible-ram.rooster465.autos:443?sni=legible-ram.rooster465.autos&allowInsecure=0&type=tcp#[TR] [OpenRay] %F0%9F%8C%90XX-2911
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.&fp=android#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-63
+trojan://humanity@104.17.44.17:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#[TR] [OpenRay] %F0%9F%8C%90XX-2915
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&type=ws&sni=www.volumeroot.com&fp=firefox#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-64
+trojan://UX82473651@52.221.220.227:443?sni=pet-antelope.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-246
+trojan://humanity@104.21.33.59:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=unsafe&alpn=http%2F1.1&allowInsecure=0#[TR] [OpenRay] %F0%9F%8C%90XX-2929
+trojan://humanity@104.21.37.56:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%8C%90XX-2937
+trojan://UX82473651@working-tomcat.rooster465.autos:443?sni=working-tomcat.rooster465.autos&peer=working-tomcat.rooster465.autos&security=tls#[TR] [OpenRay] %F0%9F%8C%90XX-2941
+trojan://Trojan@82164024@18.168.148.212:443?sni=gb.tronsg.com&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%AC%F0%9F%87%A7GB-452
+trojan://Telegram_healer_config@104.21.87.130:443?type=ws&path=%2Ftr%2FUOAg5ubCk87OTaiIAxc0O%3Fed&security=tls&alpn=http%2F1.1&fp=chrome&sni=z6y-daOX0hyhDtdy.r720kPByx2l3i406.wOrKErS.DEv#[TR] [OpenRay] %F0%9F%8C%90XX-2943
+trojan://UX82473651@176.34.5.100:443?sni=assuring-skink.rooster465.autos&allowInsecure=0#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-295
+trojan://UX82473651@central-jawfish.rooster465.autos:443?sni=central-jawfish.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-2958
+trojan://e309e031-991e-4656-9934-44d10deb8fd8@188.114.98.0:443?type=ws&host=nimm.mpd.cc.cd&path=%2F0962&security=tls&alpn=http%2F1.1&fp=chrome&sni=nimm.mpd.cc.cd#[TR] [OpenRay] %F0%9F%8C%90XX-2960
+trojan://humanity@91.245.225.79:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%ADCH-16
+trojan://UX82473651@13.230.139.12:443?sni=brief-glider.rooster465.autos&allowInsecure=0#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-298
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%B2%F0%9F%87%BDMX-43
+trojan://UX82473651@meet-goshawk.rooster465.autos:443?sni=meet-goshawk.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%8C%90XX-2982
+trojan://humanity@141.193.213.172:443?path=%2Fassignment%3Fed%23Telegram---v2ray_configs_pools&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-5209
+trojan://trj-qWC4DKUemeUYWSKA1xx7okumSKKw0QSX@38.181.42.136:9443?security=tls&type=tcp&sni=www.jqyverse.com#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-5210
+trojan://UX82473651@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&allowInsecure=0&type=tcp#[TR] [OpenRay] %F0%9F%8C%90XX-2999
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.&fp=safari#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-65
+trojan://humanity@219.76.13.177:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%AD%F0%9F%87%B0HK-204
+trojan://UX82473651@52.221.218.179:443?sni=real-cardinal.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-253
+trojan://humanity@188.226.185.55:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%B3%F0%9F%87%B1NL-432
+trojan://UX82473651@18.141.136.8:443?type=tcp&security=tls&sni=musical-mouse.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-254
+trojan://humanity@31.57.190.71:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%A6%F0%9F%87%AAAE-100
+trojan://humanity@185.230.44.62:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%A6UA-27
+trojan://humanity@144.31.205.106:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-5294
+trojan://UX82473651@alert-titmouse.rooster465.autos:443?type=tcp&security=tls&sni=alert-titmouse.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-3054
+trojan://humanity@193.23.202.65:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-143
+trojan://UX82473651@3.34.131.153:443?sni=pretty-rat.rooster465.autos&fp=chrome&type=tcp&path=/#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-144
+trojan://humanity@188.42.145.180:443?type=ws&security=tls&path=%2Fassignment&sni=wWw.Volumeroot.cOm.&alpn=http%2F1.1&fp=qq#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-68
+trojan://9e1006cd4fa01b63e710d6550c0de1a1@172.67.248.85:443?path=%2Fu%2Ffb66dcb77cc6%3Fed%3D2560&security=tls&insecure=0&host=edge-relay-af904f2b.nova-963a1b9c8400.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=edge-relay-af904f2b.nova-963a1b9c8400.workers.dev#[TR] [OpenRay] %F0%9F%8C%90XX-3079
+trojan://Trojan%4082164024@gb.tronsg.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gb.tronsg.com#[TR] [OpenRay] %F0%9F%8C%90XX-3085
+trojan://UX82473651@43.207.89.91:443?sni=organic-caribou.rooster465.autos&fp=chrome&type=tcp&path=/#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-309
+trojan://UX82473651@glorious-glider.rooster465.autos:443?type=tcp&security=tls&sni=glorious-glider.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-3098
+trojan://humanity@157.173.97.132:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-299
+trojan://UX82473651@3.75.93.113:443?sni=meet-goshawk.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-300
+trojan://humanity@188.114.97.5:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%8C%90XX-3108
+trojan://UX82473651@3.75.93.113:443?sni=meet-goshawk.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-302
+trojan://UX82473651@13.212.35.242:443?type=tcp&security=tls&sni=ace-liger.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-260
+trojan://UX82473651@cunning-grub.rooster465.autos:443?sni=cunning-grub.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-3118
+trojan://UX82473651@prime-corgi.rooster465.autos:443?sni=prime-corgi.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-3122
+trojan://UX82473651@34.220.15.24:443?type=tcp&security=tls&sni=guided-ferret.rooster465.autos#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-5424
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=android&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-69
+trojan://UX82473651@winning-marten.rooster465.autos:443?sni=winning-marten.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%8C%90XX-3130
+trojan://e309e031-991e-4656-9934-44d10deb8fd8@188.114.98.0:443?host=nimm.mpd.cc.cd&path=%2F0962&security=tls&sni=nimm.mpd.cc.cd&type=ws#[TR] [OpenRay] %F0%9F%8C%90XX-3132
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.&fp=firefox#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BALU-70
+trojan://UX82473651@54.250.237.143:443?sni=accurate-frog.rooster465.autos&allowInsecure=0#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-313
+trojan://A4u%5Ep(_UR*F6@www.speedtest.net:443?encryption=none&security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&alpn=http%2F1.1&fp=chrome&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#[TR] [OpenRay] %F0%9F%8C%90XX-3165
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-3166
+trojan://UX82473651@3.120.109.26:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=actual-squid.rooster465.autos#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-307
+trojan://humanity@172.86.93.55:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-308
+trojan://UX82473651@3.35.207.188:443?security=tls&sni=main-fawn.rooster465.autos&type=tcp&headerType=none&path=%2F#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-149
+trojan://UX82473651@amazed-mako.rooster465.autos:443?sni=amazed-mako.rooster465.autos&peer=amazed-mako.rooster465.autos&security=tls#[TR] [OpenRay] %F0%9F%8C%90XX-3199
+trojan://UX82473651@3.34.192.47:443?type=tcp&security=tls&sni=central-jawfish.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-150
+trojan://UX82473651@43.206.225.188:443?type=tcp&security=tls&sni=warm-krill.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-317
+trojan://humanity@141.193.213.172:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-5544
+trojan://humanity@107.189.26.160:443?allowInsecure=0&insecure=0&type=ws&security=tls&path=%2Fassignment&host=www.pleadcourt.org&sni=www.pleadcourt.org&fp=chrome&alpn=http/1.1#[TR] [OpenRay] %F0%9F%87%B3%F0%9F%87%B1NL-465
+trojan://humanity@185.22.172.249:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] [OpenRay] %F0%9F%87%B1%F0%9F%87%BBLV-45
+trojan://UX82473651@rested-seahorse.rooster465.autos:443?security=tls&sni=rested-seahorse.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-3224
+trojan://humanity@144.31.182.130:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-5611
+trojan://humanity@143.246.136.99:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-5617
+trojan://UX82473651@musical-mouse.rooster465.autos:443?sni=musical-mouse.rooster465.autos&type=tcp#[TR] [OpenRay] %F0%9F%8C%90XX-3237
+trojan://e309e031-991e-4656-9934-44d10deb8fd8@104.26.14.137:2053?type=ws&security=tls&path=/0962&host=nimm.mpd.cc.cd.&sni=nimm.mpd.cc.cd.&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#[TR] [OpenRay] %F0%9F%8C%90XX-3248
+trojan://UX82473651@54.65.177.190:443?sni=winning-marten.rooster465.autos&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-322
+trojan://humanity@155.103.71.142:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&alpn=http%2F1.1&allowInsecure=0#[TR] [OpenRay] %F0%9F%8C%90XX-3260
+trojan://UX82473651@34.242.77.118:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos#[TR] [OpenRay] %F0%9F%87%AE%F0%9F%87%AAIE-69
+trojan://UX82473651@allowed-poodle.rooster465.autos:443?sni=allowed-poodle.rooster465.autos&type=raw&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-3267
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%A6CA-369
+trojan://UX82473651@13.231.247.130:443?sni=concrete-aardvark.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-323
+trojan://UX82473651@allowed-poodle.rooster465.autos:443?sni=allowed-poodle.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#[TR] [OpenRay] %F0%9F%8C%90XX-3277
+trojan://humanity@104.19.229.21:443?host=www.calmlunch.com&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#[TR] [OpenRay] %F0%9F%87%A8%F0%9F%87%A6CA-371
+trojan://UX82473651@52.221.218.179:443?sni=real-cardinal.rooster465.autos&fp=chrome&type=tcp&path=/#[TR] [OpenRay] %F0%9F%87%B8%F0%9F%87%ACSG-272
+trojan://humanity@64.227.115.28:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-315
+trojan://humanity@31.57.190.34:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%A6%F0%9F%87%AAAE-109
+trojan://UX82473651@52.194.251.232:443?type=tcp&security=tls&sni=optimal-penguin.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-326
+trojan://humanity@213.1.145.50:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#[TR] [OpenRay] %F0%9F%87%AC%F0%9F%87%A7GB-504
+trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos#[TR] [OpenRay] %F0%9F%8C%90XX-3293
+trojan://humanity@45.38.3.25:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-5719
+trojan://UX82473651@pet-antelope.rooster465.autos:443?sni=pet-antelope.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TR] [OpenRay] %F0%9F%8C%90XX-3300
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] [OpenRay] %F0%9F%8C%90XX-3311
+trojan://UX82473651@52.78.203.191:443?security=tls&sni=delicate-buck.rooster465.autos&path=%2f#[TR] [OpenRay] %F0%9F%87%B0%F0%9F%87%B7KR-154
+trojan://UX82473651@18.183.167.216:443?type=tcp&security=tls&sni=amazed-mako.rooster465.autos&fp=chrome#[TR] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-331
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@201.10.90.81:443?security=tls&sni=HL-FREEDOM-2.UNDEF.NETWORK&type=ws&path=%2Ff2fc2a1f&host=hl-freedom-2.undef.network#[TR] [OpenRay] %F0%9F%87%A7%F0%9F%87%B7BR-132
+trojan://humanity@157.230.127.28:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm#[TR] [OpenRay] %F0%9F%87%A9%F0%9F%87%AADE-321
+trojan://3ig0ulsvoo9t4f6s@194.110.24.28:8080?path=/sksshkssosshsbzhzka&security=tls&alpn=h2,http/1.1&insecure=0&host=194.110.24.28&fp=chrome&ech=AGD+DQBcAAAgACDE8nxEtBIFPqpAyYmA5okPIiN+hSyLr2IYwtwFnto5aQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAA0xOTQuMTEwLjI0LjI4AAA=&type=ws&allowInsecure=0&sni=194.110.24.28#[TR] EPODONIOS
+trojan://humanity@104.16.72.41:443?security=tls&sni=www.calmlunch.com#[TR] EPODONIOS
+trojan://humanity@108.162.194.134:443?security=tls&sni=www.pleadcourt.org#[TR] EPODONIOS
+trojan://humanity@146.185.174.59:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] EPODONIOS
+trojan://humanity@157.230.127.28:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] EPODONIOS
+trojan://humanity@164.92.223.252:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] EPODONIOS
+trojan://humanity@172.64.72.171:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment%2#[TR] EPODONIOS
+trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&path=/assignment#[TR] EPODONIOS
+trojan://humanity@178.128.45.156:443?cs=semi-python&path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] EPODONIOS
+trojan://humanity@185.14.186.43:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] EPODONIOS
+trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] EPODONIOS
+trojan://humanity@188.114.97.6:443?security=tls&sni=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&host=www.calmlunch.com&path=/assignment#[TR] EPODONIOS
+trojan://humanity@188.166.42.149:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] EPODONIOS
+trojan://humanity@188.226.185.55:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] EPODONIOS
+trojan://humanity@188.42.145.180:443?alpn=http/1.1&fp=chrome&host=www.volumerOot.coM.&path=/assignment&sni=wWw.Volumeroot.cOm.&type=ws#[TR] EPODONIOS
+trojan://humanity@188.42.145.180:443?host=www.volumerOot.coM.&path=/assignment&sni=wWw.Volumeroot.cOm.&type=ws#[TR] EPODONIOS
+trojan://humanity@31.57.190.34:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] EPODONIOS
+trojan://humanity@31.57.190.40:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] EPODONIOS
+trojan://humanity@46.101.110.34:443?cs=semi-python&path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] EPODONIOS
+trojan://humanity@57.128.179.254:443?cs=semi-python&path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] EPODONIOS
+trojan://humanity@91.197.3.7:443?cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] EPODONIOS
+trojan://humanity@94.237.18.53:443?cs=semi-python&path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] EPODONIOS
+trojan://humanity@95.85.54.197:443?cs=semi-python&path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] EPODONIOS
+trojan://mitivpn@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@@MetiVIP/---@@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=google.com#[TR] EPODONIOS
+trojan://mitivpn@167.82.64.46:443?alpn=http/1.1&fp=chrome&host=mitivpn-s1.global.ssl.fastly.net&path=/+bored_vpn&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&sni=play.google.com&type=ws#[TR] EPODONIOS
+trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@@MetiVIP/---@@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=play.google.com#[TR] EPODONIOS
+trojan://mitivpn@167.82.64.46:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=mitivpn--s2.global.ssl.fastly.net&sni=firefox.com&alpn=http/1.1&fp=chrome&pinSHA256=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e#[TR] EPODONIOS
+trojan://mitivpn@167.82.76.7:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] EPODONIOS
+trojan://mitivpn@199.232.78.101:443?path=@mehrosabiran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] EPODONIOS
+trojan://mitivpn@199.232.78.160:443?alpn=http/1.1&fp=chrome&host=mitivpn-s1.global.ssl.fastly.net&path=/+mehrosaboran&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&sni=www.google.com&type=ws#[TR] EPODONIOS
+trojan://mitivpn@199.232.78.160:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] EPODONIOS
+trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@@MetiVIP/---@@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-s1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#[TR] EPODONIOS
+trojan://mitivpn@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] EPODONIOS
+trojan://mitivpn@199.232.78.160:443?security=tls&sni=google.com&fp=chrome&alpn=http/1.1&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&type=ws&host=mitivpn--s2.global.ssl.fastly.net&path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@@MetiVIP/---@@MetiVIP---@MetiVIP#[TR] EPODONIOS
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@80.78.132.177:28443?security=tls&sni=glc.hruqoaw.cn#[TR] EPODONIOS
+trojan://2f95d996-e911-4b1b-82b1-1d86bf2c517d@standard.efcloud.cc:45001?security=tls&sni=ssl.efcloud.cc#[TR] EPODONIOS
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls&sni=glc.hruqoaw.cn#[TR] EPODONIOS
+trojan://mitivpn@199.232.78.160:443?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @Capoit
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] Aggregated
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@94.237.18.53:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG (39)
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=firefox&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=android&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] Aggregated
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=safari&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=safari&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] Aggregated
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=edge&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=qq&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=qq&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] Aggregated
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=edge&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=firefox&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] Aggregated
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@46.62.204.134:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%AB%F0%9F%87%AE
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=firefox&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&fp=android&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=android&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] Aggregated
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=safari&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=android&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=ios&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] Aggregated
+trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%A6%F0%9F%87%B9
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=edge&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] Channel id: @ConfigV2RayNG (76)
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] Aggregated
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B2%F0%9F%87%BD
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B2%F0%9F%87%BD
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG (94)
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] Aggregated
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B2%F0%9F%87%BD
+trojan://humanity@219.76.13.177:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] Channel id: @ConfigV2RayNG (104)
+trojan://humanity@219.76.13.177:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] Aggregated
+trojan://humanity@219.76.13.177:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] Aggregated
+trojan://humanity@219.76.13.177:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] Channel id: @ConfigV2RayNG (173)
+trojan://humanity@219.76.13.177:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG (62)
+trojan://humanity@219.76.13.177:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG (95)
+trojan://humanity@219.76.13.177:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Channel id: @ConfigV2RayNG (130)
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] Aggregated
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] Aggregated
+trojan://UX82473651@3.1.252.137:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=brave-tomcat.rooster465.autos#[TR] Channel id: @ConfigV2RayNG %F0%9F%87%B8%F0%9F%87%AC
+trojan://pkj3BBnG2NE4wD-72SwgzNcfaHSes-dr@194.93.61.120:443?security=reality&pbk=yAJlHrab9FWfz9f6Ya4xsBaBjnPytEQFqpVgs1aPHB0&headerType=none&fp=edge&type=tcp&sni=16.img.avito.st&sid=43dcff53849b81e6#[TR] @Shh_Proxy-New%C2%B2
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@pl.zhabulik.ru:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=pl.zhabulik.ru#[TR] @Shh_Proxy-New%C2%B3
+trojan://Trojan@82164024@jp.tronsg.com:443/?type=tcp&security=tls&sni=jp.tronsg.com#[TR] %E6%97%A5%E6%9C%AC
+trojan://humanity@185.14.186.43:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] %F0%9D%90%82%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5: @Academi_vpn
+trojan://humanity@31.57.190.40:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] %F0%9D%90%82%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5: @Academi_vpn
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@152.53.80.195:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=abr2.freeguard.org#[TR] Ashburn-2
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@104.160.44.203:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=la14.freeguard.org#[TR] Los Angeles-14
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@23.106.44.14:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=sj6.freeguard.org#[TR] San Jose-6
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@158.247.222.240:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kr.freeguard.org#[TR] Seoul
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&head…#[TR] Aggregated
+trojan://humanity@104.21.37.56:443?security=tls&sni=www.volumeroot.com&alpn=h3, h2, http/1.1&fp=ios&type=ws&host=www.volumeroot.com&path=/assignment#[TR] Aggregated
+trojan://ea4y8s7qdshp547j@195.15.202.111:4455?security=reality&sni=play-apps-features.googleusercontent.com&fp=firefox&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&sid=9b6b4ff59dce3d&spx=/3b2238cdad49967&type=tcp&headerType=none#[TR] Aggregated
+trojan://humanity@www.speedtest.net:443?security=tls&sni=www.creationlong.org&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#[TR] @CAA_V2ray
+trojan://uRkZYGid1r@179.237.75.190:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=firefox&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#[TR] @EVAY_VPN 2
+trojan://uRkZYGid1r@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=firefox&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#[TR] @EVAY_VPN 3
+trojan://MiTiVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] %F0%9D%90%82%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5: @EXPRESSVPN_420
+trojan://MiTiVPN@151.101.56.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] Aggregated
+trojan://MiTiVPN@167.82.76.27:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-3.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] Aggregated
+trojan://MiTiVPN@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-4.global.ssl.fastly.net&fp=firefox&type=ws&sni=ssl.fastly.com#[TR] Aggregated
+trojan://MiTiVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] %F0%9F%94%B0@Fast_2ray %F0%9F%91%88%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+trojan://MiTiVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&sni=ssl.fastly.com#[TR] %F0%9F%94%B0@Fast_2ray %F0%9F%91%88%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+trojan://MiTiVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---nl--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] %F0%9F%94%B0@Fast_2ray %F0%9F%91%88%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+trojan://MiTiVPN@151.101.56.9:443?security=tls&alpn=http/1.1&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] %F0%9F%94%B0@Fast_2ray %F0%9F%91%88%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+trojan://MiTiVPN@199.232.78.188:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/NLSus---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] %F0%9F%94%B0@Fast_2ray %F0%9F%91%88%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+trojan://SoftNetConnect@194.5.192.89:2087?mode=gun&security=reality&authority=45.151.102.87&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=160b91b3#[TR] %DA%A9%D8%A7%D9%86%D8%A7%D9%84 %D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85 %F0%9F%94%A5 feri_v2ray_proxy
+trojan://SoftNetConnect@45.151.102.87:8443?security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=ca14e14437#[TR] %DA%A9%D8%A7%D9%86%D8%A7%D9%84 %D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85 %F0%9F%94%A5 feri_v2ray_proxy
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#[TR] Japan Klayer LLC
+trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%2Fripaojiedian#[TR] Hong Kong Netvigator
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#[TR] Japan NTT Pc
+trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#[TR] United State Nato
+trojan://humanity@2.144.15.223:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[TR] %F0%9F%87%AB%F0%9F%87%B7 France Paris %7C %E2%8F%B1851ms %7C %E2%9A%A1824KB/s %7C @NamazVPN
+trojan://humanity@208.103.161.101:443?path=/assignment&security=tls&alpn=h2,http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#[TR] @vpnbaz %F0%9F%8D%AD
+trojan://humanity@185.231.112.217:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[TR] %F0%9F%87%AB%F0%9F%87%B7 France Paris %7C %E2%8F%B17154ms %7C %E2%9A%A1127KB/s %7C @NamazVPN
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.directorypipeline.click#[TR] [67943] - Telegram : @V2All
+trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&insecure=0&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&type=tcp&allowInsecure=0&sni=www.directorypipeline.click#[TR] @v2rayNplus %7C%F0%9F%87%A9%F0%9F%87%AA
+trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[TR] @Filtershekan_channel %7C5
+trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=172.237.145.189#[TR] @SHOP_GAMING1011
+trojan://ziIjOlyGbM@91.107.141.0:23825?type=tcp&path=/&headerType=http&security=none#[TR] @anti_ping
+trojan://mitivpn@199.232.78.101:443?path=/---#[TR] Aggregated
+trojan://UX82473651@concrete-aardvark.rooster465.autos:443?security=tls&sni=concrete-aardvark.rooster465.autos#[TR] EPODONIOS
+trojan://humanity@78.47.146.151:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] Aggregated
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=edge&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] Aggregated
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] Aggregated
+trojan://SoftNetConnect@185.204.169.164:2087?mode=gun&security=reality&pbk=rR5VQnDatIXiWpvI3BtfUypXGWwXAXVEjyiB0aBgK1I&fp=chrome&spx=/&type=grpc&sni=www.yahoo.com&sid=160b91b3#[TR] @Golestan_VPN - %F0%9F%95%8A%EF%B8%8F%F0%9F%95%8A%EF%B8%8F
+trojan://SoftNetConnect@185.204.169.164:8443?security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=ca14e14437#[TR] @Golestan_VPN - %F0%9F%95%8A%EF%B8%8F%F0%9F%95%8A%EF%B8%8F
+trojan://humanity@104.21.37.56:443?path=/assignment&security=tls&alpn=h3, h2, http/1.1&insecure=0&host=www.volumeroot.com&fp=ios&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @ICV2RAY
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&insecure=0&host=www.volumeroot.com&fp=android&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @ICV2RAY
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls&headerType=none&type=tcp#[TR] @igrsdet %F0%9F%8D%B7
+trojan://MiTiVPN@151.101.122.172:80?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/fl---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=none&host=s1-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&type=ws#[TR] %F0%9F%A4%A1 @igrsdet
+trojan://MItIVPN@199.232.78.101:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] %DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF %D9%87%D8%A7%DB%8C %D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86 %7C @igrsdet %F0%9F%92%8B
+trojan://telegram-id-directvpn@15.224.0.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-privatevpns@15.224.0.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-directvpn@18.199.182.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-privatevpns@18.199.182.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-privatevpns@51.44.127.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-directvpn@51.44.127.193:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-privatevpns@63.183.59.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-directvpn@63.183.59.137:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-directvpn@52.47.80.167:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-privatevpns@52.47.80.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-privatevpns@18.158.157.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-directvpn@18.158.157.203:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-directvpn@13.37.130.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-privatevpns@13.37.130.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-directvpn@13.37.173.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-privatevpns@13.37.173.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-directvpn@15.188.43.202:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://telegram-id-privatevpns@15.188.43.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[TR] Aggregated
+trojan://FH72359861@63.176.171.181:443?security=tls&headerType=none&type=tcp&sni=engaging-toucan.rooster465.autos#[TR] Free+333+@filterking1
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:38261?security=tls&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com#[TR] Free+x86+@filterking1
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[TR] @m_vipv2ray
+trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-us.05vr9nyqg5.download:13020?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#[TR] %E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9@mftizi
+trojan://dc15d997-8b26-4294-870e-c90a5784dca4@naiu-jp.05vr9nyqg5.download:13011?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#[TR] %E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9@mftizi
+trojan://5af7fa3a-ad9c-4346-ba7f-184e89c91758@lm.kaiqsz.com:51075?security=tls&sni=mmbiz10.redapricotcloud.com&type=tcp&headerType=none#[TR] %E5%85%8D%E8%B4%B9%E6%A2%AF%E5%AD%90https://t.me/mftizi
+trojan://65f14831-5c67-483f-9e85-f3aa73f21187@naiu-us.05vr9nyqg5.download:13019?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none#[TR] %E5%85%B3%E6%B3%A8%E9%A2%91%E9%81%93https://t.me/mftizi
+trojan://905fcd78-866c-81e1-3cb8-1beb59d661ab@3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com:27231?security=tls&sni=3050cfd7-sx6ps0-sydxa9-fa3p.cm5.cnkuaishou.com&type=tcp&headerType=none#[TR] %E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%E8%8A%82%E7%82%B9@mftizi
+trojan://1469e09e-027c-11ec-a0fc-f23c913c8d2b@204bdce4-sxaf40-t5bgb3-l4nv.cm5.cnkuaishou.com:27231?security=tls&sni=204bdce4-sxaf40-t5bgb3-l4nv.cm5.cnkuaishou.com&type=tcp&headerType=none#[TR] %E4%B8%8D%E5%AE%9A%E6%9C%9F%E6%8A%BD%E5%A5%96https://t.me/mftizi
+trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@104.21.70.21:443?security=tls&sni=id1.nathaya.web.id#[TR] %F0%9F%8C%9F @MTproxy22_v2ray
+trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net#[TR] %F0%9F%8C%9F @MTproxy22_v2ray
+trojan://3ixF51QWmFNmKOO_utPxVL-7gYYUb6HC@b1.3danimation3.com:8443?security=tls&sni=b1.3danimation3.com#[TR] %F0%9F%8C%9F @MTproxy22_v2ray
+trojan://UX82473651@pleased-albacore.rooster465.autos:443?security=tls&sni=pleased-albacore.rooster465.autos#[TR] %F0%9F%8C%9F @MTproxy22_v2ray
+trojan://humanity@193.23.202.65:443?security=tls#[TR] %F0%9F%8C%9F @MTproxy22_v2ray
+trojan://humanity@45.87.41.18:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#[TR] %F0%9F%8C%9F @MTproxy22_v2ray
+trojan://humanity@148.253.212.42:443?security=tls#[TR] %F0%9F%8C%9F @MTproxy22_v2ray
+trojan://humanity@162.159.91.211:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#[TR] %F0%9F%8C%9F @MTproxy22_v2ray
+trojan://humanity@144.31.205.106:443?security=tls&sni=www.volumeroot.com&type=ws&path=/assignment&Host=www.volumeroot.com#[TR] %F0%9F%8C%9F @MTproxy22_v2ray
+trojan://UX82473651@cuddly-sheepdog.rooster465.autos:443?security=tls&sni=cuddly-sheepdog.rooster465.autos#[TR] %F0%9F%8C%9F @MTproxy22_v2ray
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443?security=tls&sni=pl1.trojanvh.xyz#[TR] %F0%9F%8C%9F @MTproxy22_v2ray
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?security=tls&sni=pl1.trojanvh.xyz#[TR] %F0%9F%8C%9F @MTproxy22_v2ray
+trojan://8697fe6b-1lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272@185.44.76.188:443?security=tls#[TR] %F0%9F%8C%9F @MTproxy22_v2ray
+trojan://humanity@92.42.99.143:443?security=tls#[TR] %F0%9F%8C%9F @MTproxy22_v2ray
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?security=tls&sni=mfyousheng.nl.eu.org#[TR] %F0%9F%8C%9F @MTproxy22_v2ray
+trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[TR] @NEW_MTProxi
+trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#[TR] @NEW_MTProxi
+trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#[TR] @NEW_MTProxi
+trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] @NEW_MTProxi
+trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&typ…#[TR] Aggregated
+trojan://humanity@188.42.145.180:443?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=edge&host=www.volumeroot.com&path=/assignment&sni=www.volumeroot.com&type=ws#[TR] %F0%9F%8D%8243@oneclickvpnkeys
+trojan://udVtVlKVmGmjEaVS@172.67.208.205:443?security=tls&type=ws&host=api-2c3732-85768b.nomavagiba.workers.dev&path=/tr/6HRRhuHej2pGKBeAccdqelsI5iQ?ed=2560&sni=api-2c3732-85768B.noMAVAgIba.worKeRs.dEV&fp=chrome&alpn=http/1.1#[TR] Aggregated
+trojan://dQDQCtns4R@162.159.138.232:443?security=tls&sni=fadaei.movieland.top&type=ws&path=static34528&host=fadaei.movieland.top#[TR] Suren TM
+trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @prrofile_purple %7C %F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7 %F0%9F%92%9A
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#[TR] @prrofile_purple %7C %F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7 %F0%9F%92%9A
+trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#[TR] @RayanConf
+trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=/685uFbiRrgAsHzTP8d&security=tls&alpn=http/1.1&host=90.taipei108.dpdns.org&fp=chrome&type=ws&sni=90.tAIpEI108.dpDnS.orG#[TR] @RayanConf
+trojan://dQUWbcwECl@20.191.138.47:443?security=tls&headerType=none&type=tcp&sni=automq4-proxy.automq-sg.com#[TR] @Venom_Servers %F0%9F%94%BA%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF %D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%94%BA
+trojan://28bdfb42-f7ae-4a1f-9c85-dbc7f6b6cc95@45.146.232.170:46926?security=tls&headerType=none&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#[TR] @Venom_Servers %F0%9F%94%BA%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF %D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%94%BA
+trojan://dTjHHw2kDE@23.94.122.66:38505?security=tls&headerType=none&type=tcp#[TR] %F0%9F%94%B0CH+:+@cisco_plus%F0%9F%87%BA%F0%9F%87%B2
+trojan://78f9bf50-bce8-11ee-8913-1239d0255272@de1.test3.net:443/chatbuzzteambhm.chatbuzzt7150.workers.dev?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#[TR] @chatbuzzteam
+trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443/chatbuzzteambhm.chatbuzzt7150.workers.dev?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#[TR] @chatbuzz_serverbot
+trojan://Mitivpn@45.130.125.76:2053?path=/?ed=2048&security=tls&alpn=http/1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#[TR] TelmaVPN
+trojan://mitivpn@216.24.57.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&host=www.app-cloud.ir&fp=chrome&type=ws&sni=www.app-cloud.ir#[TR] TelmaVPN
+trojan://Mitivpn@216.24.57.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&host=www.hitgram.ir&fp=chrome&type=ws&sni=www.hitgram.ir#[TR] TelmaVPN
+trojan://Mitivpn@216.24.57.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&host=cdn.hitgram.ir&fp=chrome&type=ws&sni=cdn.hitgram.ir#[TR] TelmaVPN
+trojan://Mitivpn@216.24.57.6:443?path=/?ed=2048&security=tls&alpn=http/1.1&host=dash.hitgram.ir&fp=chrome&type=ws&sni=dash.hitgram.ir#[TR] TelmaVPN
+trojan://TheVPNMethod@5.10.214.56:443?path=/the&security=tls&fp=firefox&type=ws&sni=yo.motorcbr.store#[TR] TelmaVPN
+trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=404.mitii33.workers.dev&fp=edge&type=ws&sni=404.mitii33.workers.dev#[TR] @TelmaVPN
+trojan://mitivpn@104.16.75.127:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=www.linkman1.ir&fp=chrome&type=ws&sni=www.linkman1.ir#[TR] TelmaVPN
+trojan://mitivpn@104.16.75.127:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=cdn.linkman1.ir&fp=chrome&type=ws&sni=cdn.linkman1.ir#[TR] TelmaVPN
+trojan://mitivpn@45.130.125.76:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=www.linkman1.ir&fp=chrome&type=ws&sni=www.linkman1.ir#[TR] TelmaVPN
+trojan://mitivpn@45.130.125.76:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=cdn.linkman1.ir&fp=chrome&type=ws&sni=cdn.linkman1.ir#[TR] TelmaVPN
+trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=dash.linkman1.ir&fp=chrome&type=ws&sni=dash.linkman1.ir#[TR] TelmaVPN
+trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=dash.linko1.ir&fp=chrome&type=ws&sni=dash.linko1.ir#[TR] TelmaVPN
+trojan://mitivpn@199.232.78.160:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=global.fastly.com#[TR] TelmaVPN
+trojan://mitivpn@8.6.112.224:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=ssl.sv5.mitivpn.online#[TR] TelmaVPN
+trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&fp=chrome&type=ws&sni=sadszdx.global.ssl.fastly.net.mitivpn.store#[TR] TelmaVPN
+trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?sni=bangladeshipatri.com&host=bangladeshipatri.com&security=tls&type=ws&path=6b777a91#[TR] @ToYoTA_PRoXY-Fragment
+trojan://fg20mtCFHy@ustcx.southbyte.xyz:5761/?type=tcp&security=tls#[TR] %F0%9F%93%9F74@oneclickvpnkeys
+trojan://BxceQaOe@38.180.191.251:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#[TR] %F0%9F%93%9F76@oneclickvpnkeys
+trojan://aWgKDJmn2q.hv=51@139.180.143.191:10293/?type=tcp&security=tls&sni=zmbvgixwdqusy.advudjng.click#[TR] %F0%9F%93%9F72@oneclickvpnkeys
+trojan://telegram-id-directvpn@18.198.122.60:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1#[TR] %F0%9F%93%9F4@oneclickvpnkeys
+trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127/?type=tcp&security=tls&sni=www.nintendogames.net#[TR] %F0%9F%8E%A185@oneclickvpnkeys
+trojan://BxceQaOe@116.49.237.130:2673/?type=tcp&security=tls&sni=t.me/ripaojiedian#[TR] %F0%9F%8E%A163@oneclickvpnkeys
+trojan://telegram-id-directvpn@63.179.9.91:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1#[TR] %F0%9F%8E%A148@oneclickvpnkeys
+trojan://SoftNetConnect@78.47.94.248:2053?mode=gun&security=reality&authority=78.47.94.248&pbk=hWYW0-N…#[TR] Aggregated
+trojan://SoftNetConnect@178.104.213.121:443?security=reality&pbk=bVGtj0cRMfC-VapbrAa97IjYqjMoxODMOqsN0eGBDmI&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=e0c7dbaa7dc2#[TR] %F0%9D%90%8D%F0%9D%90%84%F0%9D%90%96 %F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%85%F0%9D%90%88%F0%9D%90%86 %E2%9E%AA%F0%9D%95%8B%F0%9D%94%BC%F0%9D%95%83 %3E @U_CONFINGVPN
+trojan://b1952da9-8a2a-4e2e-a79c-61914f9e6a9f@37.46.18.128:41050?security=reality&pbk=imFeKLbcdRQYFJZT6aPrQNoi_qGtUfPqptwAp7AyZBg&headerType=none&fp=edge&spx=/&type=tcp&sni=www.oracle.com&sid=f56959ba4318b2e9#[TR] %F0%9D%90%8D%F0%9D%90%84%F0%9D%90%96 %F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%85%F0%9D%90%88%F0%9D%90%86 %E2%9E%AA%F0%9D%95%8B%F0%9D%94%BC%F0%9D%95%83 %3E @U_CONFINGVPN
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?path=6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#[TR] @V2HAMID
+trojan://Watashi_VPN@104.17.147.22:443?path=/&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#[TR] %25
+trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&fp=firefox&spx=/824fc1bd087b613&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#[TR] @v2ray313 %DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86 %F0%9F%98%AF
+trojan://mitivpn@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @v2ray313 %DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86 %F0%9F%91%BB
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?security=tls&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=ger1.fytpn.com#[TR] @v2ray313 %DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86 %F0%9F%99%80
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@pol2.fytpn.com:2097?security=tls&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=pol2.fytpn.com#[TR] @v2ray313 %DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86 %F0%9F%98%84
+trojan://ea4y8s7qdshp547j@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&fp=firefox&spx=/3b2238cdad49967&type=tcp&sni=play-apps-features.googleusercontent.com&sid=9b6b4ff59dce3d#[TR] @v2ray313 %DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86 %E2%9D%A4%EF%B8%8F
+trojan://mitivpn@167.82.76.27:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] Aggregated
+trojan://mitivpn@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net&fp=firefox&type=ws&sni=ssl.fastly.com#[TR] Aggregated
+trojan://mitivpn@167.82.76.27:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#[TR] Aggregated
+trojan://mitivpn@199.232.78.101:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@@MetiVIP/---@@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&host=mitivpn---deb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] Aggregated
+trojan://mitivpn@167.82.76.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] Aggregated
+trojan://mitivpn@199.232.78.101:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&host=mitivpn---deb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] Aggregated
+trojan://mitivpn@199.232.78.160:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net&fp=firefox&type=ws&sni=ssl.fastly.com#[TR] Aggregated
+trojan://mitivpn@167.82.76.7:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] Aggregated
+trojan://mitivpn@167.82.76.27:443?path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/des---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] Aggregated
+trojan://mitivpn@199.232.78.160:443?path=/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/D-e1i@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN&security=tls&alpn=http/1.1&host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net&fp=firefox&type=ws&sni=ssl.fastly.com#[TR] Aggregated
+trojan://mitivpn@167.82.76.7:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#[TR] Aggregated
+trojan://95621b8e-5cf7-4123-9df4-38d903054a1b@193.233.216.27:443?mode=gun&security=reality&pbk=1HzJEMaYCrx2QQhuLLkcFiE5r2NegGHTBzHu0Sk1iWs&fp=chrome&spx=/&type=grpc&serviceName=62eec6c16880&sni=www.garmin.com&sid=4e34d88e858485db#[TR] Aggregated
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&host=www.volumerOot.coM.&fp=safari&type=ws&sni=wWw.Volumeroot.cOm.#[TR] @v2ray_phoenix
+trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&host=www.volumeroot.com&fp=edge&type=ws&sni=www.volumeroot.com#[TR] @v2ray_phoenix
+trojan://humanity@185.220.100.168:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=/assignment#[TR] %F0%9F%87%B3%F0%9F%87%B1 @V2Ray_Rolly
+trojan://telegram-id-directvpn@51.20.36.197:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#[TR] @V2RAY_STRING
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@93.152.223.201:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ger2.fytpn.com#[TR] @v2rayargon
+trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#[TR] @v2raying
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org#[TR] @v2raying
+trojan://mitivpn@146.75.57.238:443?path=/+mehrosaboran&security=tls&host=mitivpn-s1.global.ssl.fastly.net&type=ws&sni=google.com#[TR] @v2raying
+trojan://mitivpn@167.82.64.46:443?path=/+mehrosaboran&security=tls&host=mitivpn-s1.global.ssl.fastly.net&type=ws&sni=play.google.com#[TR] @v2raying
+trojan://7002R3Gxo1@45.130.125.2:443?type=ws&security=tls&path=/da&host=sa.farxmode.ir&sni=sa.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#[TR] @V2rayngSeven
+trojan://P6oS8vzFbu@45.130.125.2:443?type=ws&security=tls&path=/db&host=sb.farxmode.ir&sni=sb.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#[TR] @V2rayngSeven
+trojan://MITIVpN@167.82.76.7:443?path=/&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] @v2rayland02%F0%9F%8D%8B
+trojan://MiTiVPN@199.232.78.188:443?path=/?TELEGRAM-TOOTFFARANGI&security=tls&alpn=http/1.1&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] @v2rayland02%F0%9F%8D%8B
+trojan://MiTiVPN@151.101.56.9:443?path=/&security=tls&alpn=http/1.1&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#[TR] @v2rayland02%F0%9F%8D%8B
+trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725/?type=tcp&security=tls#[TR] %E2%84%B9%EF%B8%8F31%25
+trojan://b69c24fe-b9be-4dcd-a833-3f6b211eea7c@152.228.242.161:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=s102.myv2r.ml#[TR] @v2rayng_vpnn+%D8%A7%D8%B1%D8%B3%D9%84%D8%A7%D9%86
+trojan://Mitivpn@151.101.110.219:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#[TR] %F0%9F%87%A9%F0%9F%87%AA@v2rayngvpn_1
+trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#[TR] %F0%9F%87%B3%F0%9F%87%B1@v2rayngvpn_1
+trojan://MiTiVPN@45.131.4.118:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#[TR] %F0%9F%87%A7%F0%9F%87%AC@v2rayngvpn_1
+trojan://Mitivpn@151.101.56.6:443?path=/fastly=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] %F0%9F%87%A9%F0%9F%87%AA@v2rayngvpn_1
+trojan://Mitivpn@151.101.110.219:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=global.fastly.com#[TR] %F0%9F%87%A9%F0%9F%87%AA @v2rayngvpn_1
+trojan://MITIVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22s.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @v2rayngvpn_1
+trojan://MITIVPN@167.82.76.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33s.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @v2rayngvpn_1
+trojan://Pooria@www.speedtest.net:443?path=/trJF1XisQEbWZpxEHh?ed=2560&security=tls&alpn=h2,http/1.1&host=redfree8w.pooriam.ir&fp=randomized&type=ws&sni=redfree8w.pooriam.ir#[TR] Aggregated
+trojan://Pooria@www.speedtest.net:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8w.pooriam.ir&type=ws#[TR] Aggregated
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&headerType=none&type=tcp&sni=172.235.63.252#[TR] %F0%9F%83%8F - 19
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?security=tls&headerType=none&fp=chrome&type=tcp#[TR] %F0%9F%83%8F - 20
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#[TR] %F0%9F%83%8F - 21
+trojan://bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E@172.235.63.252:443?type=tcp&security=tls&headerType=none&fp=chrome&allowInsecure=0#[TR] Aggregated
+trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&allowInsecure=0#[TR] Aggregated
+trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers/services/view/mitivpn/production/settings&security=tls&alpn=http/1.1&host=cdn.linkman1.ir&fp=chrome&type=ws&sni=cdn.linkman1.ir#[TR] V2RAZ
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[TR] @vpnbaz %F0%9F%8D%AC
+trojan://mitivpn@199.232.78.188:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @vpn11_v2
+trojan://mitivpn@167.82.76.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @vpn11_v2
+trojan://mitivpn@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---us--s---mitivpn-11.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @vpn11_v2
+trojan://mitivpn@199.232.78.101:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @vpn11_v2
+trojan://mitivpn@167.82.76.27:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---deb--s---mitivpn-3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @vpn11_v2
+trojan://mitivpn@167.82.76.7:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @vpn11_v2
+trojan://mitivpn@199.232.78.160:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1i@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @vpn11_v2
+trojan://mitivpn@167.82.76.7:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&insecure=0&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @vpn11_v2
+trojan://mitivpn@199.232.78.160:443?path=/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/des---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP/---@MetiVIP---@MetiVIP&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @vpn11_v2
+trojan://mitivpn@199.232.78.160:443?path=/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/D-e1i@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN/---@GHOFLSHCAN---@GHOFLSHCAN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---deb--s---mitivpn-2.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @vpn11_v2
+trojan://mitivpn@167.82.76.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSs---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---deb--s---mitivpn-4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @vpn11_v2
+trojan://mitivpn@199.232.78.101:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---deb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TR] @vpn11_v2
+trojan://FdmECD7RGw@179.237.75.28:61235?type=tcp&security=reality&headerType=http&host=yahoo.com&fp=firefox&sni=yahoo.com&pbk=oNsecxmNieB69yz09GhDj87Bcz4vgeokWlrZO1qJlmY&spx=/#[TR] @VPN_VIP_NOR
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#[TR] @proxy_kafee
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.72.205:491?sni=www.nintendogames.net#[TR] %F0%9F%9A%8096@proxy_kafee
+trojan://c1d83c0c7d57cead4379ba14a82df69b@203.198.122.20:443?sni=www.nintendogames.net#[TR] %F0%9F%9A%8097@proxy_kafee
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.105.192:1933?sni=www.nintendogames.net#[TR] %F0%9F%9A%8098@proxy_kafee
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.144.208:3076?sni=www.nintendogames.net#[TR] %F0%9F%9A%8099@proxy_kafee
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.72.205:5076?sni=www.nintendogames.net#[TR] %F0%9F%9A%8095@proxy_kafee
+trojan://humanity@188.114.97.7:443?sni=www.ignitelimit.com&security=tls&path=/assignment&insecure=0&allowInsecure=0&ech=ip.gs+udp://8.8.8.8&type=ws#[TR] Aggregated
+trojan://MiTIVPN@199.232.78.160:443?sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&allowInsecure=0&type=ws&security=tls&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net#[TR] Aggregated
+trojan://mitivpn@199.232.78.188:443?security=tls&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&insecure=0&fp=chrome&type=ws&sni=ssl.fastly.com&alpn=http/1.1&allowInsecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net#[TR] Aggregated
+trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@kr2.twincloud.xyz:443#[TR] Relay_%F0%9F%87%B0%F0%9F%87%B7KR-%F0%9F%87%B0%F0%9F%87%B7KR_89
+trojan://humanity@104.17.177.143:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#[TR] @vpnowl 1
+trojan://humanity@172.66.47.69:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[TR] @vpnowl 2
+trojan://humanity@104.19.64.105:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] @vpnowl 3
+trojan://humanity@104.26.6.159:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#[TR] @vpnowl 4
+trojan://humanity@104.19.2.175:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#[TR] @vpnowl 5
+trojan://humanity@162.159.253.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] @vpnowl 6
+trojan://humanity@104.19.208.184:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#[TR] @vpnowl 7
+trojan://ypDt8RkT7J@207.211.215.169:43118?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=tpmwf.phooeyunfold.com#[TR] %F0%9F%87%B9%F0%9F%87%B7+%D8%AA%D8%B1%DA%A9%DB%8C%D9%87+%F0%9F%95%8A%EF%B8%8FT.me/X4Azadi
+trojan://ypDt8RkT7J@212.102.54.11:43118?security=tls&alpn=http/1.1&headerType=none&fp=random&type=tcp&sni=tpmrq.phooeyunfold.com#[TR] %F0%9F%87%AE%F0%9F%87%B9+%D8%A7%DB%8C%D8%AA%D8%A7%D9%84%DB%8C%D8%A7+%F0%9F%95%8A%EF%B8%8F@Gozargah_Azadi
+trojan://ba74833c-8c0f-4dcd-8cbc-13e3c32d3765@185.236.233.111:2053?sni=ftp.debian.org#[TR] %F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6_3
+trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#[TR] %F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1_5
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&type=ws&sni=www.creationlong.org#[TR] Telegram:@zede_filteri
+trojan://humanity@92.42.99.143:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 501
+trojan://humanity@92.42.99.143:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 500
+trojan://humanity@92.42.99.143:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 499
+trojan://humanity@92.42.99.143:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 498
+trojan://humanity@92.42.99.143:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 496
+trojan://humanity@92.42.99.143:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 495
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 494
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 492
+trojan://humanity@46.8.228.165:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 490
+trojan://humanity@46.8.228.165:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 488
+trojan://humanity@46.8.228.165:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 486
+trojan://humanity@46.8.228.165:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 485
+trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 483
+trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 482
+trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 481
+trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 480
+trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 479
+trojan://humanity@46.62.204.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 478
+trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 476
+trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 475
+trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 474
+trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 473
+trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 472
+trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 471
+trojan://humanity@219.76.13.177:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 469
+trojan://humanity@219.76.13.177:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 468
+trojan://humanity@219.76.13.177:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 467
+trojan://humanity@219.76.13.177:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 465
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 462
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumerOot.coM.&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 461
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&fp=safari&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 460
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 452
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=firefox&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 451
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumerOot.coM.&fp=android&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 450
+trojan://humanity@188.42.145.180:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 449
+trojan://humanity@188.114.97.8:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 447
+trojan://humanity@188.114.97.8:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 446
+trojan://humanity@188.114.97.8:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 445
+trojan://humanity@188.114.97.8:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 444
+trojan://humanity@188.114.97.8:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 443
+trojan://humanity@188.114.97.8:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 442
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 441
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 440
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 438
+trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] @Vip_Security join us - 435
+trojan://humanity@188.114.97.5:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 434
+trojan://humanity@188.114.97.5:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 433
+trojan://humanity@188.114.97.5:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 432
+trojan://humanity@188.114.97.5:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 431
+trojan://humanity@188.114.97.5:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 430
+trojan://humanity@188.114.97.4:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 427
+trojan://humanity@188.114.97.4:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 426
+trojan://humanity@188.114.97.4:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 425
+trojan://humanity@188.114.97.3:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 423
+trojan://humanity@188.114.97.3:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 422
+trojan://humanity@188.114.97.3:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 421
+trojan://humanity@188.114.97.3:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 420
+trojan://humanity@188.114.97.3:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 419
+trojan://humanity@188.114.97.3:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 418
+trojan://humanity@188.114.97.2:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 416
+trojan://humanity@188.114.97.2:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 415
+trojan://humanity@188.114.97.2:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 414
+trojan://humanity@188.114.97.2:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 413
+trojan://humanity@188.114.97.2:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 412
+trojan://humanity@188.114.97.1:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 410
+trojan://humanity@188.114.97.1:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 409
+trojan://humanity@188.114.97.1:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 408
+trojan://humanity@188.114.97.1:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 407
+trojan://humanity@188.114.97.1:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 406
+trojan://humanity@185.22.172.249:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 405
+trojan://humanity@185.22.172.249:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 404
+trojan://humanity@185.22.172.249:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 403
+trojan://humanity@185.22.172.249:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 402
+trojan://humanity@185.22.172.249:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 400
+trojan://humanity@185.22.172.249:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 399
+trojan://humanity@144.31.205.106:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 397
+trojan://humanity@144.31.205.106:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 396
+trojan://humanity@144.31.205.106:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 395
+trojan://humanity@144.31.205.106:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 393
+trojan://humanity@144.31.205.106:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 392
+trojan://humanity@144.31.182.130:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 391
+trojan://humanity@144.31.182.130:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 390
+trojan://humanity@144.31.182.130:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 389
+trojan://humanity@144.31.182.130:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 388
+trojan://humanity@144.31.182.130:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 387
+trojan://humanity@144.31.182.130:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 386
+trojan://humanity@144.31.182.130:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TR] @Vip_Security join us - 385
+trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 383
+trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#[TR] @Vip_Security join us - 382
+trojan://humanity@131.196.254.151:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#[TR] @Vip_Security join us - 381
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TR] @Vip_Security join us - 377
+trojan://UX82473651@63.178.198.94:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=pleased-albacore.rooster465.autos#[TR] @Vip_Security join us - 375
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?sni=russiapower.accesscam.org#[TR] %F0%9F%87%AA%F0%9F%87%AA[www.v2nodes.com] trojan-EE-...
+trojan://humanity@165.215.250.14:443?#[TR] %F0%9F%87%AB%F0%9F%87%B7[www.v2nodes.com] trojan-FR-... %238
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos#[TR] %F0%9F%87%AE%F0%9F%87%AA[www.v2nodes.com] trojan-IE-...
+trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos#[TR] %F0%9F%87%AE%F0%9F%87%AA[www.v2nodes.com] trojan-IE-... %232
+trojan://Tg3RnK7Xp8B1@64.176.96.237:443?sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#[TR] %F0%9F%87%AE%F0%9F%87%B3[www.v2nodes.com] trojan-IN-...
