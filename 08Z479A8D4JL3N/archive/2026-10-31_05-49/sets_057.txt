@@ -1,0 +1,800 @@
+trojan://i99Cef@211.20.156.191:28138?sni=ctldl.windowsupdate.com&type=tcp#[TRJ] TW %F0%9F%87%B9%F0%9F%87%BC %7C @Raydikalx %7C 93181F %7C 176ms
+trojan://owreRY1bmquS1WcYN2@193.187.119.41:443?type=tcp#[TRJ] AU %F0%9F%87%A6%F0%9F%87%BA %7C @Raydikalx %7C 270EFC %7C 176ms
+trojan://469c8135-8aea-4c7f-8ec2-c5fdfa980b48@103.219.192.33:443?security=tls&sni=hkip5.686911.xyz&allowInsecure=true#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C D7A1EB %7C 177ms
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.2.9.167:443?sni=jp.mjt001.com&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 2B50EA %7C 177ms
+trojan://i99Cef@211.20.156.191:28133?sni=ctldl.windowsupdate.com&type=tcp#[TRJ] TW %F0%9F%87%B9%F0%9F%87%BC %7C @Raydikalx %7C EFCF30 %7C 177ms
+trojan://3828095943467868160@103.106.231.55:443?sni=closing-longhorn.dolphin109.quest#[TRJ] AU %F0%9F%87%A6%F0%9F%87%BA %7C @Raydikalx %7C 910E67 %7C 178ms
+trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.115:443?sni=%24%24www.baidu.com&allowInsecure=1&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 15F30E %7C 178ms
+trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@61.220.126.180:443?security=tls&sni=twnode11.oportal.cc&type=tcp&headerType=none#[TRJ] %E7%BE%8E%E5%9B%BD(yudou66.com %E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9) %7C 178ms
+trojan://i99Cef@211.20.156.191:28118?sni=download.windowsupdate.com&type=tcp#[TRJ] TW %F0%9F%87%B9%F0%9F%87%BC %7C @Raydikalx %7C D94D0E %7C 178ms
+trojan://jj59d0f73f5d6@ru-1.krugvpn.com:443?security=tls&alpn=h2%2Chttp%2F1.1&sni=ru-1.krugvpn.com&fp=chrome&type=tcp#[TRJ] RU %F0%9F%87%B7%F0%9F%87%BA %7C @Raydikalx %7C B87A6A %7C 178ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@83.229.121.78:8443?security=tls#[TRJ] %F0%9F%87%AD%F0%9F%87%B0HK-83.229.121.78-5731 %7C 179ms
+trojan://humanity@219.76.13.177:443#[TRJ] 4Jadi-41b9b15940 %7C 179ms
+trojan://6d8d2ced-54da-4e79-bfae-2ed55345b954@23.100.91.146:443?security=tls&sni=rprknb2lcp.eastasia.cloudapp.azure.com#[TRJ] %F0%9F%87%AD%F0%9F%87%B0HK-23.100.91.146-0049 %7C 180ms
+trojan://GUGm7DHtpSx7SuPyUD@ee-1.kamediorg.com:443/?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1#[TRJ] EE %F0%9F%87%AA%F0%9F%87%AA %7C @Raydikalx %7C 106AEF %7C 180ms
+trojan://ef81a036-1db9-45ed-a3aa-f932a4750066@194.195.254.50:443?sni=cdn.qchwnd.moe#[TRJ] AU %F0%9F%87%A6%F0%9F%87%BA %7C @Raydikalx %7C AE928E %7C 180ms
+trojan://114514@68.64.178.42:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&allowInsecure=1&type=ws&host=tjaaa.hhllfly.kdns.fr&path=%2F#[TRJ] %E9%A6%99%E6%B8%AF(YouTube@%E5%B0%8F%E9%9D%92%E7%A7%91%E5%AD%A6%E7%BD%91%EF%BC%89 %7C 181ms
+trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@103.188.235.3:321?security=tls&sni=data.sub-zrj.com&allowInsecure=1&fp=chrome&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 862EBE %7C 181ms
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de12.dedushka.top#[TRJ] 4Kian-2e8525ca89 %7C 181ms
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.255.152.222:443?sni=jp.iamnotagoodman.com&peer=jp.iamnotagoodman.com&security=tls#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 49B53E %7C 181ms
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@20.255.249.111:443?sni=jp.mjt001.com&peer=jp.mjt001.com&security=tls#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C A7052E %7C 182ms
+trojan://NISHIKUITAN222@152.70.249.67:443/?type=tcp&security=tls#[TRJ] @Hope_Net-join-us-on-Telegram %7C 182ms
+trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443?security=tls&allowInsecure=1&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C B25296 %7C 182ms
+trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.102:443?sni=%24%24www.baidu.com&allowInsecure=1&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 98364F %7C 183ms
+trojan://76d630f2af6619c4a5de0ef953df3c6a@58.152.18.71:443?sni=www.nintendogames.net&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C D47BD7 %7C 183ms
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjtw.m2k699.com:24999?allowInsecure=1&sni=#[TRJ] 4Jadi-ba092a69b9 %7C 184ms
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=de2.dedushka.top#[TRJ] 4Nika-e3d5b28573 %7C 184ms
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.255.74.102:443/?type=tcp&security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#[TRJ] @Hope_Net-join-us-on-Telegram %7C 184ms
+trojan://NxYNjE7a5zyVX9to345Q-_EUZ9WRqoQ6@m6.mincreaft.com:5443?security=tls&fp=chrome&sni=m6.mincreaft.com#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 2E7818 %7C 184ms
+trojan://b26e31e5-eac1-45b0-9069-83830bd69521@20.187.85.198:443/?type=tcp&security=tls&sni=hkt.iamnotagoodman.com#[TRJ] %F0%9F%87%AD%F0%9F%87%B0HK-20.187.85.198-4277 %7C 184ms
+trojan://lk59gDrTm2@www.777061.xyz:18603?allowInsecure=1&sni=www.777061.xyz&type=tcp#[TRJ] 4Mohsen-4b69d11b26 %7C 184ms
+trojan://RJbtIstwtcU5buDY3r@nl-1.tr202604.com:443#[TRJ] NL %F0%9F%87%B3%F0%9F%87%B1 %7C @Raydikalx %7C FDCC49 %7C 185ms
+trojan://Sv5AzeZjawJfSMrhhS@nl-1.tr202501.com:443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp#[TRJ] NL %F0%9F%87%B3%F0%9F%87%B1 %7C @Raydikalx %7C 367B48 %7C 185ms
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de6.dedushka.top#[TRJ] 4Jadi-3e45ee15cb %7C 186ms
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?alpn=http%2F1.1&fp=firefox#[TRJ] 4Mohsen-d1d5c9d52f %7C 187ms
+trojan://bpb-trojan@www.vpslook.com:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=randomized&type=ws&sni=bpb-hd.aaronchin.xyz#[TRJ] [1103][FR][0][TROJAN][None][vless_vmess][2024-12-09][2026-10-31 02:59] %7C 188ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.99:443?allowInsecure=1&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#[TRJ] %F0%9F%87%BA%F0%9F%87%B8 %E7%BE%8E%E5%9B%BD 188 %7C 188ms
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@104.253.175.202:443?security=tls&sni=jy.hhllfly.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=jy.hhllfly.kdns.fr&path=%2F%3Fed%3D2048#[TRJ] %E9%A6%99%E6%B8%AF(yudou789.top %E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9) %7C 189ms
+trojan://Mj5nBFLSbUzPPJwjBa-WgS9ZnANpH01e@m2.mincreaft.com:5443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=m2.mincreaft.com#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 656869 %7C 190ms
+trojan://VuyKYqyDTU1GFaxF3o@nl-4.tr202504.com:443?type=tcp&security=tls&sni=nl-4.tr202504.com&fp=chrome&alpn=http%2F1.1#[TRJ] NL %F0%9F%87%B3%F0%9F%87%B1 %7C @Raydikalx %7C DA5193 %7C 190ms
+trojan://blue2024@www.csgo.com:443/?type=tcp&security=tls&sni=ta.promote.icu&allowInsecure=1#[TRJ] @Hope_Net-join-us-on-Telegram %7C 190ms
+trojan://diCyRX1d@193.151.134.182:443?flow=xtls-rprx-direct&security=xtls&sni=iprostable.enterprises&type=tcp&headerType=none#[TRJ] IR %F0%9F%87%AE%F0%9F%87%B7 %7C @Raydikalx %7C 9E5E45 %7C 192ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.38.60.139:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#[TRJ] %F0%9F%87%BA%F0%9F%87%B8 %E7%BE%8E%E5%9B%BD 215 %7C 193ms
+trojan://q6UYkw9nUn6MYZz8Sp@au-3.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#[TRJ] AU %F0%9F%87%A6%F0%9F%87%BA %7C @Raydikalx %7C 37797E %7C 193ms
+trojan://88939272-790a-441f-b12b-8ce531aca810@polo01.kctr2038.icu:443/?type=tcp&security=tls&sni=polo01.kctr2038.icu#[TRJ] %F0%9F%87%AB%F0%9F%87%AEFI-65.108.205.61-0049 %7C 194ms
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?allowInsecure=0&sni=kr002.zestapp778.com&type=tcp#[TRJ] 4Sarina-fc1b427adc %7C 195ms
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#[TRJ] 4Sarina-0eb8093e1a %7C 195ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?peer=connectwithemployers.online#[TRJ] Singapore %7C 196ms
+trojan://6a5d8ead-477a-4bc8-99ce-d9532a3ec5f1@139.162.35.118:443?security=tls&headerType=none&type=tcp&sni=sg-full.privateip.net#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C EE42E5 %7C 196ms
+trojan://b3965d2d-3b82-45cc-927b-1336aca3f3fe@139.162.49.215:443?sni=139.162.49.215&type=tcp#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 6DC32D %7C 196ms
+trojan://192a5fc9-2baa-4043-8655-d840d370cb86@13.229.160.122:443?sni=jp.liangyuandian.top&peer=jp.liangyuandian.top&security=tls#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C B01964 %7C 197ms
+trojan://38f169d6-d202-4b1b-8db8-e6eb1648f5cf@43.160.197.160:443?security=tls#[TRJ] %F0%9F%87%B8%F0%9F%87%ACSG-43.160.197.160-5717 %7C 197ms
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@47.82.155.79:443?security=tls&sni=jy.hhllfly.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=jy.hhllfly.kdns.fr&path=%2F%3Fed%3D2048#[TRJ] %E6%96%B0%E5%8A%A0%E5%9D%A1(yudou789.top %E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9) %7C 197ms
+trojan://7522e2c27233459aab8d0f1d715828d0@185.151.146.211:443?sni=www.gpt123.one&allowInsecure=1&type=tcp#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C C6376A %7C 197ms
+trojan://FH72359861@56.10.68.149:443?allowInsecure=0&sni=square-guinea.rooster465.autos#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C E8836E %7C 197ms
+trojan://MwDUxmFOAo@152.42.162.175:443?sni=aka.ms&type=tcp#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 3A03C4 %7C 197ms
+trojan://3690911436885991424@52.221.9.240:443?sni=master-boxer.pig299.lat&allowInsecure=0#[TRJ] %F0%9F%94%92 TR-TCP-NA %F0%9F%87%B8%F0%9F%87%AC SG-52.221.9.240:443 %7C 198ms
+trojan://3828095943467868160@103.106.229.111:443?sni=poetic-coral.dolphin109.quest&peer=poetic-coral.dolphin109.quest&security=tls#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 17913D %7C 198ms
+trojan://Aimer@3.1.116.161:2053?sni=epmo.ambercc.filegear-sg.me&peer=epmo.ambercc.filegear-sg.me&security=tls#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 24AAC9 %7C 198ms
+trojan://DyxOlYWfEYVf@193.8.139.22:443?sni=sb24.ir&type=tcp#[TRJ] IR %F0%9F%87%AE%F0%9F%87%B7 %7C @Raydikalx %7C DE5916 %7C 198ms
+trojan://GGLKnjEZrgwcV477UfgP6PMqjeZNAGfR@kaliningrad.gosgenarchive.com:448?type=grpc&serviceName=TrojanGRPC&mode=gun&authority=kaliningrad.gosgenarchive.com&security=tls&sni=kaliningrad.gosgenarchive.com&fp=firefox&alpn=h2#[TRJ] 4FreeIran-06a76856a7 %7C 198ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.165.174:443?security=tls&sni=tjsp.hhxaf.cc.cd&allowInsecure=1&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#[TRJ] %E7%BE%8E%E5%9B%BD(YouTube@%E5%B0%8F%E9%9D%92%E7%A7%91%E5%AD%A6%E7%BD%91%EF%BC%89 %7C 198ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.144.96.147:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#[TRJ] %F0%9F%87%BA%F0%9F%87%B8 %E7%BE%8E%E5%9B%BD 184 %7C 198ms
+trojan://78c6cf8f30399bad3f63f15a9600a8ef@23.149.28.8.sslip.io:8443?allow_insecure=1&allowInsecure=1&insecure=1&sni=23.149.28.8.sslip.io#[TRJ] %F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD %7C 199ms
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20060?sni=sg.catxstar.com&type=tcp#[TRJ] 4FreeIran-8888933a5c %7C 199ms
+trojan://842b5f9dd11e458d8613c907c4cc5723@149.28.151.140:443?sni=www.gpt123.one&allowInsecure=1&type=tcp#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 085F08 %7C 199ms
+trojan://AE62539071@13.212.44.180:443?sni=smooth-hornet.rooster465.autos&type=tcp&path=/#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 8D1F89 %7C 199ms
+trojan://FH72359861@13.229.56.205:443?sni=exciting-turtle.rooster465.autos&fp=chrome&type=tcp&path=/#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 891DC0 %7C 199ms
+trojan://NQ26071394@13.212.151.64:443?allowInsecure=0&sni=able-dane.rooster465.autos#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 898F99 %7C 199ms
+trojan://Trojan%4082164024@pl.tronsg.com:443?allowInsecure=1&sni=pl.tronsg.com&type=tcp#[TRJ] 4Jadi-f370f6170a %7C 199ms
+trojan://UX82473651@3.1.252.137:443?sni=brave-tomcat.rooster465.autos&type=tcp&fp=chrome#[TRJ] %F0%9F%87%B8%F0%9F%87%ACSG_70%7C448KB/s%7CA004-260618 [20a1d0813c1e] %7C 199ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@8.219.134.138:443?security=tls&sni=hhcm.hhxaf.cc.cd&fp=chrome&allowInsecure=1&type=ws&host=hhcm.hhxaf.cc.cd&path=%2F#[TRJ] %E6%96%B0%E5%8A%A0%E5%9D%A1-YouTube@%E5%B0%8F%E9%9D%92%E7%A7%91%E5%AD%A6%E7%BD%912007 %7C 199ms
+trojan://253bc477d4e43c209f2d427272968280@165.22.55.206:443/?type=tcp&security=tls&sni=www.baidu.com#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 0A18E1 %7C 200ms
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@13.229.1.82:443?sni=jp.iamnotagoodman.com&peer=jp.iamnotagoodman.com&security=tls#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C B84171 %7C 200ms
+trojan://96dca130-61c6-11ed-bc37-1239d0255272@51.79.220.79:443?security=tls&headerType=none&type=tcp&sni=zoom.us#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 8ABF02 %7C 200ms
+trojan://973c7f53-7411-4173-b805-d65c912e4d55@43.134.48.62:443?security=tls&headerType=none&type=tcp&sni=86sg.ljydw.top#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 627C61 %7C 200ms
+trojan://FnF2E0fmnd@146.190.86.235:443?sni=dl-media.viber.com&fp=chrome&alpn=http%2F1.1&type=tcp#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 97C27A %7C 200ms
+trojan://GToK9gzuwh@146.190.84.34:443?allowInsecure=0&sni=aka.ms#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 4063B6 %7C 200ms
+trojan://XG59623478@18.143.139.228:443?allowInsecure=1#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C C11549 %7C 200ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@159.223.41.212:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#[TRJ] %F0%9F%87%BA%F0%9F%87%B8 %E7%BE%8E%E5%9B%BD 193 %7C 200ms
+trojan://j0GM8nFJVq@167.71.209.134:443?sni=aka.ms&fp=chrome&alpn=http%2F1.1&type=tcp#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C A24CE2 %7C 200ms
+trojan://16877c70-e7b8-11ec-99f2-1239d0255272@139.162.61.193:443/?type=tcp&security=tls&sni=w13.udpgw.com&allowInsecure=1#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C DE89F0 %7C 201ms
+trojan://58dcd460-65df-47b1-b062-517df30bef29@46.137.203.18:443?sni=sg.liangyuandian.top&peer=sg.liangyuandian.top&security=tls#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C C1AA71 %7C 201ms
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=la.freeguard.org#[TRJ] NG %F0%9F%87%B3%F0%9F%87%AC %7C @Raydikalx %7C 110F61 %7C 201ms
+trojan://65086520307764900@18.136.95.35:443?sni=robust-redfish.shiner427.skin&peer=robust-redfish.shiner427.skin&security=tls#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 41C413 %7C 201ms
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886#[TRJ] 4Kian-1f1054387c %7C 201ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@168.144.109.68:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#[TRJ] %F0%9F%87%BA%F0%9F%87%B8 %E7%BE%8E%E5%9B%BD 176 %7C 201ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@18.143.76.130:443/?type=tcp&security=tls&sni=hhcm.hhxaf.cc.cd#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 5E998A %7C 201ms
+trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.aava.lalibobi.online:443?security=tls&sni=checkout.aava.lalibobi.online&fp=&type=tcp#[TRJ] EE %F0%9F%87%AA%F0%9F%87%AA %7C @Raydikalx %7C 3EB5C0 %7C 201ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?allowInsecure=1&sni=searchcreativejobsandshowcaseyourartistictalents.com#[TRJ] 4Jadi-fd5defbd7b %7C 202ms
+trojan://16132fb0-4945-11f0-a95e-1239d0255272@91.192.81.167:443?security=tls&sni=sg4.6n6.net&allowInsecure=1&fp=chrome&type=tcp#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C B8851B %7C 202ms
+trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#[TRJ] 4FreeIran-c90b42e89a %7C 202ms
+trojan://123456@194.233.88.109:443/?type=tcp&security=tls&sni=194.233.88.109&alpn=http%2F1.1&allowInsecure=1&fp=chrome#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 71FAD2 %7C 203ms
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1#[TRJ] 4Jadi-7668ce013e %7C 203ms
+trojan://6cb6f769-b28e-4f7f-a593-8c0b0a161992@170.187.231.189:443?#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 05BF26 %7C 203ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@158.180.71.69:443?allowInsecure=1&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#[TRJ] %F0%9F%87%AC%F0%9F%87%A7 %E8%8B%B1%E5%9B%BD 008 %7C 203ms
+trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.salu.lalibobi.online:443?security=tls&sni=checkout.salu.lalibobi.online&fp=&type=tcp#[TRJ] EE %F0%9F%87%AA%F0%9F%87%AA %7C @Raydikalx %7C 099345 %7C 203ms
+trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@8.219.155.125:443?security=tls&sni=jy.hhllfly.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=jy.hhllfly.kdns.fr&path=%2F%3Fed%3D2048#[TRJ] %E6%97%A5%E6%9C%AC(yudou789.top %E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9) %7C 204ms
+trojan://5a92d674-308c-4d95-b283-28383e63a59b@103.9.77.6:443?sni=103.9.77.6&type=tcp#[TRJ] VN %F0%9F%87%BB%F0%9F%87%B3 %7C @Raydikalx %7C A83E23 %7C 204ms
+trojan://UX82473651@18.141.136.8:443?sni=musical-mouse.rooster465.autos&allowInsecure=0#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 7B31AC %7C 204ms
+trojan://c95357eb-2869-4511-8940-f0dc5e1ec9b1@103.72.96.55:443/?type=tcp&security=tls&sni=hanoiidc2.5gsieutocdo.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#[TRJ] VN %F0%9F%87%BB%F0%9F%87%B3 %7C @Raydikalx %7C 663774 %7C 204ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@139.180.220.7:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#[TRJ] %E6%96%B0%E5%8A%A0%E5%9D%A1(yudou789.top %E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9) %7C 204ms
+trojan://3ac6a6ca99f74941b1eaf892818e2ddb@185.151.146.40:443?allowInsecure=1#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C B4EC4B %7C 205ms
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@46.137.251.176:443?sni=jp.iamnotagoodman.com&peer=jp.iamnotagoodman.com&security=tls#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C CD3C46 %7C 205ms
+trojan://FC60532879@81.28.13.103:443?security=tls&path=/#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 5A0433 %7C 205ms
+trojan://Fn9TZuYXiFYhsyp65T@os-2.rise-fuji.com:443?sni=os-2.rise-fuji.com#[TRJ] JP %F0%9F%87%AF%F0%9F%87%B5 %7C @Raydikalx %7C 1C84F8 %7C 206ms
+trojan://d6369144-4fb6-43e5-b9ca-255abf37607d@139.162.36.248:443/?type=tcp&security=tls&alpn=http%2F1.1&allowInsecure=1&fp=chrome#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 4E06D4 %7C 206ms
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjterq.m2k699.com:24999?allowInsecure=1&sni=#[TRJ] 4Nika-536e963317 %7C 207ms
+trojan://NxYNjE7a5zyVX9to345Q-_EUZ9WRqoQ6@avoro18534.maxleshax.icu:5443?security=tls&fp=chrome&sni=avoro18534.maxleshax.icu#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 7FAA29 %7C 207ms
+trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=hk.freeguard.org#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 2D35B7 %7C 208ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@139.162.62.195:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#[TRJ] %F0%9F%87%B8%F0%9F%87%AC %E6%96%B0%E5%8A%A0%E5%9D%A1 004 %7C 208ms
+trojan://af4b064a9c39472fb34ad8b113acdc6b@103.67.79.156:443?sni=103.67.79.156&allowInsecure=1&type=tcp#[TRJ] ID %F0%9F%87%AE%F0%9F%87%A9 %7C @Raydikalx %7C 323809 %7C 210ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.128.222.55:443?allowInsecure=0&sni=hhcm.hhxaf.cc.cd&ws=1&wspath=%2F#[TRJ] %F0%9F%87%B3%F0%9F%87%B1 %E8%8D%B7%E5%85%B0 004 %7C 210ms
+trojan://hn7BMZxEjR9uE0adcvA6cqQMoKwA88hT@bremen.gosgenarchive.com:448?security=tls&alpn=h2&insecure=0&fp=firefox&type=grpc&serviceName=TrojanGRPC&allowInsecure=0&sni=bremen.gosgenarchive.com#[TRJ] 4Jadi-fde6404dfa %7C 210ms
+trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443#[TRJ] 4Jadi-6939f5b552 %7C 211ms
+trojan://788f2b96-47e2-4302-a417-511b6fd7d09c@172.232.250.160:443?type=tcp&security=tls&fp=chrome&alpn=http%2F1.1#[TRJ] ID %F0%9F%87%AE%F0%9F%87%A9 %7C @Raydikalx %7C 1BFF9A %7C 212ms
+trojan://IQ68037294@91.199.84.34:443?sni=wealthy-loon.rooster465.autos&fp=chrome&type=tcp&path=/#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C F700C6 %7C 212ms
+trojan://Tg3RnK7Xp8B1@65.20.82.177:443?sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#[TRJ] IN %F0%9F%87%AE%F0%9F%87%B3 %7C @Raydikalx %7C B5A0AD %7C 214ms
+trojan://af4b064a9c39472fb34ad8b113acdc6b@210.187.176.154:443?allowInsecure=1&sni=210.187.176.154#[TRJ] MY %F0%9F%87%B2%F0%9F%87%BE %7C @Raydikalx %7C B69489 %7C 214ms
+trojan://q6UYkw9nUn6MYZz8Sp@ty-1.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#[TRJ] JP %F0%9F%87%AF%F0%9F%87%B5 %7C @Raydikalx %7C F7FF2E %7C 214ms
+trojan://idc117okt@103.176.78.153:443/?type=tcp&security=tls#[TRJ] %F0%9F%87%AE%F0%9F%87%A9ID-103.176.78.153-4344 %7C 215ms
+trojan://%4D%69%54%69%56%50%4E@wwww.qarvian.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http%2F1.1&insecure=0&host=%6D%69%74%69%76%70%6E--%6D%69%74%69%76%70%6E.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] [6][US][0][TROJAN][None][proxy_mtm][2026-10-29][2026-10-31 02:59] %7C 216ms
+trojan://3747000103274291200@185.67.125.119:443?security=tls&sni=oriented-pug.adder289.quest&type=tcp#[TRJ] IN %F0%9F%87%AE%F0%9F%87%B3 %7C @Raydikalx %7C 4ED17A %7C 216ms
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@143.110.246.228:443?sni=kdlsupport.zendesk.com&peer=kdlsupport.zendesk.com&security=tls#[TRJ] IN %F0%9F%87%AE%F0%9F%87%B3 %7C @Raydikalx %7C 787FF1 %7C 216ms
+trojan://idc117okt@103.226.139.201:443?security=tls#[TRJ] %F0%9F%87%AE%F0%9F%87%A9ID-103.226.139.201-7403 %7C 216ms
+trojan://Aimer@38.207.172.42:443?sni=agepj.ambercc.filegear-sg.me&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 815E9A %7C 221ms
+trojan://af4b064a9c39472fb34ad8b113acdc6b@38.54.15.140:443?allowInsecure=1&sni=38.54.15.140#[TRJ] VN %F0%9F%87%BB%F0%9F%87%B3 %7C @Raydikalx %7C F1C381 %7C 221ms
+trojan://af4b064a9c39472fb34ad8b113acdc6b@154.90.55.81:443?allowInsecure=1&sni=154.90.55.81#[TRJ] AE %F0%9F%87%A6%F0%9F%87%AA %7C @Raydikalx %7C 6A5013 %7C 222ms
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20056?sni=hk.catxstar.com&type=tcp#[TRJ] 4FreeIran-cda05b901b %7C 223ms
+trojan://PD07395842@185.244.208.81:443?sni=free-tahr.rooster465.autos&fp=chrome&type=tcp&path=/#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C C38498 %7C 223ms
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443/?type=tcp&security=tls#[TRJ] %F0%9F%87%B2%F0%9F%87%B3MN-103.168.56.77-2099 %7C 224ms
+trojan://d050aca3-9df2-4461-90ec-92373c1d7636@v2jp.k1.ssnss.live:44184?security=tls#[TRJ] JP %F0%9F%87%AF%F0%9F%87%B5 %7C @Raydikalx %7C 4CAC21 %7C 224ms
+trojan://pR320Cwdj7mJ9HKc_UVz-VJyuecT4qdh@ee1.nngo.cc:443?security=tls&sni=ee1.nngo.cc&fp=firefox&type=tcp#[TRJ] EE %F0%9F%87%AA%F0%9F%87%AA %7C @Raydikalx %7C F95145 %7C 224ms
+trojan://a13820c547fa34c5c45515c12f0cd576@117.149.198.190:10051/?type=tcp&security=tls&sni=zz6.91js.pw&allowInsecure=1#[TRJ] CN %F0%9F%87%A8%F0%9F%87%B3 %7C @Raydikalx %7C 3F11F4 %7C 225ms
+trojan://056b39f5-ffb3-4145-8f75-2ffdeb53cb48@bestcdn0.868863.xyz:2087/?type=tcp&security=tls&sni=17698512162997.682637.xyz#[TRJ] %F0%9F%8F%81RELAY-104.18.38.47-1777 %7C 226ms
+trojan://IQ68037294@91.199.84.39:443?sni=magical-kodiak.rooster465.autos&fp=chrome&type=tcp&path=%2f#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C B73B0C %7C 226ms
+trojan://114514@122.10.119.252:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&allowInsecure=1&type=ws&host=tjaaa.hhllfly.kdns.fr&path=%2F#[TRJ] %F0%9F%87%AD%F0%9F%87%B0 %E9%A6%99%E6%B8%AF 11 %7C 227ms
+trojan://fuck@42.236.73.72:443?allowInsecure=0&sni=www.zitian.cn#[TRJ] 3 %7C 227ms
+trojan://002023c45d18bca3eba2757bb683309a@42.51.25.69:59443?allowInsecure=1&sni=ja262.magiclampcloud.cn&type=tcp#[TRJ] CN %F0%9F%87%A8%F0%9F%87%B3 %7C @Raydikalx %7C 3A2284 %7C 229ms
+trojan://owreRY1bmquS1WcYN2@au-3.tr202605.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#[TRJ] AU %F0%9F%87%A6%F0%9F%87%BA %7C @Raydikalx %7C C070B0 %7C 229ms
+trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@updatess.sub-zrj.com:121?sni=data.sub-zrj.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C E4D378 %7C 230ms
+trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@updatess.sub-zrj.com:2323?sni=data.sub-zrj.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 59CC42 %7C 232ms
+trojan://2ni2H9zUKdDCjREL8Z@au-1.tr202613.com:443?sni=au-1.tr202613.com&type=tcp#[TRJ] AU %F0%9F%87%A6%F0%9F%87%BA %7C @Raydikalx %7C 241968 %7C 232ms
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20014?sni=hk.catxstar.com&type=tcp#[TRJ] 4Kian-c913072c67 %7C 232ms
+trojan://8a967ec0-634e-11ed-8ef5-1239d0255272@sgovh-trojan.bonds.id:443?security=tls&headerType=none&type=tcp&sni=www.namava.ir#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C F566BD %7C 232ms
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjyn.m2k699.com:24999?sni=www.itunes.com&allowInsecure=1#[TRJ] 4FreeIran-03939ce42a %7C 233ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@64.120.94.225:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C BF3391 %7C 233ms
+trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@ngzydd.sub-zrj.com:600?sni=streaming.sub-zrj.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 00DC7C %7C 234ms
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo02a.kbservice.club:443?sni=45.32.28.232&type=tcp#[TRJ] TW %F0%9F%87%B9%F0%9F%87%BC %7C @Raydikalx %7C 86BB5F %7C 234ms
+trojan://ef23ddd0-14c5-39c2-9880-af55ce892363@t28.qifei.app:52492?allowInsecure=1&type=tcp#[TRJ] JP %F0%9F%87%AF%F0%9F%87%B5 %7C @Raydikalx %7C C41336 %7C 234ms
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjadly.m2k699.com:24999?sni=www.itunes.com&allowInsecure=1#[TRJ] 4Kian-677f972828 %7C 235ms
+trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@updatess.sub-zrj.com:222?allowInsecure=1&sni=data.sub-zrj.com&type=tcp#[TRJ] 4FreeIran-ab0c916831 %7C 235ms
+trojan://3747000103274291200@185.67.125.147:443?peer=polished-collie.adder289.quest#[TRJ] IN %F0%9F%87%AE%F0%9F%87%B3 %7C @Raydikalx %7C F736AA %7C 235ms
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo04a.kbservice.club:443?sni=45.32.28.232&type=tcp#[TRJ] TW %F0%9F%87%B9%F0%9F%87%BC %7C @Raydikalx %7C 302166 %7C 235ms
+trojan://FH72359861@pleased-sawfly.rooster465.autos:443?sni=pleased-sawfly.rooster465.autos&fp=chrome&type=tcp&path=/#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 984C04 %7C 235ms
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjyg.m2k699.com:24999?sni=www.itunes.com&allowInsecure=1#[TRJ] 4Jadi-4ca38a7904 %7C 236ms
+trojan://q6UYkw9nUn6MYZz8Sp@au-2.tr202604.com:443?type=tcp&security=tls&allowInsecure=0#[TRJ] AU %F0%9F%87%A6%F0%9F%87%BA %7C @Raydikalx %7C 9E1839 %7C 237ms
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjxg.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#[TRJ] 4Sarina-1e4a44b25d %7C 238ms
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@mb2b.xmrthnode.com:41307?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#[TRJ] JP %F0%9F%87%AF%F0%9F%87%B5 %7C @Raydikalx %7C 132B9F %7C 238ms
+trojan://65fQmPHHbPcBCfvSHt@hk-2.tr202605.com:465?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C D550F5 %7C 240ms
+trojan://29db38f0-e302-3768-8867-0b9bf00c77e4cmynw@kaizen-hk-11.gocmydns.com:443?sni=images.apple.com&allowInsecure=1&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 8EEAE2 %7C 242ms
+trojan://21c6c7cb-332b-4a0c-9ad7-dff9c3111442@64.227.131.19:443?sni=us02web.zoom.us#[TRJ] IN %F0%9F%87%AE%F0%9F%87%B3 %7C @Raydikalx %7C 8189BD %7C 244ms
+trojan://16132fb0-4945-11f0-a95e-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 900213 %7C 245ms
+trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?allowInsecure=1&sni=th001.zestapp778.com&type=tcp#[TRJ] 4Sarina-0282ad9cb2 %7C 247ms
+trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.134.29:443?allowInsecure=0#[TRJ] VN %F0%9F%87%BB%F0%9F%87%B3 %7C @Raydikalx %7C 6B3976 %7C 247ms
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo03a.kbservice.club:443/?type=tcp&security=tls#[TRJ] TW %F0%9F%87%B9%F0%9F%87%BC %7C @Raydikalx %7C 4B16E8 %7C 248ms
+trojan://14bac0e43c849123ccb0fd0690f24316@118.253.167.243:59443?allowInsecure=1&sni=tyy129.magiclampcloud.com&type=tcp#[TRJ] CN %F0%9F%87%A8%F0%9F%87%B3 %7C @Raydikalx %7C 6F59DB %7C 249ms
+trojan://16877c70-e7b8-11ec-99f2-1239d0255272@w13.udpgw.com:443?allowInsecure=0&sni=#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C ACDE31 %7C 250ms
+trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@ngzydd.sub-zrj.com:321?sni=streaming.sub-zrj.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 920842 %7C 252ms
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@taifo01a.kbservice.club:443?sni=45.32.28.232&type=tcp#[TRJ] TW %F0%9F%87%B9%F0%9F%87%BC %7C @Raydikalx %7C DCDBA5 %7C 252ms
+trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443/?type=tcp&security=tls#[TRJ] %F0%9F%87%AE%F0%9F%87%B3IN-152.67.160.174-0671 %7C 255ms
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjflb.m2k699.com:24999?security=tls&sni=www.itunes.com#[TRJ] %F0%9F%87%AD%F0%9F%87%B0HK-89.185.28.38-0473 %7C 256ms
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjxjp.m2k699.com:24999?sni=www.itunes.com&allowInsecure=1&type=tcp&fp=chrome#[TRJ] 4Nika-2e48d65983 %7C 256ms
+trojan://affae2e0-e84b-11ec-b09f-1239d0255272@trojan1.udpgw.com:443/?type=tcp&security=tls#[TRJ] %F0%9F%87%B8%F0%9F%87%ACSG-172.104.51.247-5740 %7C 256ms
+trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@ngzydd.sub-zrj.com:2323?sni=streaming.sub-zrj.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 06822B %7C 259ms
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmlxy.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#[TRJ] 4Mohsen-89ed8b4175 %7C 260ms
+trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@ngzydd.sub-zrj.com:121?sni=streaming.sub-zrj.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C EAB5B1 %7C 262ms
+trojan://5416ef6f-b8e5-48e9-87e4-3d5649b2e3e0@sg-3.gsafevpnapi.com:44370?sni=www.yahoo.com#[TRJ] 4Jadi-3afc1199f4 %7C 262ms
+trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?type=tcp&headerType=none&security=tls&sni=node-tr-1.v2sv.top#[TRJ] [2106][TR][0][TROJAN][None][kiava][2026-01-23][2026-10-31 02:59] %7C 262ms
+trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@ngzydd.sub-zrj.com:222?sni=streaming.sub-zrj.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 10A177 %7C 263ms
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443/?type=tcp&security=tls#[TRJ] %F0%9F%87%B0%F0%9F%87%B7KR-123.140.124.23-2338 %7C 266ms
+trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@twnode11.oportal.cc:443?security=tls&sni=twnode11.oportal.cc&type=tcp&headerType=none#[TRJ] [654][TW][0][TROJAN][None][mftizi][2024-10-15][2026-10-31 02:59] %7C 270ms
+trojan://f8d19ba5-8684-45f2-8523-77dbea588955@hgc.iamnotagoodman.com:443/?type=tcp&security=tls&sni=hgc.iamnotagoodman.com#[TRJ] %F0%9F%87%AD%F0%9F%87%B0HK-45.149.92.71-0016 %7C 270ms
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443/?type=tcp&security=tls&sni=38.54.64.247&allowInsecure=1&fp=chrome#[TRJ] %F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BF%F0%9F%87%A6%C2%AE%EF%B8%8FSouth Africa%C2%A9%EF%B8%8FJohannesburg%F0%9F%85%BF%EF%B8%8Fping:199.98ms %7C 270ms
+trojan://257d8622-6701-4c98-a432-67a9696f58ae@shazira.app:443?security=tls&sni=shazira.app&allowInsecure=1&type=ws&path=%2FNovan-ID9#[TRJ] %E7%BE%8E%E5%9B%BD(YouTube@%E5%B0%8F%E9%9D%92%E7%A7%91%E5%AD%A6%E7%BD%91%EF%BC%89 %7C 277ms
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@mb2b.xmrthnode.com:41306?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#[TRJ] JP %F0%9F%87%AF%F0%9F%87%B5 %7C @Raydikalx %7C 661016 %7C 278ms
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:41306?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 3DF71D %7C 284ms
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:41305?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 94F406 %7C 284ms
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:41303?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 65C1D6 %7C 284ms
+trojan://11559103-9993-4d00-b599-d6bcd8db2197@free-v7-09.elbrusway.online:443?allowInsecure=0&sni=free-v7-09.elbrusway.online#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C A6A6E4 %7C 288ms
+trojan://TAJhE0BC0_S1JDm9EmQxyLS64uC8ekbr@de2.x8lab.org:9433?sni=de2.x8lab.org&type=ws&path=/chatbot&fp=safari#[TRJ] %F0%9F%87%A9%F0%9F%87%AADE_211%7C610KB/s%7CP002-260618 01 %7C 290ms
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-wien.unlimited-access.ru:443?security=tls&type=tcp&headerType=none&sni=tr-wien.unlimited-access.ru&fp=firefox&alpn=http%2F1.1#[TRJ] AT %F0%9F%87%A6%F0%9F%87%B9 %7C @Raydikalx %7C 509CC4 %7C 295ms
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@krhtybay.catcat321.com:20061?sni=hk.catxstar.com&type=raw#[TRJ] 4Kian-987ed61659 %7C 302ms
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@mb2b.xmrthnode.com:41300?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#[TRJ] JP %F0%9F%87%AF%F0%9F%87%B5 %7C @Raydikalx %7C 764B89 %7C 303ms
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:41300?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C D895D5 %7C 307ms
+trojan://Bw5Mz7QkVp@139.84.172.132:443/?type=tcp&security=tls&sni=z-v2-077924.kailib.com#[TRJ] @Hope_Net-join-us-on-Telegram %7C 307ms
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:41011?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 0F911B %7C 310ms
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:41014?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 8ECEFC %7C 310ms
+trojan://nodes-b211f28a@node-id-1.v2sv.top:2083?type=tcp&headerType=none&security=tls&sni=node-id-1.v2sv.top#[TRJ] [2105][ID][0][TROJAN][None][kiava][2026-01-23][2026-10-31 02:59] %7C 312ms
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:24509?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C C2B50C %7C 313ms
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:24505?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C E38D2B %7C 315ms
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#[TRJ] 4Jadi-a0e2e119c1 %7C 315ms
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:24501?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 50A9C7 %7C 316ms
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053/?type=tcp&security=tls#[TRJ] %F0%9F%87%A8%F0%9F%87%B3CN-125.94.46.8-2349 %7C 316ms
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@ktc1k.xmrthnode.com:41040?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 74340F %7C 317ms
+trojan://5bafc1f1-43bc-301c-bf57-53abbf20dabc@nb2b.xmrthnode.com:41001?sni=mpvideo.qpic.cn&allowInsecure=1&type=tcp#[TRJ] JP %F0%9F%87%AF%F0%9F%87%B5 %7C @Raydikalx %7C 6B3DA5 %7C 317ms
+trojan://Fn9TZuYXiFYhsyp65T@45.80.191.177:443?sni=os-2.rise-fuji.com&type=tcp#[TRJ] JP %F0%9F%87%AF%F0%9F%87%B5 %7C @Raydikalx %7C 65B61B %7C 319ms
+trojan://0255972f1b5cc33c6f87fbc561085684@tyy129.magiclampcloud.com:59443?allowInsecure=0&sni=tyy129.magiclampcloud.com&type=tcp#[TRJ] CN %F0%9F%87%A8%F0%9F%87%B3 %7C @Raydikalx %7C 05C8C2 %7C 321ms
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:8443/?type=tcp&security=tls#[TRJ] %F0%9F%87%B0%F0%9F%87%B7KR-123.140.124.23-2549 %7C 323ms
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@my.singaporenodeserverone.kyiv.ua:443/?type=tcp&security=tls&sni=45.32.28.232#[TRJ] @Hope_Net-join-us-on-Telegram %7C 324ms
+trojan://bVhfAPS7f_tagBb-G79z0zWB6L1yK84H@ru2.x8lab.org:9443?sni=ru2.x8lab.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=tcp#[TRJ] RU %F0%9F%87%B7%F0%9F%87%BA %7C @Raydikalx %7C A16971 %7C 324ms
+trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443/?type=tcp&security=tls#[TRJ] %F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-4032 %7C 325ms
+trojan://18844%40zxcvbn@tk-tr-4.cats22.net:443/?type=tcp&security=tls&allowInsecure=1#[TRJ] JP %F0%9F%87%AF%F0%9F%87%B5 %7C @Raydikalx %7C 40FBC6 %7C 325ms
+trojan://GZOof2R1ej4yML1NxajR2frGQ@hl-freedom-1.undef.network:443/?type=ws&host=hl-freedom-1.undef.network&path=%2Ff2fc2a1f&security=tls&sni=HL-FREEDOM-1.UNDEF.NETWORK#[TRJ] PL %F0%9F%87%B5%F0%9F%87%B1 %7C @Raydikalx %7C 2EF290 %7C 325ms
+trojan://j8HSz13mcSpcbzQD-jxhNt3T99NLzgMB@nl4.275.axolab.org:443?sni=nl4.275.axolab.org&fp=chrome&alpn=h2%2Chttp%2F1.1&type=tcp#[TRJ] NL %F0%9F%87%B3%F0%9F%87%B1 %7C @Raydikalx %7C 023561 %7C 325ms
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@08.tokyometropolis.odessa.ua:2053?sni=45.32.28.232&type=tcp#[TRJ] JP %F0%9F%87%AF%F0%9F%87%B5 %7C @Raydikalx %7C 9AFB5C %7C 332ms
+trojan://AnadoluSpeed@tr1.euroline.cloud:443?sni=telegram.org&peer=telegram.org&security=tls#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 22EF4E %7C 333ms
+trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?allowInsecure=1&sni=in002.zestapp778.com#[TRJ] [ermaozi/get_subscribe]%F0%9F%87%AE%F0%9F%87%B3[www.v2nodes.com] trojan-IN-... %7C 336ms
+trojan://ltgp0n3l2z4f7t57@angelvpn.angelmh.cv:1633?security=reality&pbk=u3QgazUHzHjIpDdERKjAimr_01RRQdXuK9kMt5MsWzU&headerType=none&fp=chrome&spx=%2F587a65acecd29f8&type=tcp&sni=fornex.com&sid=45b9#[TRJ] 4Nika-0d4fe0037b %7C 341ms
+trojan://63872b0d-87dd-4474-b690-92773af2922e@d3.catcat321.com:20083?sni=sg.catxstar.com&type=tcp#[TRJ] 4Nika-c2317f57e5 %7C 344ms
+trojan://7a73f1dc97a70905870c0c0484b12145@trs22.bolab.net:443?security=tls&type=tcp&headerType=none#[TRJ] %F0%9F%87%AF%F0%9F%87%B5JP-133.242.55.38-0696 %7C 344ms
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053/?type=tcp&security=tls#[TRJ] %F0%9F%87%A8%F0%9F%87%B3CN-125.94.46.8-2604 %7C 346ms
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053/?type=tcp&security=tls#[TRJ] %F0%9F%87%A8%F0%9F%87%B3CN-125.94.46.8-2769 %7C 347ms
+trojan://%6D%69%74%69%76%70%6E@b2n.ir:443?path=%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F--%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E&security=tls&alpn=http%2F1.1&insecure=0&host=de.%6D%69%74%69%76%70%6E.in.net&fp=chrome&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=de.%6D%69%74%69%76%70%6E.in.net#[TRJ] [17][IR][0][TROJAN][None][proxy_mtm][2026-10-20][2026-10-31 02:59] %7C 348ms
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@01a.seoulcityhall.com.ua:2051?sni=45.32.28.232&type=tcp#[TRJ] KR %F0%9F%87%B0%F0%9F%87%B7 %7C @Raydikalx %7C C61D59 %7C 355ms
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@02a.seoulcitygovernment.com.ua:2050?sni=45.32.28.232&type=tcp#[TRJ] KR %F0%9F%87%B0%F0%9F%87%B7 %7C @Raydikalx %7C 8B028F %7C 364ms
+trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn4.868863.xyz:8443/?type=ws&path=%2Fagrbniuh&security=tls&sni=17654164559897.796813.xyz#[TRJ] %F0%9F%8F%81RELAY-104.21.224.5-1636 %7C 387ms
+trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us6.mfa.cat:443?allowInsecure=1&security=tls&sni=www.cloudflare.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C A730F3 %7C 391ms
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemk.ciscocdn1.live:443?security=tls&sni=c2mk.ciscocdn1.live&type=ws&path=/rDCYQta83d0oPABKBhcIX&Host=c2mk.ciscocdn1.live#[TRJ] %F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.210-7617 %7C 392ms
+trojan://auto@zula.ir:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#[TRJ] 4Mohsen-3b5948139a %7C 394ms
+trojan://IQ68037294@apt-midge.rooster465.autos:443?security=tls#[TRJ] %F0%9F%87%B8%F0%9F%87%ACSG-91.243.81.248-5471 %7C 396ms
+trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn4.868863.xyz:2096/?type=ws&path=%2Fagrbniuh&security=tls&sni=17654164554016.796813.xyz#[TRJ] %F0%9F%8F%81RELAY-104.21.224.5-2250 %7C 397ms
+trojan://a6xjq4UD2t@ir1.iobase.ir:443/?type=tcp&security=tls&alpn=http%2F1.1&allowInsecure=1&fp=chrome#[TRJ] IR %F0%9F%87%AE%F0%9F%87%B7 %7C @Raydikalx %7C 2E83A5 %7C 401ms
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemt.ciscocdn1.live:443?security=tls&sni=c2mt.ciscocdn1.live&type=ws&path=/rDCYQta83d0oPABKBhcIX&Host=c2mt.ciscocdn1.live#[TRJ] %F0%9F%87%A6%F0%9F%87%BAAU-103.224.212.210-7615 %7C 403ms
+trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn4.868863.xyz:2087/?type=ws&path=%2Fagrbniuh&security=tls&sni=17654164559539.796813.xyz#[TRJ] %F0%9F%8F%81RELAY-104.17.25.173-0925 %7C 404ms
+trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn4.868863.xyz:2083/?type=ws&path=%2Fvideomuaawe&security=tls&sni=17654164557421.206355.xyz#[TRJ] %F0%9F%8F%81RELAY-104.21.224.5-2279 %7C 412ms
+trojan://GKHWMe2R4qwNcNxu6l3KMkdd@221.158.4.230:18853/?type=tcp&security=tls&sni=vpn1.rnmcnm.com&allowInsecure=1#[TRJ] %F0%9F%93%A1@DeamNet+(2882) %7C 418ms
+trojan://34c52684-3aee-456d-8e21-fe16d0277e5a@bestcdn4.868863.xyz:2053/?type=ws&path=%2Fagrbniuh&security=tls&sni=17654164558244.796813.xyz#[TRJ] %F0%9F%8F%81RELAY-104.21.224.5-2864 %7C 424ms
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@07.tokyometropolis.odesa.ua:2053?sni=45.32.28.232&type=tcp#[TRJ] JP %F0%9F%87%AF%F0%9F%87%B5 %7C @Raydikalx %7C 13B167 %7C 429ms
+trojan://9efd3f19-c7cb-4fa9-8d66-0598043597dc@t2w2t2w2.bpca2026.top:443?sni=t2w2t2w2.bpca2026.top&allowInsecure=1&type=tcp#[TRJ] TW %F0%9F%87%B9%F0%9F%87%BC %7C @Raydikalx %7C 542CFD %7C 430ms
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@cmcc.cloudflare.seeck.cn:443?allowInsecure=0&sni=tjsp.hhxaf.cc.cd&ws=1&wspath=%2F#[TRJ] %F0%9F%87%BA%F0%9F%87%B8 %E7%BE%8E%E5%9B%BD 124 %7C 433ms
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053/?type=tcp&security=tls#[TRJ] %F0%9F%87%A8%F0%9F%87%B3CN-125.94.46.8-2558 %7C 462ms
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053/?type=tcp&security=tls#[TRJ] %F0%9F%87%A8%F0%9F%87%B3CN-125.94.46.8-2482 %7C 480ms
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@05.tokyometropolis.kiev.ua:2053?sni=45.32.28.232&type=tcp#[TRJ] JP %F0%9F%87%AF%F0%9F%87%B5 %7C @Raydikalx %7C 3EBF21 %7C 483ms
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@06.tokyometropolis.kyiv.ua:2053?sni=45.32.28.232&type=tcp#[TRJ] JP %F0%9F%87%AF%F0%9F%87%B5 %7C @Raydikalx %7C 7E60B7 %7C 484ms
+trojan://5453ae26-250d-4e79-b4ec-016baf806865@d05f4aa7-92b1-a659-e3b9-695dd2870b3c.131.pp.ua:443?sni=D05F4aA7-92B1-a659-E3b9-695Dd2870B3c.131.Pp.UA&type=tcp#[TRJ] FI %F0%9F%87%AB%F0%9F%87%AE %7C @Raydikalx %7C 9EE96B %7C 493ms
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053/?type=tcp&security=tls#[TRJ] %F0%9F%87%A8%F0%9F%87%B3CN-125.94.46.8-2631 %7C 497ms
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053/?type=tcp&security=tls#[TRJ] %F0%9F%87%A8%F0%9F%87%B3CN-125.94.46.8-2491 %7C 501ms
+trojan://aZsk43TyWBpjt%40A@vpn.qinfen180.cn:443/?type=tcp&security=tls&sni=vpn.qinfen180.cn#[TRJ] %E2%9A%A1Telegram = @prrofile_purple %7C 509ms
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@04.tokyometropolis.kherson.ua:2053?sni=45.32.28.232&type=tcp#[TRJ] JP %F0%9F%87%AF%F0%9F%87%B5 %7C @Raydikalx %7C BBA12A %7C 535ms
+trojan://Mitivpn@iranpoems.ir:443?security=tls&sni=cdn.gamingdll.ir&allowInsecure=1&type=ws&host=cdn.gamingdll.ir&path=%2F#[TRJ] %E7%BE%8E%E5%9B%BD-YouTube@%E5%B0%8F%E9%9D%92%E7%A7%91%E5%AD%A6%E7%BD%912042 %7C 550ms
+trojan://002023c45d18bca3eba2757bb683309a@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp#[TRJ] 4Nika-b1093cbb02 %7C 568ms
+trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.ddwhm.com:443?sni=sk.ylka.dpdns.org&peer=sk.ylka.dpdns.org&security=tls#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C A104F2 %7C 596ms
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@bbbnnmj.131.pp.ua:443?security=tls#[TRJ] FI %F0%9F%87%AB%F0%9F%87%AE %7C @Raydikalx %7C 46BABA %7C 619ms
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053/?type=tcp&security=tls#[TRJ] %F0%9F%87%A8%F0%9F%87%B3CN-125.94.46.8-2740 %7C 645ms
+trojan://8913df30-0340-11f0-865a-1239d0255272@arminuk.arminsjsklb.dynv6.net:443?security=tls&headerType=none&type=tcp&sni=www.speedtest.net#[TRJ] GB %F0%9F%87%AC%F0%9F%87%A7 %7C @Raydikalx %7C F9D63E %7C 1090ms
+trojan://owreRY1bmquS1WcYN2@78.142.194.38:443?security=tls&sni=nl-1.tr202605.com&type=tcp&allowInsecure=1#[TRJ] NL %F0%9F%87%B3%F0%9F%87%B1 %7C @Raydikalx %7C 88A5C2 %7C 1137ms
+trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@www.baidu.com:443/?type=tcp&security=tls&sni=%24%24www.baidu.com&allowInsecure=1#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 215A84 %7C 1140ms
+trojan://humanity@148.253.212.42:443?allowInsecure=1&sni=www.pleadcourt.org&type=ws&path=%2Fassignment&host=www.pleadcourt.orghttp%2F1.1#[TRJ] 4Jadi-9b44757713 %7C 1157ms
+trojan://humanity@144.31.205.106:443?allowInsecure=0&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#[TRJ] 4Sarina-80cf03842e %7C 1161ms
+trojan://b5a21d2a-6208-4e23-91ab-c2423c2ae362@tw2.microsoft-orgwly.vip:443?type=tcp&security=tls&sni=tls.microsoft-orgwly.vip&fp=chrome&alpn=http%2F1.1#[TRJ] TW %F0%9F%87%B9%F0%9F%87%BC %7C @Raydikalx %7C E1C4D2 %7C 1262ms
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall.com.ua:2053/?type=tcp&security=tls#[TRJ] %F0%9F%87%B0%F0%9F%87%B7KR-123.140.124.23-2678 %7C 1315ms
+trojan://NEHZp72yf2@dr-ping.ir:443?sni=dr-ping.ir&peer=dr-ping.ir&security=tls#[TRJ] NL %F0%9F%87%B3%F0%9F%87%B1 %7C @Raydikalx %7C 6C709F %7C 1523ms
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@nnnmjju.131.pp.ua:443?sni=nnnmjju.131.pp.ua&type=tcp#[TRJ] FI %F0%9F%87%AB%F0%9F%87%AE %7C @Raydikalx %7C 824722 %7C 2531ms
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@bbbnhj.131.pp.ua:443?security=tls#[TRJ] FI %F0%9F%87%AB%F0%9F%87%AE %7C @Raydikalx %7C 66715F %7C 3007ms
+trojan://!str18844@zxcvbn@os-tr-2.cats22.net:443#[TRJ] 336ms
+trojan://!str18844@zxcvbn@os-tr-5.cats22.net:443#[TRJ] 339ms
+trojan://!str18844@zxcvbn@os-tr-3.cats22.net:443#[TRJ] 340ms
+trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@upay.com:443?allowInsecure=0#[TRJ] 600ms
+trojan://0a906750-0f97-427b-969d-df235023c93b@16.163.194.6:443?allowInsecure=1&sni=data.amazon-azure.com#[TRJ] 179ms
+trojan://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.44.87:443/?type=ws&host=pardazeshvpn-tg7.p...&security=tls&sni=pardazeshvpn-tg7.pages.dev#[TRJ] 7ms
+trojan://0bc8c688-e142-4a64-8885-f8c7498f8a90@172.67.68.8:443?allowInsecure=1&sni=tro4replit.bunnylblbblbl.eu.org#[TRJ] 7ms
+trojan://0d89a36e-36bc-41d2-8bd3-bbd639991f29@206.238.236.187:2096/?type=tcp&security=tls#[TRJ] 10ms
+trojan://123456@194.233.88.107:443?allowInsecure=1&sni=trojan-ctb-sg01.globalssh.xyz#[TRJ] 215ms
+trojan://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@172.64.155.187:443/?type=tcp&security=tls#[TRJ] 10ms
+trojan://18844%40zxcvbn@49.212.204.123:443?allowInsecure=1&sni=os-tr-5.cats22.net#[TRJ] 140ms
+trojan://18844%40zxcvbn@49.212.178.155:443?allowInsecure=1&sni=os13.cats22.net#[TRJ] 143ms
+trojan://1bf36abe-aa32-41f5-9523-70d713645ba6@172.67.203.189:443/?type=ws&path=%2FChannel--SiNABiGO-SiNA...&security=tls&sni=sinabigo1.soft10.ir#[TRJ] 11ms
+trojan://1bf6a984-7e3b-4dbf-a920-297288b10ca3@usla.iamnotagoodman.com:443?allowInsecure=0#[TRJ] 297ms
+trojan://211f5876-8c89-4d97-9004-ff16acddd506@uk1.trojanvh.xyz:80?allowInsecure=0#[TRJ] 178ms
+trojan://21887810-2e7d-11ed-918b-1239d0255272@idtj-ikd.bonds.id:443?allowInsecure=0#[TRJ] 339ms
+trojan://1bf6a984-7e3b-4dbf-a920-297288b10ca3@ru.iamnotagoodman.com:443?allowInsecure=0&sni=ru.iamnotagoodman.com#[TRJ] 288ms
+trojan://239dd177-86d8-4752-b311-054668080798@cn2hn.sub-nthu.com:35002#[TRJ] 283ms
+trojan://28d98ac5a3ef0-b4ab-11eb-b65e-1239d0255272@ca-trojan.bonds.id:443?allowInsecure=0#[TRJ] 172ms
+trojan://28d98f761aca9d636f44db62544628eb@184.168.127.50:443?allowInsecure=0#[TRJ] 197ms
+trojan://28bccca2-43d2-47f8-bd63-b1361ce7d362@ussj.iamnotagoodman.com:443#[TRJ] 300ms
+trojan://2YDH6ktJOt@172.67.161.74:8443/?type=ws&host=support.sabapardaziran.ir&path=%2F%40M3...&security=tls&sni=support.sabapardaziran.ir#[TRJ] 9ms
+trojan://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@www.speedtest.net:80/?type=tcp&security=tls#[TRJ] 33ms
+trojan://2e260cd3-53a7-36d2-b2f4-7046ff428ff9@us.dogintnode.com:443?allowInsecure=1&sni=us.dogintnode.com#[TRJ] 80ms
+trojan://2ea5fc44-bd38-4fb0-a9b9-88c83fc56622@194.146.26.40:443?allowInsecure=1&sni=4-193-105-141.nhost.00cdn.com#[TRJ] 146ms
+trojan://36ebef7d1b1d6205fd0c55f28800e674@72.167.45.6:443#[TRJ] 45ms
+trojan://36d9d131-6319-4758-b4ce-3011f0afc72a@hkt.iamnotagoodman.com:443#[TRJ] 305ms
+trojan://36d9d131-6319-4758-b4ce-3011f0afc72a@jp.iamnotagoodman.com:443#[TRJ] 310ms
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@kh.iamnotagoodman.com:443#[TRJ] 267ms
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@sg.iamnotagoodman.com:443#[TRJ] 262ms
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@lux.iamnotagoodman.com:443#[TRJ] 269ms
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@kr.iamnotagoodman.com:443#[TRJ] 307ms
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@vn.iamnotagoodman.com:443#[TRJ] 308ms
+trojan://5Va4g9kI9!WY@104.21.71.8:2087/?type=tcp&security=tls#[TRJ] 10ms
+trojan://5fdb26b6-fac9-4fe2-8cb3-c0ecd6a1847d@16.162.210.114:443?allowInsecure=1&sni=data.amazon-azure.com#[TRJ] 180ms
+trojan://640e3ef0-9c44-49a8-98f6-0895b11eecd6@54.67.99.40:443?allowInsecure=1&sni=t03.ssrsub.com.xyz#[TRJ] 39ms
+trojan://640e3ef0-9c44-49a8-98f6-0895b11eecd6@t03.ssrsub.com.xyz:443?allowInsecure=0#[TRJ] 154ms
+trojan://64e4a3ac-7699-4614-9c53-9e1da3dccf5a@611hk01.fans8.xyz:443#[TRJ] 176ms
+trojan://6593b778-e45e-4f94-b5ae-641d4b7b02ae@103.224.182.210:443?allowInsecure=1&sni=32.earths.team#[TRJ] 53ms
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.237:443/?type=ws&host=icecream.955850.xyz&security=tls&sni=icecream.955850.xyz&allowInsecure=1#[TRJ] 6ms
+trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.204.84:8443/?type=ws&host=vfarid.xcdi.woRkers...&security=tls&sni=vfarid.xcdi.woRkers.DeV#[TRJ] 7ms
+trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.68.157:2053/?type=ws&host=vfarid.xcdi.woRkeRS...&security=tls&sni=vfarid.xcdi.woRkeRS.deV#[TRJ] 9ms
+trojan://7118b5f4-0ea4-4c11-be7f-11471cb91e4a@144.24.72.126:443?allowInsecure=1#[TRJ] 207ms
+trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443?allowInsecure=1&sni=in.stablize.top#[TRJ] 136ms
+trojan://7e6256a0-b4ab-11eb-bc8f-1239d0255272@nl-trojan.bonds.id:443?allowInsecure=0#[TRJ] 238ms
+trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@31.72img.xyz:443?allowInsecure=0#[TRJ] 126ms
+trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@32.72img.xyz:443?allowInsecure=0#[TRJ] 133ms
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.61:443/?type=tcp&security=tls#[TRJ] 8ms
+trojan://8b6daf15-8342-482d-b894-1239fd98ce7f@149.56.141.11:443?allowInsecure=1#[TRJ] 38ms
+trojan://83c66e32-1934-4b54-bd41-6f9908352162@146.190.90.40:443?allowInsecure=1&sni=sg.hktkcloud.cloud#[TRJ] 198ms
+trojan://9879f2da-5bb6-41c3-af04-0770332f34f5@16.162.45.199:443?allowInsecure=1&sni=dl-hk5.steamdownload.top#[TRJ] 182ms
+trojan://Aimer@104.26.15.138:2053/?type=tcp&security=t...#[TRJ] 6ms
+trojan://Aimer@108.165.152.25:2087/?type=tcp&security=tls#[TRJ] 7ms
+trojan://Aimer@162.159.38.101:2096/?type=tcp&security=...#[TRJ] 7ms
+trojan://IY4gWQIsHV@172.67.202.155:2087/?type=httpupgrade&host=Freedomisnear.onetwothree12...&security=tls&sni=Freedomisnear.onetwothree123.ir#[TRJ] 13ms
+trojan://HTrovQkamDxNfaD5@185.253.46.69:443?allowInsecure=1&sni=cz5.v2ce.com#[TRJ] 132ms
+trojan://McCPa4vups6yAdDbGokjPA@104.21.22.66:2096/?type=tcp&security=tls#[TRJ] 16ms
+trojan://NISHIKUITAN111@104.18.255.98:443/?type=tcp&security=tls#[TRJ] 7ms
+trojan://NISHIKUITAN111@108.162.193.32:443/?type=tcp&security=tls#[TRJ] 7ms
+trojan://NISHIKUITAN111@154.197.75.171:443/?type=ws&security=tls#[TRJ] 6ms
+trojan://NISHIKUITAN111@172.67.231.25:443/?type=tcp&security=tls#[TRJ] 7ms
+trojan://NISHIKUITAN111@172.67.240.19:443/?type=tcp&security=tls#[TRJ] 6ms
+trojan://NISHIKUITAN111@45.131.209.89:443/?type=tcp&security=tls#[TRJ] 9ms
+trojan://NISHIKUITAN222@104.21.229.224:443/?type=tcp&security=tls#[TRJ] 10ms
+trojan://NISHIKUITAN222@162.159.19.17:443/?type=tcp&security=tls#[TRJ] 7ms
+trojan://NuL1nBAAaM@172.67.161.74:2083/?type=ws&host=support.sabapardaziran.ir&path=%2F%40M3...&security=tls&sni=support.sabapardaziran.ir#[TRJ] 7ms
+trojan://Telegram-DailyConfigs@104.18.14.8:443/?type=ws&security=tls#[TRJ] 6ms
+trojan://Watashi_VPN@104.18.13.229:8443/?type=ws&security=tls#[TRJ] 7ms
+trojan://Watashi_VPN@104.18.13.229:2053/?type=ws&host=t-watashi-r-jacket-o...&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#[TRJ] 9ms
+trojan://WpfQAbO2wg@45.9.10.103:443?allowInsecure=1#[TRJ] 40ms
+trojan://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@51.161.118.38:443?allowInsecure=0#[TRJ] 34ms
+trojan://a2940130-1c92-11ed-aebe-1239d0255272@sg8-trojan.bonds.id:443?allowInsecure=0#[TRJ] 232ms
+trojan://a7d74730-78d3-11ee-97b3-1239d0255272@15.204.240.119:443?security=tls&type=tcp&headerType=none#[TRJ] 30ms
+trojan://a4408756-1d34-4df0-a6c9-e63226e0ab93@203.159.92.232:443?allowInsecure=1&sni=data.amazon-azure.com#[TRJ] 226ms
+trojan://auto@104.18.41.190:443/?type=ws&host=trojanf...&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&security=tls&sni=trojanfree-76s.pages.dev#[TRJ] 7ms
+trojan://auto@104.19.223.79:443/?type=ws&host=trojanf...&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&security=tls&sni=trojanfree-76s.pages.dev#[TRJ] 6ms
+trojan://auto@104.20.17.178:443/?type=w...&security=tls#[TRJ] 6ms
+trojan://auto@104.20.17.180:443/?type=ws&security=tls#[TRJ] 6ms
+trojan://auto@104.20.19.157:443/?type=...&security=tls#[TRJ] 7ms
+trojan://auto@104.20.19.232:443/?type=ws&security=tls#[TRJ] 9ms
+trojan://auto@104.20.19.48:443/?type=w...&security=tls#[TRJ] 7ms
+trojan://auto@104.20.21.186:443/?type=ws...&security=tls#[TRJ] 10ms
+trojan://auto@104.21.35.43:443/?type=ws&host=esetsecuritylicense3.w...&path=%2F&security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev#[TRJ] 10ms
+trojan://auto@159.246.55.132:443/?type=tcp&security=tl...#[TRJ] 9ms
+trojan://auto@162.159.44.154:443/?type=ws&host=trojan...&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&security=tls&sni=trojanfree-76s.pages.dev#[TRJ] 6ms
+trojan://auto@188.114.99.222:443/?type=ws...&security=tls#[TRJ] 9ms
+trojan://blue2024@104.17.71.31:443/?type=tcp&security=tls#[TRJ] 11ms
+trojan://blue2024@104.20.8.70:443/?type=tcp&security=tls#[TRJ] 14ms
+trojan://bpb-trojan@172.66.47.100:2053/?type=ws&security=tls#[TRJ] 9ms
+trojan://bpb-trojan@172.67.173.143:443/?type=ws&security=tls#[TRJ] 10ms
+trojan://bpb-trojan@172.67.153.198:2083/?type=tcp&security=tls#[TRJ] 15ms
+trojan://bpb-trojan@172.67.180.238:443/?type=ws&host=403b3611-99bc-43b7-8...&security=tls&sni=403b3611-99BC-43B7-88d7-26eD5D0825A9-3.PAges.DEV#[TRJ] 9ms
+trojan://bpb-trojan@185.162.229.179:443/?type=tcp&security=tls#[TRJ] 8ms
+trojan://bpb-trojan@188.114.99.208:2053/?type=tcp&security=tls#[TRJ] 7ms
+trojan://bpb-trojan@190.93.245.69:443/?type=ws&security=tls#[TRJ] 8ms
+trojan://bpb-trojan@188.114.98.89:443/?type=ws&host=bpB-woR...&path=%2FtrBLUKS93cpgZZCas5%3Fed&security=tls&sni=bpB-woRker-PanEL-AY6.pagEs.dev#[TRJ] 13ms
+trojan://bpb-trojan@23.227.60.8:443/?type=tcp&security=...#[TRJ] 6ms
+trojan://d6b6ea41-0950-4611-8246-224583e4ed1e@151.101.2.228:443/?type=ws&path=ws%2F%3Fed%3D2048&security=tls&sni=pscresearch.faculty.ucdavis.edu#[TRJ] 9ms
+trojan://dns68@104.21.92.73:443/?type=tcp&security=tls#[TRJ] 12ms
+trojan://e0597322-b0d8-4afb-960a-39d5cbd7bd8e@178.239.171.103:443?allowInsecure=1&sni=wfi.sahnama.com#[TRJ] 114ms
+trojan://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443/?type=ws&host=dc1bf227.vf-8co.pa...&security=tls&sni=dc1bf227.vf-8co.pages.dev#[TRJ] 9ms
+trojan://f3389204-7adb-45d8-906c-c17792336574@20.205.235.145:443#[TRJ] 198ms
+trojan://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.178:443/?type=tcp&security=tls#[TRJ] 8ms
+trojan://f64e69c0-e7b7-11ec-ab81-1239d0255272@w11.udpgw.com:443?allowInsecure=0#[TRJ] 223ms
+trojan://iyinglong@18.140.67.76:443?allowInsecure=0#[TRJ] 209ms
+trojan://qhVUwyWuPbYCYH5Dum@45.90.208.21:443#[TRJ] 177ms
+trojan://tg-dns68@162.159.152.66:443/?type=tcp&security=tls#[TRJ] 8ms
+trojan://tg-dns68@162.159.153.109:443/?type=tcp&security=tls#[TRJ] 7ms
+trojan://vGWCNNfBHwSY6m6M@185.253.46.40:443#[TRJ] 120ms
+trojan://vs6f8hvt@104.17.246.203:2053/?type=ws&security=tls#[TRJ] 12ms
+trojan://xxoo@138.124.183.216:443?allowInsecure=0#[TRJ] 145ms
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.113:443?sni=api.searchnationwidecareerchangehelperandguidancetoday.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 4AC1E7
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.25:443?sni=cdn.searchnationwidecareerchangehelperandguidancetoday.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 86F297
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?allowInsecure=1&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 74D9AB
+trojan://5t6i121em5lkmsmk@216.128.185.90:46977?type=tcp&security=tls&sni=ca001.zestapp778.com&fp=firefox#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 5B0528
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?sni=learn.nextjobopportunityandclaimyouridealrole.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 61BFA5
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C DF2334
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C B73860
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.19:443?sni=learn.explorecreativejobsandenhanceyourcareerportfolio.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C C23131
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.211:443?security=tls&sni=api.explorecreativejobsandenhanceyourcareerportfolio.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 18FC9B
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?sni=courses.nextjobopportunityandclaimyouridealrole.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 3DAA21
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?sni=www.explorecreativejobsandenhanceyourcareerportfolio.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 949227
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.19:443?security=tls&sni=learn.explorecreativejobsandenhanceyourcareerportfolio.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 6E20D3
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.201:443?sni=resources.connectingpeoplewithgreatjobs.com&type=tcp#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C B897AE
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.112:443?sni=resources.explorecreativejobsandenhanceyourcareerportfolio.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C BB9EC6
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 3DB93D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.67:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.explorecreativejobsandenhanceyourcareerportfolio.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C C68569
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.59:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.nextjobopportunityandclaimyouridealrole.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C BDAD90
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.connectingpeoplewithgreatjobs.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 735E00
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?sni=courses.connectingpeoplewithgreatjobs.com&type=tcp#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 09103E
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?allowInsecure=1&sni=blog.connectingpeoplewithgreatjobs.com&type=tcp#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 168319
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?sni=connectingpeoplewithgreatjobs.com&type=tcp#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 540A40
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443?security=tls&sni=resources.nextjobopportunityandclaimyouridealrole.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 5BA270
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.67:443?sni=courses.explorecreativejobsandenhanceyourcareerportfolio.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C D9696F
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&sni=learn.connectingpeoplewithgreatjobs.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C A9E2DE
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?sni=api.connectingpeoplewithgreatjobs.com&type=tcp#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 7C5A8D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?sni=learn.connectingpeoplewithgreatjobs.com&type=tcp#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 65E3BE
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 11B948
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?sni=cdn.connectingpeoplewithgreatjobs.com&type=tcp#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 6CB1D6
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.59:443?sni=api.nextjobopportunityandclaimyouridealrole.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 815D87
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.connectingpeoplewithgreatjobs.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C CBBAAB
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.112:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.explorecreativejobsandenhanceyourcareerportfolio.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 62617D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C FE1AD2
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connectingpeoplewithgreatjobs.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 6B3EB5
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&sni=blog.nextjobopportunityandclaimyouridealrole.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 672864
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?security=tls&sni=api.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C E9E3E3
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 7D19A9
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?allowInsecure=1&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 8051E9
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C BD39DD
+trojan://5t6i121em5lkmsmk@ca001.zestapp778.com:46977?type=tcp&security=tls&fp=chrome&sni=ca001.zestapp778.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 76F0F6
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 9E1F5F
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?sni=api.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 881B69
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C FB5613
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 0CB14F
+trojan://5t6i121em5lkmsmk@us007.zestapp778.com:42314?type=tcp&security=tls&fp=chrome&sni=us007.zestapp778.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 68261F
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 0D4A22
+trojan://5t6i121em5lkmsmk@us007.zestapp778.com:42314?allowInsecure=1&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C AEAA37
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 0567AA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.224:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discoverfreshgraduatejobsstartyourprofessionaljourney.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C D1D01E
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 736062
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.224:443?sni=resources.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C F77BD3
+trojan://5t6i121em5lkmsmk@us007.zestapp778.com:42314?sni=us007.zestapp778.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 98BD54
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?allowInsecure=1&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C D9D90E
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?security=tls&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C DC936D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.49:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C A75581
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?allowInsecure=1&sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C C14CE3
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C B15715
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?allowInsecure=1&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C D0B12B
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.49:443?allowInsecure=1&sni=cdn.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C F7C394
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?security=tls&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 17A12B
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?security=tls&sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 5098B4
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?allowInsecure=1&sni=blog.nextjobopportunityandclaimyouridealrole.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C B143E4
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.114:443?security=tls&sni=learn.findconnectwithemployersandbuildprofessionalnetwork.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 7BBD64
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.45:443?sni=cdn.findconnectwithemployersandbuildprofessionalnetwork.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 4538E8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.126:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findconnectwithemployersandbuildprofessionalnetwork.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C AF7392
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?allowInsecure=1&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C FFA00A
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.126:443?sni=resources.findconnectwithemployersandbuildprofessionalnetwork.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 8BF190
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.106:443?sni=www.findconnectwithemployersandbuildprofessionalnetwork.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 3274C4
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?security=tls&sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C D6E3E8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.114:443?sni=learn.findconnectwithemployersandbuildprofessionalnetwork.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 741BF9
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.245:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findconnectwithemployersandbuildprofessionalnetwork.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C DBEC79
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?sni=connectwithtopemployersandfindidealjobs.com&type=tcp#[TRJ] MX %F0%9F%87%B2%F0%9F%87%BD %7C @Raydikalx %7C 055C21
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.45:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.findconnectwithemployersandbuildprofessionalnetwork.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C BFD934
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.245:443?allowInsecure=1&sni=findconnectwithemployersandbuildprofessionalnetwork.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C D13F6E
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=connectwithtopemployersandfindidealjobs.com#[TRJ] MX %F0%9F%87%B2%F0%9F%87%BD %7C @Raydikalx %7C 48F311
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 1F99DB
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.unlockyourfuturefindyourperfectcareer.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 19F681
+trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp&headerType=none#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 1DFFCE
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C C4ED52
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?allowInsecure=0&sni=blog.unlockyourfuturefindyourperfectcareer.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C E41C76
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.147:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.unlockyourfuturefindyourperfectcareer.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 4D2B08
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.unlockyourfuturefindyourperfectcareer.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C E9654D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?sni=resources.unlockyourfuturefindyourperfectcareer.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 4D517A
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.142:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.unlockyourfuturefindyourperfectcareer.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 73E29E
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.76:443?allowInsecure=1&sni=api.unlockyourfuturefindyourperfectcareer.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 9BDFE6
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 20635B
+trojan://f0eb8c92ce8946aaba856569cff1a16b@216.106.186.33:443?sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 6A2478
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.142:443?allowInsecure=1&sni=cdn.unlockyourfuturefindyourperfectcareer.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C B1D7F7
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 001B88
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C E43558
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 2546A8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.unlockyourfuturefindyourperfectcareer.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C D24747
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.171:443?sni=learn.unlockyourfuturefindyourperfectcareer.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 684C69
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@216.106.186.66:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 280D3F
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&type=tcp&headerType=none#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C B8CE94
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?sni=www.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 947D06
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.175:443?sni=blog.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C D36BFB
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?sni=cdn.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 00771D
+trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 49B65F
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.31:443?sni=unlockyourfuturefindyourperfectcareer.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 1BAF48
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=browseseniorrolesandenhanceyourcareertoday.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 9F4C93
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?sni=browseseniorrolesandenhanceyourcareertoday.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 796A40
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.76:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.unlockyourfuturefindyourperfectcareer.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 80BAA3
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 243E4F
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?security=tls&sni=api.browseseniorrolesandenhanceyourcareertoday.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C E55E18
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.85:443?sni=resources.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C C55613
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.175:443?security=tls&sni=blog.browseseniorrolesandenhanceyourcareertoday.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 223C95
+trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 5FAD98
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?sni=api.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 8DA169
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.147:443?allowInsecure=1&sni=courses.unlockyourfuturefindyourperfectcareer.com&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C C81AF3
+trojan://va3E77I9fZCnCVcGKkxBCfz5@186.241.105.213:443?sni=vpn.liumr.top&type=tcp#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 4F24B2
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?type=tcp#[TRJ] MX %F0%9F%87%B2%F0%9F%87%BD %7C @Raydikalx %7C 4A012F
+trojan://5t6i121em5lkmsmk@mx001.zestapp778.com:15083?allowInsecure=1&sni=mx001.zestapp778.com&type=tcp#[TRJ] MX %F0%9F%87%B2%F0%9F%87%BD %7C @Raydikalx %7C 550EF9
+trojan://5t6i121em5lkmsmk@fr001.zestapp778.com:16778?sni=fr001.zestapp778.com&allowInsecure=1&type=tcp#[TRJ] FR %F0%9F%87%AB%F0%9F%87%B7 %7C @Raydikalx %7C F8A04C
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.iloverussia2026.com#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 94738A
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?allowInsecure=1&sni=courses.iloverussia2026.com&type=tcp#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C F81FC5
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 81B423
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&sni=courses.iloverussia2026.com#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 2288F7
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?sni=resources.iloverussia2026.com&type=tcp#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 33F8BE
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.iloverussia2026.com#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 212FAF
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&sni=learn.discovergreatjobsandadvanceyourcareer.com#[TRJ] ES %F0%9F%87%AA%F0%9F%87%B8 %7C @Raydikalx %7C 4AC48F
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?sni=learn.iloverussia2026.com&type=tcp#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C B194A8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.29:443?sni=blog.iloverussia2026.com&type=tcp#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 1921E5
+trojan://humanity@104.18.37.127:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C F32429
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C B69AB6
+trojan://humanity@104.20.55.137:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 6008A9
+trojan://humanity@104.16.223.61:443?security=tls&sni=www.trusteeforward.com&fp=chrome&type=ws&host=www.trusteeforward.com&path=%2Fassignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C C04DD5
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?insecure=0&type=tcp&headerType=none&security=tls&sni=courses.discovergreatjobsandadvanceyourcareer.com&allowInsecure=0#[TRJ] ES %F0%9F%87%AA%F0%9F%87%B8 %7C @Raydikalx %7C 2712B5
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.iloverussia2026.com#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 96E469
+trojan://humanity@104.18.37.127:443?path=/assignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C B0F04A
+trojan://humanity@188.114.98.0:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment?ed#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 95FC10
+trojan://humanity@104.21.102.36:443?cs=semi-python&path=/assignment?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C D93F51
+trojan://humanity@172.67.161.247:443?path=/assignment?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C B39D19
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 40DA7F
+trojan://humanity@45.128.76.242:443?path=%2Fassignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 15F711
+trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 1EFE59
+trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 289A9F
+trojan://humanity@104.18.49.85:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 785DD9
+trojan://humanity@188.114.98.0:443?path=%2F%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C B00480
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#[TRJ] ES %F0%9F%87%AA%F0%9F%87%B8 %7C @Raydikalx %7C 2A8C03
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 999EB2
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&sni=api.discovergreatjobsandadvanceyourcareer.com#[TRJ] ES %F0%9F%87%AA%F0%9F%87%B8 %7C @Raydikalx %7C 15FDDA
+trojan://humanity@172.66.40.99:443?path=/assignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 79D315
+trojan://humanity@45.128.76.242:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C DD7B6B
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?sni=browseexecutivejobopeningsandenhanceleadershipcareer.com&type=tcp#[TRJ] PL %F0%9F%87%B5%F0%9F%87%B1 %7C @Raydikalx %7C 2C8E24
+trojan://humanity@104.17.206.147:443?security=tls&sni=www.trusteeforward.com&fp=chrome&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 699C2E
+trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 343F0F
+trojan://humanity@104.16.34.14:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 0B7985
+trojan://humanity@172.66.40.99:443?security=tls&sni=www.trusteeforward.com&fp=firefox&alpn=http%2F1.1&type=ws&host=www.trusteeforward.com&path=%2Fassignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 37CED8
+trojan://humanity@8.6.112.206:443?path=/assignment&security=tls&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 304A71
+trojan://humanity@172.67.203.46:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.cordweave.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C BE6FE0
+trojan://humanity@162.159.84.189:443?path=/assignment&security=tls&alpn=http/1.1&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C A337E6
+trojan://humanity@188.114.98.0:443?allowInsecure=0&security=tls&insecure=0&alpn=http/1.1&host=www.calmlunch.com&type=ws&fp=chrome&sni=www.calmlunch.com&ech=cloudflare-ech.com+udp://1.1.1.1&path=/assignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 807CC2
+trojan://humanity@104.16.72.2:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 82D1D2
+trojan://humanity@172.67.203.46:443?allowInsecure=0&sni=www.cordweave.com&alpn=http/1.1&type=ws&path=/assignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C C882C4
+trojan://humanity@104.16.72.41:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 8B60FE
+trojan://humanity@45.128.76.242:443?path=/assignment?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 557AB1
+trojan://humanity@141.101.115.104:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C C8CB3D
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?sni=www.yourultimateprofessionalcareerhub.com&type=tcp#[TRJ] CH %F0%9F%87%A8%F0%9F%87%AD %7C @Raydikalx %7C 252CA9
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?sni=resources.yourultimateprofessionalcareerhub.com&type=tcp#[TRJ] CH %F0%9F%87%A8%F0%9F%87%AD %7C @Raydikalx %7C DA2ACE
+trojan://humanity@172.66.0.172:443?security=tls&sni=www.cordweave.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 80CB28
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&headerType=none&type=tcp&allowInsecure=1&sni=www.yourultimateprofessionalcareerhub.com#[TRJ] CH %F0%9F%87%A8%F0%9F%87%AD %7C @Raydikalx %7C 0EB917
+trojan://humanity@162.159.84.189:443?host=www.trusteeforward.com&path=%2Fassignment&security=tls&sni=www.trusteeforward.com&type=ws#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 837FD9
+trojan://humanity@172.66.40.99:443?allowInsecure=1&sni=www.trusteeforward.com&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C DEFE05
+trojan://humanity@104.18.19.2:443?path=%2F%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 5CDA48
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com#[TRJ] CH %F0%9F%87%A8%F0%9F%87%AD %7C @Raydikalx %7C 50D925
+trojan://humanity@104.18.33.97:443?cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&path=%2F%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=www.calmlunch.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 0508C7
+trojan://humanity@104.16.71.213:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 0E6145
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?sni=learn.yourultimateprofessionalcareerhub.com&type=tcp#[TRJ] CH %F0%9F%87%A8%F0%9F%87%AD %7C @Raydikalx %7C 894BDE
+trojan://humanity@141.101.115.104:443?type=ws&security=tls&sni=www.calmlunch.com&alpn=http/1.1&ech=dolts.ir+udp://1.1.1.1&host=www.calmlunch.com&path=/assignment#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 2874C9
+trojan://humanity@162.159.133.152:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 446744
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 678143
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 4FA27D
+trojan://humanity@95.85.32.57:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] NL %F0%9F%87%B3%F0%9F%87%B1 %7C @Raydikalx %7C 887CA5
+trojan://humanity@172.64.145.133:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C DA0B9C
+trojan://humanity@188.114.97.3:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 009075
+trojan://humanity@88.216.69.253:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] LT %F0%9F%87%B1%F0%9F%87%B9 %7C @Raydikalx %7C 658201
+trojan://humanity@104.17.121.43:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C C89678
+trojan://humanity@104.18.12.149:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C B314DB
+trojan://humanity@190.93.245.148:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CR %F0%9F%87%A8%F0%9F%87%B7 %7C @Raydikalx %7C 9AD2A3
+trojan://humanity@104.17.121.9:443?allowInsecure=1&sni=www.calmlunch.com&alpn=http/1.1&type=ws&host=www.calmlunch.com&path=/assignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 0B186C
+trojan://humanity@8.47.69.60:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C A6F110
+trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 9E1B7C
+trojan://humanity@109.234.211.232:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] ES %F0%9F%87%AA%F0%9F%87%B8 %7C @Raydikalx %7C B76CDE
+trojan://humanity@188.114.97.4:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 607B09
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&fm={"tcp":[{"settings":{"packets":"tlshello","lengths":["0","104"]},"type":"fragment"}]}&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C E8E89B
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?allowInsecure=1&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com&type=tcp#[TRJ] BR %F0%9F%87%A7%F0%9F%87%B7 %7C @Raydikalx %7C BE7C66
+trojan://humanity@104.16.72.50:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C EE9410
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#[TRJ] BR %F0%9F%87%A7%F0%9F%87%B7 %7C @Raydikalx %7C C8B193
+trojan://humanity@154.81.141.42:443?host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 1A78A1
+trojan://humanity@188.114.97.8:443?path=/assignment&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C C69FEB
+trojan://humanity@162.159.253.41:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 0CE264
+trojan://humanity@8.47.69.60:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 0F756E
+trojan://humanity@162.159.133.152:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C EED0AC
+trojan://humanity@188.114.97.2:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C FA3825
+trojan://humanity@104.27.203.207:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 234D06
+trojan://humanity@188.114.97.4:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 254908
+trojan://humanity@104.18.9.83:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C B32A27
+trojan://humanity@188.226.181.61:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] NL %F0%9F%87%B3%F0%9F%87%B1 %7C @Raydikalx %7C 0EBE29
+trojan://humanity@164.92.223.252:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] NL %F0%9F%87%B3%F0%9F%87%B1 %7C @Raydikalx %7C FF89E2
+trojan://humanity@104.17.121.71:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 9A9CCD
+trojan://humanity@104.19.229.21:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 8BEFD8
+trojan://humanity@104.27.201.80:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C D7B491
+trojan://humanity@162.159.253.41:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 37A986
+trojan://humanity@104.17.148.22:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C E49434
+trojan://humanity@188.114.97.6:443?host=www.calmlunch.com&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C C414EC
+trojan://humanity@162.159.140.245:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C EFF5D6
+trojan://humanity@104.18.8.83:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C AE6904
+trojan://humanity@104.21.33.59:443?type=ws&security=tls&sni=www.pleadcourt.org&alpn=http%2F1.1&fp=unsafe&path=%2Fassignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C C67F35
+trojan://humanity@172.66.1.36:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 24F8FF
+trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&host=www.pleadcourt.org&fp=chrome&type=ws&sni=www.pleadcourt.org#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 9E825B
+trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 5D1251
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#[TRJ] CL %F0%9F%87%A8%F0%9F%87%B1 %7C @Raydikalx %7C 1C085E
+trojan://humanity@104.16.6.70:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 4A5227
+trojan://humanity@188.114.97.6:443?path=//assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 9CE4BA
+trojan://humanity@104.17.147.22:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment&allowInsecure=0#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 180650
+trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 832341
+trojan://humanity@162.159.228.224:443?sni=www.pleadcourt.org&fp=unsafe&alpn=http/1.1&type=ws&path=/assignment&host=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 24BA08
+trojan://humanity@162.159.244.91:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 4D9FA3
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=edge&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 0887F2
+trojan://humanity@104.25.0.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&alpn=http/1.1&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C F6D4A4
+trojan://humanity@188.114.97.1:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 83D971
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?sni=advanceyouremploymentskillsandcareerdevelopmenthub.com&type=tcp#[TRJ] CL %F0%9F%87%A8%F0%9F%87%B1 %7C @Raydikalx %7C 3679D3
+trojan://humanity@89.150.34.41:2053?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] NL %F0%9F%87%B3%F0%9F%87%B1 %7C @Raydikalx %7C 94090C
+trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?type=tcp&security=tls&fp=chrome&sni=br001.zestapp778.com#[TRJ] BR %F0%9F%87%A7%F0%9F%87%B7 %7C @Raydikalx %7C 245197
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?security=tls&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com&type=tcp#[TRJ] IL %F0%9F%87%AE%F0%9F%87%B1 %7C @Raydikalx %7C 60EE8A
+trojan://humanity@45.87.41.18:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#[TRJ] NL %F0%9F%87%B3%F0%9F%87%B1 %7C @Raydikalx %7C 9C10CA
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#[TRJ] ES %F0%9F%87%AA%F0%9F%87%B8 %7C @Raydikalx %7C BBA4E7
+trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C BC3972
+trojan://humanity@154.81.141.42:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C 900FE1
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104"]}}]}&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C CCD0F3
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C FDD0CF
+trojan://humanity@172.67.231.254:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&host=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 780E75
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=1&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com&type=tcp#[TRJ] IL %F0%9F%87%AE%F0%9F%87%B1 %7C @Raydikalx %7C 7C445A
+trojan://humanity@104.21.103.254:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C ADE121
+trojan://humanity@89.150.34.41:2053?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#[TRJ] NL %F0%9F%87%B3%F0%9F%87%B1 %7C @Raydikalx %7C 8353DB
+trojan://humanity@104.17.44.17:443?path=/assignment?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C F8F560
+trojan://humanity@104.20.61.103:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 5D836C
+trojan://humanity@104.21.103.254:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C FEA7B7
+trojan://humanity@185.114.72.31:2053?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#[TRJ] ES %F0%9F%87%AA%F0%9F%87%B8 %7C @Raydikalx %7C EF4486
+trojan://humanity@172.64.145.133:443?path=%2Fassignment&security=tls&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 80C50C
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 9E7EBE
+trojan://humanity@212.183.88.136:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#[TRJ] AT %F0%9F%87%A6%F0%9F%87%B9 %7C @Raydikalx %7C BE2A03
+trojan://humanity@172.64.190.13:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C F2F929
+trojan://humanity@91.245.225.79:2053?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#[TRJ] CH %F0%9F%87%A8%F0%9F%87%AD %7C @Raydikalx %7C D33792
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] ES %F0%9F%87%AA%F0%9F%87%B8 %7C @Raydikalx %7C D6C206
+trojan://humanity@104.25.108.234:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C FB9F41
+trojan://humanity@172.64.150.28:443?type=ws&security=tls&sni=www.calmlunch.com&host=www.calmlunch.com&path=/assignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 0B02EB
+trojan://humanity@104.19.64.105:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C CF2AEC
+trojan://humanity@166.1.36.83:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 1C6B40
+trojan://humanity@104.19.95.153:443?type=ws&path=/assignment&host=www.calmlunch.com&security=tls&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C EA07E3
+trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] AT %F0%9F%87%A6%F0%9F%87%B9 %7C @Raydikalx %7C 8BFCF0
+trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 53A455
+trojan://humanity@95.85.54.197:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] NL %F0%9F%87%B3%F0%9F%87%B1 %7C @Raydikalx %7C FD0121
+trojan://humanity@212.227.90.142:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] ES %F0%9F%87%AA%F0%9F%87%B8 %7C @Raydikalx %7C 98638A
+trojan://humanity@45.130.125.18:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#[TRJ] SC %F0%9F%87%B8%F0%9F%87%A8 %7C @Raydikalx %7C 0E75BB
+trojan://humanity@162.159.91.211:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&host=www.calmlunch.com&path=/assignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C E4B363
+trojan://humanity@162.159.91.211:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 196E72
+trojan://humanity@45.130.125.75:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#[TRJ] SC %F0%9F%87%B8%F0%9F%87%A8 %7C @Raydikalx %7C 16957B
+trojan://humanity@172.67.200.219:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 1152D1
+trojan://humanity@45.130.125.190:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&host=www.calmlunch.com#[TRJ] SC %F0%9F%87%B8%F0%9F%87%A8 %7C @Raydikalx %7C 8DEF76
+trojan://humanity@138.68.131.253:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] GB %F0%9F%87%AC%F0%9F%87%A7 %7C @Raydikalx %7C DA2BBB
+trojan://humanity@172.67.200.219:443?type=ws&security=tls&sni=www.calmlunch.com&fp=chrome&path=%2Fassignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C E3EA2D
+trojan://humanity@212.183.88.136:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] AT %F0%9F%87%A6%F0%9F%87%B9 %7C @Raydikalx %7C DC0C67
+trojan://humanity@64.227.115.28:443?security=tls&sni=www.pleadcourt.org&type=ws&path=/assignment#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 99F343
+trojan://humanity@172.67.217.240:443?security=tls&sni=www.calmlunch.com&fp=unsafe&type=ws&host=www.calmlunch.com&path=%2Fassignment#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 05ECA0
+trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 526D68
+trojan://humanity@172.67.231.254:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 1DB02C
+trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#[TRJ] SC %F0%9F%87%B8%F0%9F%87%A8 %7C @Raydikalx %7C 4A9E9D
+trojan://humanity@45.130.125.69:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#[TRJ] SC %F0%9F%87%B8%F0%9F%87%A8 %7C @Raydikalx %7C 7A773D
+trojan://humanity@148.253.212.42:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] PL %F0%9F%87%B5%F0%9F%87%B1 %7C @Raydikalx %7C 370B61
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2F%252Fassignment&sni=www.calmlunch.com&type=ws#[TRJ] AT %F0%9F%87%A6%F0%9F%87%B9 %7C @Raydikalx %7C CC7268
+trojan://humanity@161.35.192.122:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C B9C91A
+trojan://humanity@45.130.125.160:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#[TRJ] SC %F0%9F%87%B8%F0%9F%87%A8 %7C @Raydikalx %7C 62C09D
+trojan://humanity@104.18.45.38:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C F3A4FF
+trojan://humanity@45.130.125.126:443/?fp=firefox&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#[TRJ] SC %F0%9F%87%B8%F0%9F%87%A8 %7C @Raydikalx %7C 049AD9
+trojan://humanity@45.130.125.112:443?allowInsecure=0&fp=firefox&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#[TRJ] SC %F0%9F%87%B8%F0%9F%87%A8 %7C @Raydikalx %7C 0EF0CF
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] ES %F0%9F%87%AA%F0%9F%87%B8 %7C @Raydikalx %7C B55C64
+trojan://humanity@85.31.102.163:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] LV %F0%9F%87%B1%F0%9F%87%BB %7C @Raydikalx %7C 96AC66
+trojan://humanity@5.44.46.142:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C CA7292
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?sni=kr002.zestapp778.com&type=tcp&fp=chrome#[TRJ] KR %F0%9F%87%B0%F0%9F%87%B7 %7C @Raydikalx %7C 10B57A
+trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] HU %F0%9F%87%AD%F0%9F%87%BA %7C @Raydikalx %7C 5C1081
+trojan://humanity@94.158.219.126:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] LV %F0%9F%87%B1%F0%9F%87%BB %7C @Raydikalx %7C 1266E4
+trojan://humanity@195.181.244.216:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] LT %F0%9F%87%B1%F0%9F%87%B9 %7C @Raydikalx %7C 529EF5
+trojan://humanity@185.22.172.249:443?security=tls&type=ws&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org#[TRJ] LV %F0%9F%87%B1%F0%9F%87%BB %7C @Raydikalx %7C E0D30B
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com#[TRJ] KR %F0%9F%87%B0%F0%9F%87%B7 %7C @Raydikalx %7C CFC3AB
+trojan://humanity@46.62.230.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] FI %F0%9F%87%AB%F0%9F%87%AE %7C @Raydikalx %7C 43BB55
+trojan://humanity@46.225.77.98:443?sni=www.pleadcourt.org&type=ws&path=%2Fassignment&fp=unsafe#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C D64EA6
+trojan://humanity@46.62.204.134:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] FI %F0%9F%87%AB%F0%9F%87%AE %7C @Raydikalx %7C 757B46
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?allowInsecure=1&sni=connectwithemployerstohireyouridealteam.com&type=tcp#[TRJ] AU %F0%9F%87%A6%F0%9F%87%BA %7C @Raydikalx %7C 063CD6
+trojan://humanity@185.36.141.81:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#[TRJ] EE %F0%9F%87%AA%F0%9F%87%AA %7C @Raydikalx %7C 3EFF12
+trojan://humanity@185.220.100.168:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 23DF85
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?sni=searchcreativejobsandshowcaseyourartistictalents.com&type=tcp#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C E75317
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com#[TRJ] SG %F0%9F%87%B8%F0%9F%87%AC %7C @Raydikalx %7C D156D8
+trojan://humanity@77.221.138.199:8443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#[TRJ] SE %F0%9F%87%B8%F0%9F%87%AA %7C @Raydikalx %7C 1FE54B
+trojan://gHQP0D7D15@104.25.239.113:2053?path=/&security=tls&insecure=0&type=ws&allowInsecure=0&sni=marvdasht.phonecomparisonblog.org#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C C063BC
+trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?type=tcp&security=tls&fp=chrome&sni=th001.zestapp778.com#[TRJ] TH %F0%9F%87%B9%F0%9F%87%AD %7C @Raydikalx %7C 093A6B
+trojan://humanity@5.78.92.27:8443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 24B30E
+trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?allowInsecure=1&type=tcp#[TRJ] IN %F0%9F%87%AE%F0%9F%87%B3 %7C @Raydikalx %7C 515F34
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] MX %F0%9F%87%B2%F0%9F%87%BD %7C @Raydikalx %7C 7E0FFC
+trojan://humanity@131.196.254.151:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] MX %F0%9F%87%B2%F0%9F%87%BD %7C @Raydikalx %7C ED5239
+trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?type=tcp&security=tls&fp=chrome&sni=in002.zestapp778.com#[TRJ] IN %F0%9F%87%AE%F0%9F%87%B3 %7C @Raydikalx %7C ED0FA3
+trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?allowInsecure=1&sni=in002.zestapp778.com&type=tcp#[TRJ] IN %F0%9F%87%AE%F0%9F%87%B3 %7C @Raydikalx %7C 29B220
+trojan://humanity@5.78.92.27:8443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#[TRJ] US %F0%9F%87%BA%F0%9F%87%B8 %7C @Raydikalx %7C 83F92E
+trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] DE %F0%9F%87%A9%F0%9F%87%AA %7C @Raydikalx %7C 16D660
+trojan://k3hlvcxvbol6p6dh@openai.com:443?path=/---@SGV2RAY---@SGV2RAY/---@SGV2RAY---@SGV2RAY/---@SGV2RAY---@SGV2RAY/--@SGV2RAY---@SGV2RAY/---@SGV2RAY---@SGV2RAY/---@SGV2RAY---@SGV2RAY&security=tls&alpn=http/1.1&insecure=0&host=wenoos.pecasoou.ir&fp=chrome&ech=Nazar.ac.ir+udp://78.157.42.100&type=ws&allowInsecure=0&sni=dl-61sv.pecasoou.ir#[TRJ] CA %F0%9F%87%A8%F0%9F%87%A6 %7C @Raydikalx %7C 22AE23
+trojan://humanity@219.76.13.177:443?path=/assignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C E811F1
+trojan://humanity@219.76.13.177:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#[TRJ] HK %F0%9F%87%AD%F0%9F%87%B0 %7C @Raydikalx %7C 0BFE4A
+trojan://humanity@188.114.97.6:443?path=%2F%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#[TRJ] @prrofile_purple %7C %F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7 %F0%9F%92%9A
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?#[TRJ] @VPsave
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discoverfreshgraduatejobsstartyourprofessionaljourney.com#[TRJ] Channel id: @ConfigV2RayNG %F0%9F%87%BA%F0%9F%87%B8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?allowInsecure=1&sni=courses.iloverussia2026.com#[TRJ] %F0%9F%87%A9%F0%9F%87%AA Join+Telegram:@Farah_VPN %F0%9F%87%A9%F0%9F%87%AA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com#[TRJ] @FarazV2ray
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=courses.iloverussia2026.com#[TRJ] @pass_net%F0%9F%8E%83%F0%9F%95%B8%EF%B8%8F%F0%9F%8E%83%F0%9F%87%A9%F0%9F%87%AA
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com#[TRJ] @FarazV2ray
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.nextjobopportunityandclaimyouridealrole.com#[TRJ] 11375@proxy_online_net
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.nextjobopportunityandclaimyouridealrole.com#[TRJ] @VPsave
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#[TRJ] @ConfigV2RayNG
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=learn.nextjobopportunityandclaimyouridealrole.com#[TRJ] Channel id: @ConfigV2RayNG %F0%9F%87%BA%F0%9F%87%B8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.nextjobopportunityandclaimyouridealrole.com#[TRJ] Channel id: @ConfigV2RayNG %F0%9F%87%BA%F0%9F%87%B8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com#[TRJ] Channel id: @ConfigV2RayNG %F0%9F%87%BA%F0%9F%87%B8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?allowInsecure=1&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com#[TRJ] %F0%9F%87%BA%F0%9F%87%B8 Join+Telegram:@Farah_VPN %F0%9F%87%BA%F0%9F%87%B8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com#[TRJ] Channel id: @ConfigV2RayNG %F0%9F%87%BA%F0%9F%87%B8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#[TRJ] @VPsave
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#[TRJ] @VPsave
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#[TRJ] Telegram%25@VPNConnectd
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com#[TRJ] @ConfigV2RayNG
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com#[TRJ] Channel id: @ConfigV2RayNG %F0%9F%87%A7%F0%9F%87%B7
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com#[TRJ] @ConfigV2RayNG
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com#[TRJ] Channel id: @ConfigV2RayNG %F0%9F%87%B2%F0%9F%87%BD
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?type=tcp&security=tls&fp=chrome&sni=connectwithtopemployersandfindidealjobs.com#[TRJ] @VPsave
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?security=tls&sni=blog.unlockyourfuturefindyourperfectcareer.com&fp=chrome#[TRJ] @VPsave
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.147:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.unlockyourfuturefindyourperfectcareer.com#[TRJ] Channel id: @ConfigV2RayNG %F0%9F%87%BA%F0%9F%87%B8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443/?type=tcp&security=tls&sni=api.nextjobopportunityandclaimyouridealrole.com&allowInsecure=1#[TRJ] %F0%9F%87%BA%F0%9F%87%B8US-%F0%9F%9A%80@VPNine1
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?#[TRJ] %F0%9F%87%BA%F0%9F%87%B8 Join+Telegram:@Farah_VPN %F0%9F%87%BA%F0%9F%87%B8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.106:443?security=tls&insecure=0&headerType=none &fp=chrome&type=tcp&allowInsecure=0&sni=www.findconnectwithemployersandbuildprofessionalnetwork.com#[TRJ] @FarazV2ray
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.114:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.findconnectwithemployersandbuildprofessionalnetwork.com#[TRJ] Channel id: @ConfigV2RayNG %F0%9F%87%BA%F0%9F%87%B8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com#[TRJ] @VPsave
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com#[TRJ] @Nexus_Panell %DA%86%D9%86%D9%84 %D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com#[TRJ] Channel id: @ConfigV2RayNG %F0%9F%87%BA%F0%9F%87%B8
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&sni=learn.discovergreatjobsandadvanceyourcareer.com&type=tcp#[TRJ] @VPsave
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&headerType=none&type=tcp&sni=api.discovergreatjobsandadvanceyourcareer.com#[TRJ] %E2%9C%B0%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB %E2%9E%A0 @v2ray_configs_pools%E2%9C%B0
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com#[TRJ] @V2ray_Alpha%F0%9F%8F%80 7
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discovergreatjobsandadvanceyourcareer.com#[TRJ] @B2Hub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.25:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=cdn.searchnationwidecareerchangehelperandguidancetoday.com#[TRJ] @V2ray_confiig
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?allowInsecure=1&insecure=1&security=tls&sni=www.searchnationwidecareerchangehelperandguidancetoday.com&type=tcp&headerType=none#[TRJ] Channel : @Daily_Configs
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#[TRJ] @V2ray_confiig
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.81:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.searchnationwidecareerchangehelperandguidancetoday.com#[TRJ] Channel id: @ConfigV2RayNG %F0%9F%87%BA%F0%9F%87%B8
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmlxy.m2k699.com:24999?sni=www.itunes.com&allowInsecure=1#[TRJ] @VPsave
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#[TRJ] %F0%9F%87%AF%F0%9F%87%B5 - JP - @FreeOnlineVPN
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&sni=de2.dedushka.top&alpn=http/1.1&type=tcp&headerType=none#[TRJ] %F0%9F%87%A9%F0%9F%87%AAAll%C2%B2 %7C @BigSmoke_Config
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=de9.dedushka.top#[TRJ] @v2ray_phoenix
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de9.dedushka.top#[TRJ] @pass_net%F0%9F%8E%83%F0%9F%95%B8%EF%B8%8F%F0%9F%8E%83
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=de10.dedushka.top#[TRJ] @v2ray_phoenix
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de10.dedushka.top#[TRJ] YFZ 156 @Outline_Vpn
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=de10.dedushka.top#[TRJ] @v2ray_phoenix
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp#[TRJ] @v2ray_phoenix
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=de5.dedushka.top#[TRJ] @v2ray_phoenix
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de6.dedushka.top#[TRJ] @v2ray313 %DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86 %F0%9F%8E%AF
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de6.dedushka.top#[TRJ] @v2ray313 %DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86 %F0%9F%90%A2
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de7.dedushka.top#[TRJ] @v2ray313 %DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86 %F0%9F%98%80
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top&type=tcp&headerType=none#[TRJ] %F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4 %7C @BigSmoke_Config
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=de8.dedushka.top#[TRJ] @v2ray_phoenix
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top#[TRJ] YFZ 124 @Outline_Vpn
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=de9.dedushka.top#[TRJ] @v2ray_phoenix
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de9.dedushka.top#[TRJ] [118614]
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de9.dedushka.top#[TRJ] @pass_net%F0%9F%8E%83%F0%9F%95%B8%EF%B8%8F%F0%9F%8E%83
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top&alpn=http/1.1#[TRJ] %F0%9F%87%B1%F0%9F%87%BB197882 %7C %E2%9A%A1%EF%B8%8FTelegram = t.me/v2ray_configs_pools
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/us-gllc@soskeynets#[TRJ] %F0%9F%87%A8%F0%9F%87%A6139770 %7C %E2%9A%A1%EF%B8%8FTelegram = t.me/SOSkeyNET
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#[TRJ] Telegram:@v2rayng3
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#[TRJ] @leviconfigs%F0%9F%AA%90-27
+trojan://6npGanUwKLm3ojK2QLM79Z3Rjz-z19W6@yandexcdn16.ookcdn.ru:448?security=tls&alpn=h2&authority=yandexcdn16.ookcdn.ru&insecure=0&fp=chrome&type=grpc&serviceName=TrojanGRPC&allowInsecure=0&sni=yandexcdn16.ookcdn.ru#[TRJ] Channel : @Daily_Configs
+trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65#[TRJ] @leviconfigs%F0%9F%AA%90-13
+trojan://8mjHjiRVsOT5@3.10.143.243:16151?allowInsecure=0&sni=appsvs.shop#[TRJ] @Hope_Net-join-us-on-Telegram
+trojan://AA885B42-133C-3828-FB69-E45105C06092@7d0a2gz0-7a0c.aws-agent.net:10115?sni=m.ctrip.com&allowInsecure=1#[TRJ] %F0%9F%87%AD%F0%9F%87%B0203706 %7C %E2%9A%A1%EF%B8%8FTelegram = t.me/SOSkeyNET
+trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#[TRJ] %F0%9F%87%B8%F0%9F%87%AC - SG - @FreeOnlineVPN
+trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN#[TRJ] %F0%9F%87%B8%F0%9F%87%AC - SG - @FreeOnlineVPN
+trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click#[TRJ] TEL;Father_vpn
+trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.215.50:54673?security=none&type=tcp#[TRJ] @SylphNet %7C 2026-07-12 21:36
+trojan://MITIVPN@167.82.76.7:443?path=@bored_vpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33s.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @prrofile_purple %7C %F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7 %F0%9F%92%9A
+trojan://MITIVPN@199.232.78.160:443?path=mehrosaboram&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44s.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @prrofile_purple %7C %F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7 %F0%9F%92%9A
+trojan://MITIVpN@151.101.56.7:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/NLSus---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @Tarkshodeh %F0%9F%87%A8%F0%9F%87%B7
+trojan://MITIVpN@151.101.56.90:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/NLSus---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @Tarkshodeh %F0%9F%87%A8%F0%9F%87%B7
+trojan://MITIVpN@167.82.76.7:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/NLSus---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @Tarkshodeh %F0%9F%87%A8%F0%9F%87%B7
+trojan://MITIVpN@199.232.78.101:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/NLSus---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @Tarkshodeh %F0%9F%87%A8%F0%9F%87%B7
+trojan://MITIVpN@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @V2rayLs %7C Telegram %E2%9C%85%EF%B8%8F
+trojan://MITIVpN@199.232.78.160:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/NLSus---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @Tarkshodeh %F0%9F%87%A8%F0%9F%87%B7
+trojan://MItIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @prrofile_purple %7C %F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7 %F0%9F%92%9A
+trojan://MItIVPN@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @prrofile_purple %7C %F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7 %F0%9F%92%9A
+trojan://Masir_Sefid@37.156.46.29:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70#[TRJ] %E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5 %DA%A9
+trojan://Masir_Sefid@83.228.225.220:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/aRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8#[TRJ] %E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5 %DA%A9%D8%A7%D9%86%D8%A7%D9%84 %D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85 HiByeVPNN@
+trojan://Masir_Sefid@84.234.31.249:443?security=reality&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#[TRJ] @VpnCostumer+%7C+%D8%A8%DB%8C%D8%A7+%D8%AA%D9%88+%D9%88%D8%B5%D9%84+%D8%A8%D8%A7%D8%B4+%F0%9F%92%99
+trojan://MiTIVPN@151.101.56.56:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @Tarkshodeh %F0%9F%87%B3%F0%9F%87%AC
+trojan://MiTIVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @prrofile_purple %7C %F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7 %F0%9F%92%9A
+trojan://MiTIVPN@151.101.56.7:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @Tarkshodeh %F0%9F%87%B3%F0%9F%87%AC
+trojan://MiTIVPN@167.82.76.7:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @Tarkshodeh %F0%9F%87%B3%F0%9F%87%AC
+trojan://MiTIVPN@199.232.78.101:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @Tarkshodeh %F0%9F%87%B3%F0%9F%87%AC
+trojan://MiTIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] bisto4_service
+trojan://MiTIVPN@199.232.78.160:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @Tarkshodeh %F0%9F%87%B3%F0%9F%87%AC
+trojan://MiTIVPN@199.232.78.160:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @Tarkshodeh %F0%9F%87%B3%F0%9F%87%AC
+trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @leviconfigs%F0%9F%AA%90-6
+trojan://MiTiVPN@146.75.57.120:443?host=mitivpn--mitivpn.ac.ir&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&sni=firefox.com&fp=chrome&security=tls&insecure=0&type=ws&alpn=http/1.1&allowInsecure=0&path=/?Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN#[TRJ] @VPsave
+trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] @vmesskhodam
+trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?TELEGRAM------TOOTFFARANGI &security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] @tootffarangi%F0%9F%8D%93-7
+trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] @B2Hub
+trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] Telegram @mtmvpn
+trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] @VPNConnectd
+trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram—V2ray_confiig&security=tls&alpn=http/1.1&insecure=0&host=mitivpn—mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] @V2ray_confiig
+trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] @mehrosaboran
+trojan://MiTiVPN@151.101.36.120:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=1&sni=firefox.com#[TRJ] @pass_net%F0%9F%8E%83%F0%9F%95%B8%EF%B8%8F%F0%9F%8E%83
+trojan://MiTiVPN@151.101.36.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] @meliproxyy
+trojan://MiTiVPN@151.101.36.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/NLSus---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] %F0%9F%87%BA%F0%9F%87%B8US-%F0%9F%9A%80@VPNine1
+trojan://MiTiVPN@151.101.36.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] @mehrosaboran
+trojan://MiTiVPN@151.101.56.101:443?path=@VPsave&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-5.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @VPsave
+trojan://MiTiVPN@151.101.56.255:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @prrofile_purple %7C %F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7 %F0%9F%92%9A
+trojan://MiTiVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @bisto4_service
+trojan://MiTiVPN@151.101.56.7:443?path=@TEHRANARGO&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] @configprxy %F0%9F%A6%8B%F0%9F%8D%81
+trojan://MiTiVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] %F0%9D%90%82%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5: @EXPRESSVPN_420
+trojan://MiTiVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=@mehrosaboran#[TRJ] @configprxy
+trojan://MiTiVPN@151.101.56.9:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#[TRJ] %E2%9C%A8 @NOFiLTERING2 %7C %E2%9D%A4%EF%B8%8F %D9%88%D8%B5%D9%84 %D8%B4%D8%AF%DB%8C %D8%AC%D9%88%DB%8C%D9%86 %D8%B4%D9%88 %7C %E2%9A%A1 %7C %F0%9F%87%A9%F0%9F%87%AA
+trojan://MiTiVPN@167.82.64.120:443?insecure=0&type=ws&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&fp=chrome&security=tls&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&sni=firefox.com&alpn=http/1.1&allowInsecure=0&host=mitivpn--mitivpn.ac.ir#[TRJ] %F0%9F%87%BA%F0%9F%87%B8203676 %7C %E2%9A%A1%EF%B8%8FTelegram = t.me/SOSkeyNET
+trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] @vmesskhodam
+trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] @B2Hub
+trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] Telegram @mtmvpn
+trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] @VPNConnectd
+trojan://MiTiVPN@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram—V2ray_confiig&security=tls&alpn=http/1.1&insecure=0&host=mitivpn—mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#[TRJ] @V2ray_confiig
