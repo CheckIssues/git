@@ -1,0 +1,34 @@
+socks5://139.59.1.14:1080#[SOCKS] [OpenRay] %F0%9F%87%AE%F0%9F%87%B3IN-85
+socks5://123456:123456@8.210.81.24:1080/#[SOCKS] 55%F0%9F%AA%90@oneclickvpnkeys
+socks5://JPjarpW3:ao3W5ZML@168.222.8.4:42000#[SOCKS] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-1627
+socks5://103.126.173.159:1080#[SOCKS] [OpenRay] %F0%9F%87%AE%F0%9F%87%A9ID-364
+socks5://79.98.32.17:1080#[SOCKS] [OpenRay] %F0%9F%87%AC%F0%9F%87%A7GB-247
+socks5://209.97.150.167:1080#[SOCKS] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-1613
+socks5://107.181.112.136:8444#[SOCKS] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-880
+socks5://110.76.144.112:1080#[SOCKS] [OpenRay] %F0%9F%87%AE%F0%9F%87%A9ID-501
+socks5://123.58.219.171:10808#[SOCKS] [OpenRay] %F0%9F%87%AD%F0%9F%87%B0HK-132
+socks5://5.42.127.16:1082#[SOCKS] [OpenRay] %F0%9F%87%B7%F0%9F%87%BARU-76
+socks5://39.106.165.196:1080#[SOCKS] [OpenRay] %F0%9F%87%A8%F0%9F%87%B3CN-25
+socks5://45.13.38.213:1080#[SOCKS] [OpenRay] %F0%9F%87%B7%F0%9F%87%B4RO-16
+socks5://103.119.1.160:5555#[SOCKS] [OpenRay] %F0%9F%87%AD%F0%9F%87%B0HK-142
+socks5://45.141.177.0:1080#[SOCKS] [OpenRay] %F0%9F%87%B8%F0%9F%87%A8SC-16
+socks5://123456:123456@8.209.236.192:1080#[SOCKS] [OpenRay] %F0%9F%87%AF%F0%9F%87%B5JP-16
+socks5://81.168.83.208:1080#[SOCKS] [OpenRay] %F0%9F%87%AC%F0%9F%87%A7GB-101
+socks5://45.74.31.46:4172#[SOCKS] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-620
+socks5://45.74.31.47:5785#[SOCKS] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-382
+socks5://45.74.31.47:7564#[SOCKS] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-1394
+socks5://85.92.153.224:1080#[SOCKS] [OpenRay] %F0%9F%87%B3%F0%9F%87%B1NL-105
+socks5://204.48.29.137:1088/#[SOCKS] %F0%9F%A7%A619@oneclickvpnkeys
+socks5://213.155.29.25:1080#[SOCKS] [OpenRay] %F0%9F%87%BA%F0%9F%87%A6UA-15
+socks5://QyVdo5ks:lcFa8dTH@94.194.165.96:62000#[SOCKS] [OpenRay] %F0%9F%87%AC%F0%9F%87%A7GB-89
+socks5://83.237.52.226:1080#[SOCKS] [OpenRay] %F0%9F%87%B7%F0%9F%87%BARU-275
+socks5://45.74.31.47:4242#[SOCKS] [OpenRay] %F0%9F%87%BA%F0%9F%87%B8US-1005
+socks5://207.246.68.214:1088/#[SOCKS] %F0%9F%A7%A626@oneclickvpnkeys
+socks5://217.118.188.122:1080#[SOCKS] [OpenRay] %F0%9F%87%B7%F0%9F%87%BARU-214
+wireguard://QPXbnIeCTe9hOI48IQ5xtPjpR7irhsoA8V3RFMWWZEA%3D@sevira.helpower.ir:51821?address=10.0.12.239%2F32&reserved=0%2C0%2C0&publickey=Hbv15xWQ43aNkD2DEbvm%2FP9u2gb4tQ8sbJrxfwCNkAM%3D&mtu=1420#[WG] @meliproxyy
+wireguard://0B046wPXJSI8EYhhpsHrwagYyRQxsEY%2BahxMdLb2ZlE%3D@8.6.112.208:2408?wnoise=random&presharedkey=&address=172.16.0.2%2F32&reserved=30%2C239%2C160&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=2-5&wnoisecount=5&mtu=1280#[WG] @freenetvt
+wireguard://kFSADdfs2F4KUn%2FJDiwb2hfSInZpI7OlEB%2BxvwqI51Q%3D@8.6.112.40:7559?wnoise=random&presharedkey=&address=172.16.0.2%2F32&reserved=226%2C254%2C197&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=2-5&wnoisecount=5&mtu=1280#[WG] @Freenetvt
+wireguard://WIBbUQ6ssIADR%2Fy8y1e3QrO%2F0uzHRR9j9gpSLlY%2BkmY%3D@8.6.112.112:1387?wnoise=random&presharedkey=&address=172.16.0.2%2F32&reserved=128%2C27%2C93&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=2-5&wnoisecount=5&mtu=1280#[WG] @freenetvt
+wireguard://eBFgeC2uxmwRHyLFd6oXeS%2FpATNiXhp3yySEn5CGzn4%3D@8.6.112.168:3476?wnoise=random&presharedkey=&address=172.16.0.2%2F32&reserved=49%2C120%2C235&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=2-5&wnoisecount=5&mtu=1280#[WG] @Freenetvt
+wireguard://cD8E8oSmYFrss9WE7Ul5wl%2FXtWcglaHHzgTYxZ%2BpjHM%3D@8.6.112.60:5279?wnoise=random&presharedkey=&address=172.16.0.2%2F32&reserved=23%2C4%2C210&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=2-5&wnoisecount=5&mtu=1280#[WG] @freenetvt
+wireguard://CA5hC3uHZ2z6xjszl8vVVpk9mUiyT%2FQp23HjQIfchFw%3D@8.6.112.148:890?address=172.16.0.2%2F32&presharedkey=&reserved=212%2C58%2C65&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#[WG] Telegram:@v2rayng3
